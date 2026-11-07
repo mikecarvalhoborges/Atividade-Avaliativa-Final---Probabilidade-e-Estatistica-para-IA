@@ -1,0 +1,124 @@
+================================================================================
+GUIA DE ESTUDOS: CONCEITOS DE PROBABILIDADE E ESTATÍSTICA PARA O PROJETO FINAL
+================================================================================
+
+1. POPULAÇÃO E UNIDADE AMOSTRAL
+População é o conjunto completo de todos os elementos que compartilham ao menos
+uma característica em comum que desejamos estudar (no projeto, toda a base).
+Unidade amostral é cada elemento individual que compõe essa população e sobre o
+qual as medições são feitas (ex.: um pedido específico ou um item vendido).
+
+2. PARÂMETRO VS. ESTATÍSTICA (ESTIMADOR)
+Parâmetro é uma medida numérica fixa que descreve uma característica de toda a
+população (ex.: média populacional µ ou proporção populacional p).
+Estatística (ou estimativa) é a medida equivalente calculada apenas a partir dos
+dados da amostra (ex.: média amostral x̄ ou proporção amostral p̂) para estimar o parâmetro.
+
+3. AMOSTRAGEM ALEATÓRIA SIMPLES (AAS)
+Método de seleção em que cada elemento da população tem exatamente a mesma
+probabilidade de ser escolhido, e todas as amostras de tamanho n são equiprováveis.
+Na prática computacional, equivale a um sorteio sem reposição utilizando um
+gerador de números pseudoaleatórios com semente fixa (seed) para reprodutibilidade.
+
+4. DIMENSIONAMENTO AMOSTRAL (TAMANHO DA AMOSTRA - n)
+Cálculo matemático que define quantos indivíduos precisam ser sorteados para
+garantir uma precisão desejada antes de coletar a amostra.
+Depende do nível de confiança (Z), da margem de erro máxima tolerada (e), do
+tamanho da população (N, se finita) e da variabilidade esperada dos dados (p ou σ).
+
+5. VARIÁVEIS QUANTITATIVAS (DISCRETAS E CONTÍNUAS)
+Representam características mensuráveis em escala numérica nas quais operações
+aritméticas fazem sentido. São discretas quando assumem apenas valores inteiros
+contáveis (ex.: número de parcelas, quantidade de itens) e contínuas quando podem
+assumir valores fracionários em um intervalo (ex.: valor do frete, tempo de entrega).
+
+6. VARIÁVEIS QUALITATIVAS (NOMINAIS E ORDINAIS)
+Representam categorias, atributos ou classificações não numéricas de um elemento.
+São nominais quando não existe hierarquia entre as categorias (ex.: estado do
+cliente, forma de pagamento) e ordinais quando há uma ordem natural entre elas
+(ex.: nota de avaliação de 1 a 5 estrelas, porte do vendedor).
+
+7. MEDIDAS DE TENDÊNCIA CENTRAL (MÉDIA E MEDIANA)
+Resumem o centro de uma distribuição numérica. A média aritmética soma todos os
+valores e divide pelo total, sendo muito sensível a valores extremos (outliers).
+A mediana é o valor que divide os dados ordenados exatamente ao meio (50%),
+sendo uma medida robusta quando a distribuição é assimétrica (comum em preços).
+
+8. MEDIDAS DE DISPERSÃO (VARIÂNCIA, DESVIO-PADRÃO E IQR)
+Medem o grau de espalhamento dos dados em torno do centro. O desvio-padrão é a
+raiz quadrada da variância e expressa a dispersão na mesma unidade da variável.
+A amplitude interquartil (IQR = Q3 - Q1) mede a dispersão dos 50% centrais dos
+dados, sendo ideal para acompanhar a mediana em dados com forte assimetria.
+
+9. DISTRIBUIÇÃO AMOSTRAL E VARIABILIDADE AMOSTRAL
+Diferentes amostras sorteadas da mesma população produzem estimativas ligeiramente
+diferentes; a essa flutuação natural dá-se o nome de variabilidade amostral.
+A distribuição amostral é a distribuição de probabilidade de uma estatística
+(como x̄ ou p̂) caso repetíssemos o sorteio de amostras de tamanho n infinitas vezes.
+
+10. TEOREMA CENTRAL DO LIMITE (TCL)
+Garante que, para amostras suficientemente grandes (geralmente n >= 30), a
+distribuição amostral da média (x̄) aproxima-se de uma Distribuição Normal, mesmo
+que a variável original na população seja fortemente assimétrica (como preços em
+e-commerce). É o fundamento que valida o uso dos testes Z e t na prática.
+
+11. ERRO PADRÃO (STANDARD ERROR - SE)
+É o desvio-padrão da distribuição amostral de uma estatística, medindo a precisão
+com que a média (ou proporção) amostral estima o verdadeiro parâmetro populacional.
+Para a média, é dado por s / √n; quanto maior o tamanho da amostra (n), menor é o
+erro padrão e mais próximas as estimativas amostrais ficam do parâmetro real.
+
+12. ESTIMAÇÃO PONTUAL VS. ESTIMAÇÃO INTERVALAR
+A estimação pontual fornece um único número como melhor palpite para o parâmetro
+(ex.: x̄ = R$ 120,00), mas não informa a incerteza associada a esse valor.
+A estimação intervalar constrói uma faixa de valores (Intervalo de Confiança) em
+torno da estimativa pontual, incorporando o erro padrão e a margem de erro.
+
+13. INTERVALO DE CONFIANÇA (IC) E NÍVEL DE CONFIANÇA (1 - α)
+Faixa calculada a partir da amostra na forma: Estimativa Pontual ± Margem de Erro.
+Ter 95% de nível de confiança significa que, se repetíssemos o procedimento de
+amostragem 100 vezes, cerca de 95 dos intervalos construídos conteriam o verdadeiro
+parâmetro populacional (que, neste trabalho, você poderá verificar se caiu dentro!).
+
+14. MARGEM DE ERRO (e)
+Representa o raio do intervalo de confiança, calculado multiplicando o valor
+crítico da distribuição (Z ou t) pelo Erro Padrão da estimativa.
+Expressa o erro máximo esperado entre a estimativa amostral e o parâmetro
+populacional, dado um determinado nível de confiança (ex.: ± 2 pontos percentuais).
+
+15. TESTE DE HIPÓTESES (H0 E H1)
+Procedimento formal para decidir se os dados da amostra fornecem evidência
+suficiente para refutar uma afirmação sobre um parâmetro populacional.
+A Hipótese Nula (H0) representa o status quo ou igualdade (ex.: µ = 100), enquanto
+a Hipótese Alternativa (H1) representa a diferença que buscamos provar (µ ≠, > ou < 100).
+
+16. ERROS DE DECISÃO (TIPO I E TIPO II) E NÍVEL DE SIGNIFICÂNCIA (α)
+Erro Tipo I ocorre quando rejeitamos H0 sendo ela verdadeira (falso positivo); a
+probabilidade máxima tolerada de cometê-lo é o Nível de Significância (α, ex.: 5%).
+Erro Tipo II (β) ocorre quando deixamos de rejeitar H0 sendo ela falsa (falso
+negativo). O poder do teste (1 - β) mede a capacidade de detectar um efeito real.
+
+17. ESTATÍSTICA DE TESTE (Z E t DE STUDENT)
+Valor padronizado que mede a distância entre a estimativa observada na amostra e o
+valor hipotetizado em H0, expressa em unidades de erro padrão.
+Usa-se a estatística Z para testes de proporção (grandes amostras) e a estatística
+t de Student para testes de média quando o desvio-padrão populacional é desconhecido.
+
+18. VALOR-P (P-VALUE)
+Probabilidade de observar uma estatística de teste tão ou mais extrema do que a
+obtida na amostra, assumindo que a Hipótese Nula (H0) seja verdadeira.
+Regra de decisão: se o valor-p for menor ou igual ao nível de significância (α),
+rejeita-se H0 em favor de H1; caso contrário, não há evidência para rejeitar H0.
+
+19. TESTES UNICAUDAL (UNILATERAL) E BICAUDAL (BILATERAL)
+Define a direção da Hipótese Alternativa (H1). O teste é bicaudal quando H1 testa
+apenas se o parâmetro é diferente (≠) do valor de referência, dividindo α nas duas
+caudas. É unicaudal quando H1 especifica uma direção clara: maior que (>) à direita
+ou menor que (<) à esquerda do valor de referência.
+
+20. CONDIÇÕES DE APLICAÇÃO (PRESSUPOSTOS DOS TESTES)
+Requisitos para que os intervalos de confiança e testes de hipóteses sejam válidos.
+Para a média: amostra aleatória e normalidade dos dados OU amostra grande (n >= 30,
+via TCL). Para a proporção: amostra aleatória e número esperado de sucessos e
+fracassos suficiente na amostra (regra prática: n*p >= 10 e n*(1-p) >= 10).
+

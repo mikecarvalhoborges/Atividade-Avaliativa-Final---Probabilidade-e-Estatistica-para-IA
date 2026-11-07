@@ -1,0 +1,10 @@
+﻿variavel_qualitativa,categoria,frequencia_populacao_N,proporcao_populacao_pct,frequencia_amostra_n,proporcao_amostra_pct,diferenca_amostra_vs_pop_pp
+meio_pagamento_principal,Cartão de Crédito,72330,75.49,291,75.98,0.48
+meio_pagamento_principal,Boleto,19048,19.88,83,21.67,1.79
+meio_pagamento_principal,Voucher,2953,3.08,7,1.83,-1.25
+meio_pagamento_principal,Cartão de Débito,1477,1.54,2,0.52,-1.02
+regiao_cliente,Sudeste,65719,68.59,259,67.62,-0.97
+regiao_cliente,Sul,13743,14.34,52,13.58,-0.77
+regiao_cliente,Nordeste,8973,9.37,38,9.92,0.56
+regiao_cliente,Centro-Oeste,5594,5.84,26,6.79,0.95
+regiao_cliente,Norte,1779,1.86,8,2.09,0.23

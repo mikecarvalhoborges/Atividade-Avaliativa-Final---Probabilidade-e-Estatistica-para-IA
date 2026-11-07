@@ -1,0 +1,2299 @@
+﻿conjunto_dados,variavel,ordem_quantil,quantil_teorico_z,quantil_observado,reta_teorica_normal
+População (N = 95.808),valor_total_pago,1,-3.0102,16.96,-136.1
+População (N = 95.808),valor_total_pago,2,-2.6592,19.68,-106.35
+População (N = 95.808),valor_total_pago,3,-2.4823,21.04,-91.36
+População (N = 95.808),valor_total_pago,4,-2.36,22.24,-81.0
+População (N = 95.808),valor_total_pago,5,-2.2652,23.23,-72.97
+População (N = 95.808),valor_total_pago,6,-2.1873,24.35,-66.36
+População (N = 95.808),valor_total_pago,7,-2.1208,25.33,-60.72
+População (N = 95.808),valor_total_pago,8,-2.0625,26.28,-55.78
+População (N = 95.808),valor_total_pago,9,-2.0104,27.0,-51.37
+População (N = 95.808),valor_total_pago,10,-1.9633,27.51,-47.38
+População (N = 95.808),valor_total_pago,11,-1.9202,27.82,-43.73
+População (N = 95.808),valor_total_pago,12,-1.8804,28.41,-40.36
+População (N = 95.808),valor_total_pago,13,-1.8434,29.0,-37.22
+População (N = 95.808),valor_total_pago,14,-1.8087,29.74,-34.28
+População (N = 95.808),valor_total_pago,15,-1.7761,30.13,-31.52
+População (N = 95.808),valor_total_pago,16,-1.7453,30.87,-28.9
+População (N = 95.808),valor_total_pago,17,-1.716,31.38,-26.42
+População (N = 95.808),valor_total_pago,18,-1.6881,31.77,-24.06
+População (N = 95.808),valor_total_pago,19,-1.6615,32.15,-21.81
+População (N = 95.808),valor_total_pago,20,-1.6361,32.43,-19.65
+População (N = 95.808),valor_total_pago,21,-1.6116,32.78,-17.58
+População (N = 95.808),valor_total_pago,22,-1.5881,33.24,-15.58
+População (N = 95.808),valor_total_pago,23,-1.5654,33.78,-13.66
+População (N = 95.808),valor_total_pago,24,-1.5435,34.09,-11.8
+População (N = 95.808),valor_total_pago,25,-1.5223,34.69,-10.01
+População (N = 95.808),valor_total_pago,26,-1.5018,35.0,-8.27
+População (N = 95.808),valor_total_pago,27,-1.4818,35.23,-6.58
+População (N = 95.808),valor_total_pago,28,-1.4625,35.72,-4.94
+População (N = 95.808),valor_total_pago,29,-1.4437,36.0,-3.35
+População (N = 95.808),valor_total_pago,30,-1.4254,36.36,-1.79
+População (N = 95.808),valor_total_pago,31,-1.4075,36.77,-0.28
+População (N = 95.808),valor_total_pago,32,-1.3901,37.09,1.19
+População (N = 95.808),valor_total_pago,33,-1.3731,37.44,2.63
+População (N = 95.808),valor_total_pago,34,-1.3565,37.77,4.04
+População (N = 95.808),valor_total_pago,35,-1.3403,37.99,5.42
+População (N = 95.808),valor_total_pago,36,-1.3244,38.23,6.77
+População (N = 95.808),valor_total_pago,37,-1.3088,38.72,8.08
+População (N = 95.808),valor_total_pago,38,-1.2935,39.09,9.38
+População (N = 95.808),valor_total_pago,39,-1.2786,39.6,10.65
+População (N = 95.808),valor_total_pago,40,-1.2639,40.09,11.89
+População (N = 95.808),valor_total_pago,41,-1.2495,40.36,13.11
+População (N = 95.808),valor_total_pago,42,-1.2353,40.85,14.31
+População (N = 95.808),valor_total_pago,43,-1.2214,41.27,15.49
+População (N = 95.808),valor_total_pago,44,-1.2077,41.79,16.65
+População (N = 95.808),valor_total_pago,45,-1.1943,42.15,17.79
+População (N = 95.808),valor_total_pago,46,-1.181,42.58,18.91
+População (N = 95.808),valor_total_pago,47,-1.168,42.78,20.02
+População (N = 95.808),valor_total_pago,48,-1.1551,43.1,21.11
+População (N = 95.808),valor_total_pago,49,-1.1425,43.53,22.18
+População (N = 95.808),valor_total_pago,50,-1.13,44.0,23.24
+População (N = 95.808),valor_total_pago,51,-1.1177,44.23,24.28
+População (N = 95.808),valor_total_pago,52,-1.1055,44.59,25.31
+População (N = 95.808),valor_total_pago,53,-1.0936,45.01,26.33
+População (N = 95.808),valor_total_pago,54,-1.0817,45.22,27.33
+População (N = 95.808),valor_total_pago,55,-1.0701,45.69,28.32
+População (N = 95.808),valor_total_pago,56,-1.0585,46.01,29.29
+População (N = 95.808),valor_total_pago,57,-1.0471,46.42,30.26
+População (N = 95.808),valor_total_pago,58,-1.0359,46.84,31.21
+População (N = 95.808),valor_total_pago,59,-1.0247,47.27,32.16
+População (N = 95.808),valor_total_pago,60,-1.0137,47.61,33.09
+População (N = 95.808),valor_total_pago,61,-1.0029,47.84,34.01
+População (N = 95.808),valor_total_pago,62,-0.9921,48.22,34.92
+População (N = 95.808),valor_total_pago,63,-0.9815,48.62,35.83
+População (N = 95.808),valor_total_pago,64,-0.9709,49.03,36.72
+População (N = 95.808),valor_total_pago,65,-0.9605,49.42,37.6
+População (N = 95.808),valor_total_pago,66,-0.9501,50.0,38.48
+População (N = 95.808),valor_total_pago,67,-0.9399,50.3,39.35
+População (N = 95.808),valor_total_pago,68,-0.9298,50.86,40.2
+População (N = 95.808),valor_total_pago,69,-0.9198,51.15,41.06
+População (N = 95.808),valor_total_pago,70,-0.9098,51.7,41.9
+População (N = 95.808),valor_total_pago,71,-0.9,52.05,42.73
+População (N = 95.808),valor_total_pago,72,-0.8902,52.5,43.56
+População (N = 95.808),valor_total_pago,73,-0.8805,52.84,44.38
+População (N = 95.808),valor_total_pago,74,-0.8709,53.23,45.2
+População (N = 95.808),valor_total_pago,75,-0.8614,53.68,46.0
+População (N = 95.808),valor_total_pago,76,-0.8519,54.0,46.8
+População (N = 95.808),valor_total_pago,77,-0.8426,54.32,47.6
+População (N = 95.808),valor_total_pago,78,-0.8333,54.79,48.39
+População (N = 95.808),valor_total_pago,79,-0.824,55.09,49.17
+População (N = 95.808),valor_total_pago,80,-0.8149,55.36,49.94
+População (N = 95.808),valor_total_pago,81,-0.8058,55.88,50.71
+População (N = 95.808),valor_total_pago,82,-0.7968,56.39,51.48
+População (N = 95.808),valor_total_pago,83,-0.7878,56.78,52.24
+População (N = 95.808),valor_total_pago,84,-0.7789,57.0,52.99
+População (N = 95.808),valor_total_pago,85,-0.7701,57.43,53.74
+População (N = 95.808),valor_total_pago,86,-0.7613,57.68,54.48
+População (N = 95.808),valor_total_pago,87,-0.7526,57.99,55.22
+População (N = 95.808),valor_total_pago,88,-0.7439,58.28,55.96
+População (N = 95.808),valor_total_pago,89,-0.7353,58.69,56.68
+População (N = 95.808),valor_total_pago,90,-0.7268,59.1,57.41
+População (N = 95.808),valor_total_pago,91,-0.7183,59.6,58.13
+População (N = 95.808),valor_total_pago,92,-0.7098,60.09,58.84
+População (N = 95.808),valor_total_pago,93,-0.7014,60.6,59.56
+População (N = 95.808),valor_total_pago,94,-0.6931,61.01,60.26
+População (N = 95.808),valor_total_pago,95,-0.6848,61.4,60.97
+População (N = 95.808),valor_total_pago,96,-0.6765,61.78,61.67
+População (N = 95.808),valor_total_pago,97,-0.6683,62.11,62.36
+População (N = 95.808),valor_total_pago,98,-0.6602,62.52,63.05
+População (N = 95.808),valor_total_pago,99,-0.6521,62.83,63.74
+População (N = 95.808),valor_total_pago,100,-0.644,63.13,64.42
+População (N = 95.808),valor_total_pago,101,-0.636,63.48,65.11
+População (N = 95.808),valor_total_pago,102,-0.628,63.9,65.78
+População (N = 95.808),valor_total_pago,103,-0.62,64.1,66.46
+População (N = 95.808),valor_total_pago,104,-0.6121,64.4,67.13
+População (N = 95.808),valor_total_pago,105,-0.6042,64.87,67.79
+População (N = 95.808),valor_total_pago,106,-0.5964,65.09,68.46
+População (N = 95.808),valor_total_pago,107,-0.5886,65.46,69.12
+População (N = 95.808),valor_total_pago,108,-0.5808,65.78,69.78
+População (N = 95.808),valor_total_pago,109,-0.5731,66.15,70.43
+População (N = 95.808),valor_total_pago,110,-0.5654,66.67,71.08
+População (N = 95.808),valor_total_pago,111,-0.5577,66.92,71.73
+População (N = 95.808),valor_total_pago,112,-0.5501,67.36,72.38
+População (N = 95.808),valor_total_pago,113,-0.5425,67.58,73.02
+População (N = 95.808),valor_total_pago,114,-0.5349,68.02,73.67
+População (N = 95.808),valor_total_pago,115,-0.5274,68.32,74.3
+População (N = 95.808),valor_total_pago,116,-0.5199,68.71,74.94
+População (N = 95.808),valor_total_pago,117,-0.5124,69.12,75.57
+População (N = 95.808),valor_total_pago,118,-0.505,69.5,76.21
+População (N = 95.808),valor_total_pago,119,-0.4976,69.9,76.83
+População (N = 95.808),valor_total_pago,120,-0.4902,70.28,77.46
+População (N = 95.808),valor_total_pago,121,-0.4828,70.83,78.09
+População (N = 95.808),valor_total_pago,122,-0.4755,71.14,78.71
+População (N = 95.808),valor_total_pago,123,-0.4681,71.63,79.33
+População (N = 95.808),valor_total_pago,124,-0.4608,72.07,79.95
+População (N = 95.808),valor_total_pago,125,-0.4536,72.43,80.56
+População (N = 95.808),valor_total_pago,126,-0.4463,72.78,81.17
+População (N = 95.808),valor_total_pago,127,-0.4391,73.15,81.79
+População (N = 95.808),valor_total_pago,128,-0.4319,73.34,82.4
+População (N = 95.808),valor_total_pago,129,-0.4248,73.78,83.0
+População (N = 95.808),valor_total_pago,130,-0.4176,74.17,83.61
+População (N = 95.808),valor_total_pago,131,-0.4105,74.7,84.21
+População (N = 95.808),valor_total_pago,132,-0.4034,75.14,84.82
+População (N = 95.808),valor_total_pago,133,-0.3963,75.53,85.42
+População (N = 95.808),valor_total_pago,134,-0.3892,76.04,86.02
+População (N = 95.808),valor_total_pago,135,-0.3822,76.36,86.61
+População (N = 95.808),valor_total_pago,136,-0.3751,76.76,87.21
+População (N = 95.808),valor_total_pago,137,-0.3681,77.12,87.8
+População (N = 95.808),valor_total_pago,138,-0.3611,77.57,88.4
+População (N = 95.808),valor_total_pago,139,-0.3541,77.67,88.99
+População (N = 95.808),valor_total_pago,140,-0.3472,78.18,89.58
+População (N = 95.808),valor_total_pago,141,-0.3402,78.65,90.17
+População (N = 95.808),valor_total_pago,142,-0.3333,79.24,90.75
+População (N = 95.808),valor_total_pago,143,-0.3264,79.72,91.34
+População (N = 95.808),valor_total_pago,144,-0.3195,80.35,91.92
+População (N = 95.808),valor_total_pago,145,-0.3126,81.11,92.51
+População (N = 95.808),valor_total_pago,146,-0.3058,81.72,93.09
+População (N = 95.808),valor_total_pago,147,-0.2989,82.23,93.67
+População (N = 95.808),valor_total_pago,148,-0.2921,82.7,94.25
+População (N = 95.808),valor_total_pago,149,-0.2852,83.07,94.83
+População (N = 95.808),valor_total_pago,150,-0.2784,83.48,95.4
+População (N = 95.808),valor_total_pago,151,-0.2716,84.05,95.98
+População (N = 95.808),valor_total_pago,152,-0.2649,84.46,96.55
+População (N = 95.808),valor_total_pago,153,-0.2581,85.05,97.13
+População (N = 95.808),valor_total_pago,154,-0.2513,85.37,97.7
+População (N = 95.808),valor_total_pago,155,-0.2446,85.82,98.27
+População (N = 95.808),valor_total_pago,156,-0.2378,86.18,98.84
+População (N = 95.808),valor_total_pago,157,-0.2311,86.73,99.41
+População (N = 95.808),valor_total_pago,158,-0.2244,87.26,99.98
+População (N = 95.808),valor_total_pago,159,-0.2177,87.64,100.55
+População (N = 95.808),valor_total_pago,160,-0.211,87.91,101.12
+População (N = 95.808),valor_total_pago,161,-0.2043,88.37,101.69
+População (N = 95.808),valor_total_pago,162,-0.1976,88.88,102.25
+População (N = 95.808),valor_total_pago,163,-0.191,89.36,102.82
+População (N = 95.808),valor_total_pago,164,-0.1843,89.91,103.38
+População (N = 95.808),valor_total_pago,165,-0.1776,90.6,103.95
+População (N = 95.808),valor_total_pago,166,-0.171,91.08,104.51
+População (N = 95.808),valor_total_pago,167,-0.1644,91.66,105.07
+População (N = 95.808),valor_total_pago,168,-0.1577,92.3,105.63
+População (N = 95.808),valor_total_pago,169,-0.1511,92.79,106.19
+População (N = 95.808),valor_total_pago,170,-0.1445,93.28,106.76
+População (N = 95.808),valor_total_pago,171,-0.1379,93.8,107.32
+População (N = 95.808),valor_total_pago,172,-0.1313,94.36,107.88
+População (N = 95.808),valor_total_pago,173,-0.1247,94.91,108.43
+População (N = 95.808),valor_total_pago,174,-0.1181,95.37,108.99
+População (N = 95.808),valor_total_pago,175,-0.1115,96.06,109.55
+População (N = 95.808),valor_total_pago,176,-0.1049,96.65,110.11
+População (N = 95.808),valor_total_pago,177,-0.0983,96.99,110.67
+População (N = 95.808),valor_total_pago,178,-0.0918,97.66,111.22
+População (N = 95.808),valor_total_pago,179,-0.0852,98.09,111.78
+População (N = 95.808),valor_total_pago,180,-0.0786,98.56,112.34
+População (N = 95.808),valor_total_pago,181,-0.0721,99.2,112.89
+População (N = 95.808),valor_total_pago,182,-0.0655,99.65,113.45
+População (N = 95.808),valor_total_pago,183,-0.0589,100.04,114.01
+População (N = 95.808),valor_total_pago,184,-0.0524,100.67,114.56
+População (N = 95.808),valor_total_pago,185,-0.0458,101.27,115.12
+População (N = 95.808),valor_total_pago,186,-0.0393,101.93,115.67
+População (N = 95.808),valor_total_pago,187,-0.0327,102.35,116.23
+População (N = 95.808),valor_total_pago,188,-0.0262,102.87,116.78
+População (N = 95.808),valor_total_pago,189,-0.0196,103.37,117.34
+População (N = 95.808),valor_total_pago,190,-0.0131,103.93,117.89
+População (N = 95.808),valor_total_pago,191,-0.0065,104.61,118.45
+População (N = 95.808),valor_total_pago,192,-0.0,105.28,119.0
+População (N = 95.808),valor_total_pago,193,0.0065,105.57,119.55
+População (N = 95.808),valor_total_pago,194,0.0131,106.17,120.11
+População (N = 95.808),valor_total_pago,195,0.0196,106.76,120.66
+População (N = 95.808),valor_total_pago,196,0.0262,107.06,121.22
+População (N = 95.808),valor_total_pago,197,0.0327,107.78,121.77
+População (N = 95.808),valor_total_pago,198,0.0393,108.06,122.33
+População (N = 95.808),valor_total_pago,199,0.0458,108.61,122.88
+População (N = 95.808),valor_total_pago,200,0.0524,109.35,123.44
+População (N = 95.808),valor_total_pago,201,0.0589,110.0,123.99
+População (N = 95.808),valor_total_pago,202,0.0655,110.86,124.55
+População (N = 95.808),valor_total_pago,203,0.0721,111.58,125.11
+População (N = 95.808),valor_total_pago,204,0.0786,112.09,125.66
+População (N = 95.808),valor_total_pago,205,0.0852,112.71,126.22
+População (N = 95.808),valor_total_pago,206,0.0918,113.18,126.78
+População (N = 95.808),valor_total_pago,207,0.0983,113.71,127.33
+População (N = 95.808),valor_total_pago,208,0.1049,114.35,127.89
+População (N = 95.808),valor_total_pago,209,0.1115,114.8,128.45
+População (N = 95.808),valor_total_pago,210,0.1181,115.37,129.01
+População (N = 95.808),valor_total_pago,211,0.1247,116.04,129.57
+População (N = 95.808),valor_total_pago,212,0.1313,116.48,130.12
+População (N = 95.808),valor_total_pago,213,0.1379,116.94,130.68
+População (N = 95.808),valor_total_pago,214,0.1445,117.43,131.24
+População (N = 95.808),valor_total_pago,215,0.1511,117.88,131.81
+População (N = 95.808),valor_total_pago,216,0.1577,118.34,132.37
+População (N = 95.808),valor_total_pago,217,0.1644,118.93,132.93
+População (N = 95.808),valor_total_pago,218,0.171,119.54,133.49
+População (N = 95.808),valor_total_pago,219,0.1776,120.18,134.05
+População (N = 95.808),valor_total_pago,220,0.1843,121.09,134.62
+População (N = 95.808),valor_total_pago,221,0.191,121.96,135.18
+População (N = 95.808),valor_total_pago,222,0.1976,122.73,135.75
+População (N = 95.808),valor_total_pago,223,0.2043,123.4,136.31
+População (N = 95.808),valor_total_pago,224,0.211,124.01,136.88
+População (N = 95.808),valor_total_pago,225,0.2177,124.7,137.45
+População (N = 95.808),valor_total_pago,226,0.2244,125.42,138.02
+População (N = 95.808),valor_total_pago,227,0.2311,126.12,138.59
+População (N = 95.808),valor_total_pago,228,0.2378,126.72,139.16
+População (N = 95.808),valor_total_pago,229,0.2446,127.43,139.73
+População (N = 95.808),valor_total_pago,230,0.2513,128.13,140.3
+População (N = 95.808),valor_total_pago,231,0.2581,128.83,140.87
+População (N = 95.808),valor_total_pago,232,0.2649,129.53,141.45
+População (N = 95.808),valor_total_pago,233,0.2716,130.26,142.02
+População (N = 95.808),valor_total_pago,234,0.2784,131.33,142.6
+População (N = 95.808),valor_total_pago,235,0.2852,132.04,143.17
+População (N = 95.808),valor_total_pago,236,0.2921,132.88,143.75
+População (N = 95.808),valor_total_pago,237,0.2989,133.46,144.33
+População (N = 95.808),valor_total_pago,238,0.3058,134.05,144.91
+População (N = 95.808),valor_total_pago,239,0.3126,134.83,145.49
+População (N = 95.808),valor_total_pago,240,0.3195,135.51,146.08
+População (N = 95.808),valor_total_pago,241,0.3264,136.27,146.66
+População (N = 95.808),valor_total_pago,242,0.3333,136.98,147.25
+População (N = 95.808),valor_total_pago,243,0.3402,137.6,147.83
+População (N = 95.808),valor_total_pago,244,0.3472,138.12,148.42
+População (N = 95.808),valor_total_pago,245,0.3541,138.68,149.01
+População (N = 95.808),valor_total_pago,246,0.3611,139.22,149.6
+População (N = 95.808),valor_total_pago,247,0.3681,140.0,150.2
+População (N = 95.808),valor_total_pago,248,0.3751,141.04,150.79
+População (N = 95.808),valor_total_pago,249,0.3822,141.91,151.39
+População (N = 95.808),valor_total_pago,250,0.3892,142.69,151.98
+População (N = 95.808),valor_total_pago,251,0.3963,143.45,152.58
+População (N = 95.808),valor_total_pago,252,0.4034,144.21,153.18
+População (N = 95.808),valor_total_pago,253,0.4105,144.91,153.79
+População (N = 95.808),valor_total_pago,254,0.4176,145.86,154.39
+População (N = 95.808),valor_total_pago,255,0.4248,146.68,155.0
+População (N = 95.808),valor_total_pago,256,0.4319,147.28,155.6
+População (N = 95.808),valor_total_pago,257,0.4391,148.06,156.21
+População (N = 95.808),valor_total_pago,258,0.4463,148.65,156.83
+População (N = 95.808),valor_total_pago,259,0.4536,149.57,157.44
+População (N = 95.808),valor_total_pago,260,0.4608,150.44,158.05
+População (N = 95.808),valor_total_pago,261,0.4681,151.6,158.67
+População (N = 95.808),valor_total_pago,262,0.4755,152.57,159.29
+População (N = 95.808),valor_total_pago,263,0.4828,153.31,159.91
+População (N = 95.808),valor_total_pago,264,0.4902,154.29,160.54
+População (N = 95.808),valor_total_pago,265,0.4976,155.14,161.17
+População (N = 95.808),valor_total_pago,266,0.505,156.06,161.79
+População (N = 95.808),valor_total_pago,267,0.5124,157.13,162.43
+População (N = 95.808),valor_total_pago,268,0.5199,157.78,163.06
+População (N = 95.808),valor_total_pago,269,0.5274,158.69,163.7
+População (N = 95.808),valor_total_pago,270,0.5349,159.47,164.33
+População (N = 95.808),valor_total_pago,271,0.5425,160.51,164.98
+População (N = 95.808),valor_total_pago,272,0.5501,161.63,165.62
+População (N = 95.808),valor_total_pago,273,0.5577,162.48,166.27
+População (N = 95.808),valor_total_pago,274,0.5654,163.22,166.92
+População (N = 95.808),valor_total_pago,275,0.5731,163.81,167.57
+População (N = 95.808),valor_total_pago,276,0.5808,164.66,168.22
+População (N = 95.808),valor_total_pago,277,0.5886,165.6,168.88
+População (N = 95.808),valor_total_pago,278,0.5964,166.4,169.54
+População (N = 95.808),valor_total_pago,279,0.6042,167.32,170.21
+População (N = 95.808),valor_total_pago,280,0.6121,168.2,170.87
+População (N = 95.808),valor_total_pago,281,0.62,169.04,171.54
+População (N = 95.808),valor_total_pago,282,0.628,170.08,172.22
+População (N = 95.808),valor_total_pago,283,0.636,171.29,172.89
+População (N = 95.808),valor_total_pago,284,0.644,172.4,173.58
+População (N = 95.808),valor_total_pago,285,0.6521,173.53,174.26
+População (N = 95.808),valor_total_pago,286,0.6602,174.29,174.95
+População (N = 95.808),valor_total_pago,287,0.6683,175.45,175.64
+População (N = 95.808),valor_total_pago,288,0.6765,176.39,176.33
+População (N = 95.808),valor_total_pago,289,0.6848,177.49,177.03
+População (N = 95.808),valor_total_pago,290,0.6931,178.54,177.74
+População (N = 95.808),valor_total_pago,291,0.7014,179.99,178.44
+População (N = 95.808),valor_total_pago,292,0.7098,181.55,179.16
+População (N = 95.808),valor_total_pago,293,0.7183,182.9,179.87
+População (N = 95.808),valor_total_pago,294,0.7268,184.28,180.59
+População (N = 95.808),valor_total_pago,295,0.7353,185.84,181.32
+População (N = 95.808),valor_total_pago,296,0.7439,186.88,182.04
+População (N = 95.808),valor_total_pago,297,0.7526,188.06,182.78
+População (N = 95.808),valor_total_pago,298,0.7613,189.08,183.52
+População (N = 95.808),valor_total_pago,299,0.7701,190.37,184.26
+População (N = 95.808),valor_total_pago,300,0.7789,192.03,185.01
+População (N = 95.808),valor_total_pago,301,0.7878,193.38,185.76
+População (N = 95.808),valor_total_pago,302,0.7968,194.48,186.52
+População (N = 95.808),valor_total_pago,303,0.8058,195.7,187.29
+População (N = 95.808),valor_total_pago,304,0.8149,197.02,188.06
+População (N = 95.808),valor_total_pago,305,0.824,198.47,188.83
+População (N = 95.808),valor_total_pago,306,0.8333,199.83,189.61
+População (N = 95.808),valor_total_pago,307,0.8426,201.78,190.4
+População (N = 95.808),valor_total_pago,308,0.8519,203.39,191.2
+População (N = 95.808),valor_total_pago,309,0.8614,204.97,192.0
+População (N = 95.808),valor_total_pago,310,0.8709,206.68,192.8
+População (N = 95.808),valor_total_pago,311,0.8805,208.02,193.62
+População (N = 95.808),valor_total_pago,312,0.8902,209.46,194.44
+População (N = 95.808),valor_total_pago,313,0.9,211.53,195.27
+População (N = 95.808),valor_total_pago,314,0.9098,213.19,196.1
+População (N = 95.808),valor_total_pago,315,0.9198,214.71,196.94
+População (N = 95.808),valor_total_pago,316,0.9298,216.15,197.8
+População (N = 95.808),valor_total_pago,317,0.9399,217.72,198.65
+População (N = 95.808),valor_total_pago,318,0.9501,219.18,199.52
+População (N = 95.808),valor_total_pago,319,0.9605,220.88,200.4
+População (N = 95.808),valor_total_pago,320,0.9709,223.14,201.28
+População (N = 95.808),valor_total_pago,321,0.9815,225.04,202.17
+População (N = 95.808),valor_total_pago,322,0.9921,227.16,203.08
+População (N = 95.808),valor_total_pago,323,1.0029,229.14,203.99
+População (N = 95.808),valor_total_pago,324,1.0137,231.57,204.91
+População (N = 95.808),valor_total_pago,325,1.0247,234.01,205.84
+População (N = 95.808),valor_total_pago,326,1.0359,236.29,206.79
+População (N = 95.808),valor_total_pago,327,1.0471,238.19,207.74
+População (N = 95.808),valor_total_pago,328,1.0585,240.83,208.71
+População (N = 95.808),valor_total_pago,329,1.0701,243.57,209.68
+População (N = 95.808),valor_total_pago,330,1.0817,246.36,210.67
+População (N = 95.808),valor_total_pago,331,1.0936,249.05,211.67
+População (N = 95.808),valor_total_pago,332,1.1055,252.09,212.69
+População (N = 95.808),valor_total_pago,333,1.1177,255.37,213.72
+População (N = 95.808),valor_total_pago,334,1.13,258.33,214.76
+População (N = 95.808),valor_total_pago,335,1.1425,261.92,215.82
+População (N = 95.808),valor_total_pago,336,1.1551,265.31,216.89
+População (N = 95.808),valor_total_pago,337,1.168,268.13,217.98
+População (N = 95.808),valor_total_pago,338,1.181,272.3,219.09
+População (N = 95.808),valor_total_pago,339,1.1943,276.47,220.21
+População (N = 95.808),valor_total_pago,340,1.2077,280.14,221.35
+População (N = 95.808),valor_total_pago,341,1.2214,284.83,222.51
+População (N = 95.808),valor_total_pago,342,1.2353,288.76,223.69
+População (N = 95.808),valor_total_pago,343,1.2495,294.14,224.89
+População (N = 95.808),valor_total_pago,344,1.2639,298.58,226.11
+População (N = 95.808),valor_total_pago,345,1.2786,304.55,227.35
+População (N = 95.808),valor_total_pago,346,1.2935,309.28,228.62
+População (N = 95.808),valor_total_pago,347,1.3088,313.53,229.92
+População (N = 95.808),valor_total_pago,348,1.3244,317.43,231.23
+População (N = 95.808),valor_total_pago,349,1.3403,321.51,232.58
+População (N = 95.808),valor_total_pago,350,1.3565,326.94,233.96
+População (N = 95.808),valor_total_pago,351,1.3731,333.45,235.37
+População (N = 95.808),valor_total_pago,352,1.3901,339.03,236.81
+População (N = 95.808),valor_total_pago,353,1.4075,344.61,238.28
+População (N = 95.808),valor_total_pago,354,1.4254,350.98,239.79
+População (N = 95.808),valor_total_pago,355,1.4437,357.82,241.35
+População (N = 95.808),valor_total_pago,356,1.4625,364.99,242.94
+População (N = 95.808),valor_total_pago,357,1.4818,370.23,244.58
+População (N = 95.808),valor_total_pago,358,1.5018,377.98,246.27
+População (N = 95.808),valor_total_pago,359,1.5223,386.33,248.01
+População (N = 95.808),valor_total_pago,360,1.5435,396.26,249.8
+População (N = 95.808),valor_total_pago,361,1.5654,406.67,251.66
+População (N = 95.808),valor_total_pago,362,1.5881,416.04,253.58
+População (N = 95.808),valor_total_pago,363,1.6116,425.85,255.58
+População (N = 95.808),valor_total_pago,364,1.6361,439.76,257.65
+População (N = 95.808),valor_total_pago,365,1.6615,455.7,259.81
+População (N = 95.808),valor_total_pago,366,1.6881,471.16,262.06
+População (N = 95.808),valor_total_pago,367,1.716,490.45,264.42
+População (N = 95.808),valor_total_pago,368,1.7453,514.31,266.9
+População (N = 95.808),valor_total_pago,369,1.7761,535.93,269.52
+População (N = 95.808),valor_total_pago,370,1.8087,560.24,272.28
+População (N = 95.808),valor_total_pago,371,1.8434,591.59,275.22
+População (N = 95.808),valor_total_pago,372,1.8804,616.6,278.36
+População (N = 95.808),valor_total_pago,373,1.9202,641.72,281.73
+População (N = 95.808),valor_total_pago,374,1.9633,675.01,285.38
+População (N = 95.808),valor_total_pago,375,2.0104,717.76,289.37
+População (N = 95.808),valor_total_pago,376,2.0625,765.84,293.78
+População (N = 95.808),valor_total_pago,377,2.1208,822.18,298.72
+População (N = 95.808),valor_total_pago,378,2.1873,883.34,304.36
+População (N = 95.808),valor_total_pago,379,2.2652,979.45,310.97
+População (N = 95.808),valor_total_pago,380,2.36,1101.51,319.0
+População (N = 95.808),valor_total_pago,381,2.4823,1289.31,329.36
+População (N = 95.808),valor_total_pago,382,2.6592,1561.26,344.35
+População (N = 95.808),valor_total_pago,383,3.0102,2158.33,374.1
+População (N = 95.808),valor_total_frete,1,-3.0102,0.0,-3.73
+População (N = 95.808),valor_total_frete,2,-2.6592,7.39,-1.09
+População (N = 95.808),valor_total_frete,3,-2.4823,7.39,0.24
+População (N = 95.808),valor_total_frete,4,-2.36,7.39,1.16
+População (N = 95.808),valor_total_frete,5,-2.2652,7.39,1.87
+População (N = 95.808),valor_total_frete,6,-2.1873,7.39,2.46
+População (N = 95.808),valor_total_frete,7,-2.1208,7.43,2.96
+População (N = 95.808),valor_total_frete,8,-2.0625,7.49,3.4
+População (N = 95.808),valor_total_frete,9,-2.0104,7.6,3.79
+População (N = 95.808),valor_total_frete,10,-1.9633,7.71,4.14
+População (N = 95.808),valor_total_frete,11,-1.9202,7.78,4.47
+População (N = 95.808),valor_total_frete,12,-1.8804,7.78,4.77
+População (N = 95.808),valor_total_frete,13,-1.8434,7.78,5.05
+População (N = 95.808),valor_total_frete,14,-1.8087,7.78,5.31
+População (N = 95.808),valor_total_frete,15,-1.7761,7.78,5.55
+População (N = 95.808),valor_total_frete,16,-1.7453,7.78,5.78
+População (N = 95.808),valor_total_frete,17,-1.716,7.78,6.0
+População (N = 95.808),valor_total_frete,18,-1.6881,7.8,6.21
+População (N = 95.808),valor_total_frete,19,-1.6615,7.87,6.41
+População (N = 95.808),valor_total_frete,20,-1.6361,7.9,6.6
+População (N = 95.808),valor_total_frete,21,-1.6116,8.0,6.79
+População (N = 95.808),valor_total_frete,22,-1.5881,8.11,6.97
+População (N = 95.808),valor_total_frete,23,-1.5654,8.27,7.14
+População (N = 95.808),valor_total_frete,24,-1.5435,8.29,7.3
+População (N = 95.808),valor_total_frete,25,-1.5223,8.29,7.46
+População (N = 95.808),valor_total_frete,26,-1.5018,8.37,7.62
+População (N = 95.808),valor_total_frete,27,-1.4818,8.53,7.77
+População (N = 95.808),valor_total_frete,28,-1.4625,8.71,7.91
+População (N = 95.808),valor_total_frete,29,-1.4437,8.72,8.05
+População (N = 95.808),valor_total_frete,30,-1.4254,8.72,8.19
+População (N = 95.808),valor_total_frete,31,-1.4075,8.73,8.32
+População (N = 95.808),valor_total_frete,32,-1.3901,8.86,8.46
+População (N = 95.808),valor_total_frete,33,-1.3731,8.88,8.58
+População (N = 95.808),valor_total_frete,34,-1.3565,8.97,8.71
+População (N = 95.808),valor_total_frete,35,-1.3403,9.09,8.83
+População (N = 95.808),valor_total_frete,36,-1.3244,9.17,8.95
+População (N = 95.808),valor_total_frete,37,-1.3088,9.27,9.07
+População (N = 95.808),valor_total_frete,38,-1.2935,9.34,9.18
+População (N = 95.808),valor_total_frete,39,-1.2786,9.34,9.29
+População (N = 95.808),valor_total_frete,40,-1.2639,9.38,9.41
+População (N = 95.808),valor_total_frete,41,-1.2495,9.44,9.51
+População (N = 95.808),valor_total_frete,42,-1.2353,9.58,9.62
+População (N = 95.808),valor_total_frete,43,-1.2214,9.74,9.72
+População (N = 95.808),valor_total_frete,44,-1.2077,9.94,9.83
+População (N = 95.808),valor_total_frete,45,-1.1943,10.1,9.93
+População (N = 95.808),valor_total_frete,46,-1.181,10.5,10.03
+População (N = 95.808),valor_total_frete,47,-1.168,10.96,10.13
+População (N = 95.808),valor_total_frete,48,-1.1551,10.96,10.22
+População (N = 95.808),valor_total_frete,49,-1.1425,10.99,10.32
+População (N = 95.808),valor_total_frete,50,-1.13,11.15,10.41
+População (N = 95.808),valor_total_frete,51,-1.1177,11.32,10.51
+População (N = 95.808),valor_total_frete,52,-1.1055,11.6,10.6
+População (N = 95.808),valor_total_frete,53,-1.0936,11.73,10.69
+População (N = 95.808),valor_total_frete,54,-1.0817,11.74,10.78
+População (N = 95.808),valor_total_frete,55,-1.0701,11.83,10.86
+População (N = 95.808),valor_total_frete,56,-1.0585,11.85,10.95
+População (N = 95.808),valor_total_frete,57,-1.0471,11.85,11.04
+População (N = 95.808),valor_total_frete,58,-1.0359,11.85,11.12
+População (N = 95.808),valor_total_frete,59,-1.0247,11.85,11.2
+População (N = 95.808),valor_total_frete,60,-1.0137,11.85,11.29
+População (N = 95.808),valor_total_frete,61,-1.0029,11.86,11.37
+População (N = 95.808),valor_total_frete,62,-0.9921,11.9,11.45
+População (N = 95.808),valor_total_frete,63,-0.9815,11.98,11.53
+População (N = 95.808),valor_total_frete,64,-0.9709,12.06,11.61
+População (N = 95.808),valor_total_frete,65,-0.9605,12.14,11.69
+População (N = 95.808),valor_total_frete,66,-0.9501,12.25,11.77
+População (N = 95.808),valor_total_frete,67,-0.9399,12.4,11.84
+População (N = 95.808),valor_total_frete,68,-0.9298,12.48,11.92
+População (N = 95.808),valor_total_frete,69,-0.9198,12.48,11.99
+População (N = 95.808),valor_total_frete,70,-0.9098,12.57,12.07
+População (N = 95.808),valor_total_frete,71,-0.9,12.67,12.14
+População (N = 95.808),valor_total_frete,72,-0.8902,12.69,12.22
+População (N = 95.808),valor_total_frete,73,-0.8805,12.72,12.29
+População (N = 95.808),valor_total_frete,74,-0.8709,12.76,12.36
+População (N = 95.808),valor_total_frete,75,-0.8614,12.79,12.43
+População (N = 95.808),valor_total_frete,76,-0.8519,12.79,12.5
+População (N = 95.808),valor_total_frete,77,-0.8426,12.81,12.58
+População (N = 95.808),valor_total_frete,78,-0.8333,12.86,12.65
+População (N = 95.808),valor_total_frete,79,-0.824,12.91,12.71
+População (N = 95.808),valor_total_frete,80,-0.8149,12.98,12.78
+População (N = 95.808),valor_total_frete,81,-0.8058,13.04,12.85
+População (N = 95.808),valor_total_frete,82,-0.7968,13.08,12.92
+População (N = 95.808),valor_total_frete,83,-0.7878,13.14,12.99
+População (N = 95.808),valor_total_frete,84,-0.7789,13.23,13.05
+População (N = 95.808),valor_total_frete,85,-0.7701,13.34,13.12
+População (N = 95.808),valor_total_frete,86,-0.7613,13.37,13.19
+População (N = 95.808),valor_total_frete,87,-0.7526,13.42,13.25
+População (N = 95.808),valor_total_frete,88,-0.7439,13.44,13.32
+População (N = 95.808),valor_total_frete,89,-0.7353,13.47,13.38
+População (N = 95.808),valor_total_frete,90,-0.7268,13.52,13.45
+População (N = 95.808),valor_total_frete,91,-0.7183,13.58,13.51
+População (N = 95.808),valor_total_frete,92,-0.7098,13.64,13.57
+População (N = 95.808),valor_total_frete,93,-0.7014,13.69,13.64
+População (N = 95.808),valor_total_frete,94,-0.6931,13.71,13.7
+População (N = 95.808),valor_total_frete,95,-0.6848,13.76,13.76
+População (N = 95.808),valor_total_frete,96,-0.6765,13.82,13.82
+População (N = 95.808),valor_total_frete,97,-0.6683,13.89,13.89
+População (N = 95.808),valor_total_frete,98,-0.6602,13.95,13.95
+População (N = 95.808),valor_total_frete,99,-0.6521,14.03,14.01
+População (N = 95.808),valor_total_frete,100,-0.644,14.1,14.07
+População (N = 95.808),valor_total_frete,101,-0.636,14.1,14.13
+População (N = 95.808),valor_total_frete,102,-0.628,14.1,14.19
+População (N = 95.808),valor_total_frete,103,-0.62,14.1,14.25
+População (N = 95.808),valor_total_frete,104,-0.6121,14.1,14.31
+População (N = 95.808),valor_total_frete,105,-0.6042,14.1,14.37
+População (N = 95.808),valor_total_frete,106,-0.5964,14.11,14.43
+População (N = 95.808),valor_total_frete,107,-0.5886,14.14,14.49
+População (N = 95.808),valor_total_frete,108,-0.5808,14.17,14.54
+População (N = 95.808),valor_total_frete,109,-0.5731,14.24,14.6
+População (N = 95.808),valor_total_frete,110,-0.5654,14.31,14.66
+População (N = 95.808),valor_total_frete,111,-0.5577,14.39,14.72
+População (N = 95.808),valor_total_frete,112,-0.5501,14.45,14.78
+População (N = 95.808),valor_total_frete,113,-0.5425,14.52,14.83
+População (N = 95.808),valor_total_frete,114,-0.5349,14.52,14.89
+População (N = 95.808),valor_total_frete,115,-0.5274,14.52,14.95
+População (N = 95.808),valor_total_frete,116,-0.5199,14.56,15.0
+População (N = 95.808),valor_total_frete,117,-0.5124,14.61,15.06
+População (N = 95.808),valor_total_frete,118,-0.505,14.68,15.12
+População (N = 95.808),valor_total_frete,119,-0.4976,14.76,15.17
+População (N = 95.808),valor_total_frete,120,-0.4902,14.8,15.23
+População (N = 95.808),valor_total_frete,121,-0.4828,14.88,15.28
+População (N = 95.808),valor_total_frete,122,-0.4755,15.0,15.34
+População (N = 95.808),valor_total_frete,123,-0.4681,15.1,15.39
+População (N = 95.808),valor_total_frete,124,-0.4608,15.1,15.45
+População (N = 95.808),valor_total_frete,125,-0.4536,15.1,15.5
+População (N = 95.808),valor_total_frete,126,-0.4463,15.1,15.56
+População (N = 95.808),valor_total_frete,127,-0.4391,15.1,15.61
+População (N = 95.808),valor_total_frete,128,-0.4319,15.1,15.67
+População (N = 95.808),valor_total_frete,129,-0.4248,15.1,15.72
+População (N = 95.808),valor_total_frete,130,-0.4176,15.1,15.77
+População (N = 95.808),valor_total_frete,131,-0.4105,15.1,15.83
+População (N = 95.808),valor_total_frete,132,-0.4034,15.1,15.88
+População (N = 95.808),valor_total_frete,133,-0.3963,15.1,15.93
+População (N = 95.808),valor_total_frete,134,-0.3892,15.1,15.99
+População (N = 95.808),valor_total_frete,135,-0.3822,15.11,16.04
+População (N = 95.808),valor_total_frete,136,-0.3751,15.13,16.09
+População (N = 95.808),valor_total_frete,137,-0.3681,15.15,16.15
+População (N = 95.808),valor_total_frete,138,-0.3611,15.18,16.2
+População (N = 95.808),valor_total_frete,139,-0.3541,15.23,16.25
+População (N = 95.808),valor_total_frete,140,-0.3472,15.23,16.3
+População (N = 95.808),valor_total_frete,141,-0.3402,15.23,16.36
+População (N = 95.808),valor_total_frete,142,-0.3333,15.23,16.41
+População (N = 95.808),valor_total_frete,143,-0.3264,15.26,16.46
+População (N = 95.808),valor_total_frete,144,-0.3195,15.29,16.51
+População (N = 95.808),valor_total_frete,145,-0.3126,15.31,16.56
+População (N = 95.808),valor_total_frete,146,-0.3058,15.36,16.61
+População (N = 95.808),valor_total_frete,147,-0.2989,15.38,16.67
+População (N = 95.808),valor_total_frete,148,-0.2921,15.42,16.72
+População (N = 95.808),valor_total_frete,149,-0.2852,15.45,16.77
+População (N = 95.808),valor_total_frete,150,-0.2784,15.5,16.82
+População (N = 95.808),valor_total_frete,151,-0.2716,15.56,16.87
+População (N = 95.808),valor_total_frete,152,-0.2649,15.56,16.92
+População (N = 95.808),valor_total_frete,153,-0.2581,15.6,16.97
+População (N = 95.808),valor_total_frete,154,-0.2513,15.65,17.02
+População (N = 95.808),valor_total_frete,155,-0.2446,15.7,17.07
+População (N = 95.808),valor_total_frete,156,-0.2378,15.75,17.13
+População (N = 95.808),valor_total_frete,157,-0.2311,15.79,17.18
+População (N = 95.808),valor_total_frete,158,-0.2244,15.8,17.23
+População (N = 95.808),valor_total_frete,159,-0.2177,15.86,17.28
+População (N = 95.808),valor_total_frete,160,-0.211,15.92,17.33
+População (N = 95.808),valor_total_frete,161,-0.2043,15.98,17.38
+População (N = 95.808),valor_total_frete,162,-0.1976,16.05,17.43
+População (N = 95.808),valor_total_frete,163,-0.191,16.08,17.48
+População (N = 95.808),valor_total_frete,164,-0.1843,16.11,17.53
+População (N = 95.808),valor_total_frete,165,-0.1776,16.11,17.58
+População (N = 95.808),valor_total_frete,166,-0.171,16.11,17.63
+População (N = 95.808),valor_total_frete,167,-0.1644,16.13,17.68
+População (N = 95.808),valor_total_frete,168,-0.1577,16.16,17.73
+População (N = 95.808),valor_total_frete,169,-0.1511,16.18,17.78
+População (N = 95.808),valor_total_frete,170,-0.1445,16.23,17.83
+População (N = 95.808),valor_total_frete,171,-0.1379,16.26,17.88
+População (N = 95.808),valor_total_frete,172,-0.1313,16.32,17.93
+População (N = 95.808),valor_total_frete,173,-0.1247,16.35,17.98
+População (N = 95.808),valor_total_frete,174,-0.1181,16.39,18.03
+População (N = 95.808),valor_total_frete,175,-0.1115,16.45,18.08
+População (N = 95.808),valor_total_frete,176,-0.1049,16.49,18.13
+População (N = 95.808),valor_total_frete,177,-0.0983,16.54,18.18
+População (N = 95.808),valor_total_frete,178,-0.0918,16.6,18.22
+População (N = 95.808),valor_total_frete,179,-0.0852,16.63,18.27
+População (N = 95.808),valor_total_frete,180,-0.0786,16.7,18.32
+População (N = 95.808),valor_total_frete,181,-0.0721,16.75,18.37
+População (N = 95.808),valor_total_frete,182,-0.0655,16.79,18.42
+População (N = 95.808),valor_total_frete,183,-0.0589,16.79,18.47
+População (N = 95.808),valor_total_frete,184,-0.0524,16.79,18.52
+População (N = 95.808),valor_total_frete,185,-0.0458,16.84,18.57
+População (N = 95.808),valor_total_frete,186,-0.0393,16.89,18.62
+População (N = 95.808),valor_total_frete,187,-0.0327,16.95,18.67
+População (N = 95.808),valor_total_frete,188,-0.0262,16.99,18.72
+População (N = 95.808),valor_total_frete,189,-0.0196,17.03,18.77
+População (N = 95.808),valor_total_frete,190,-0.0131,17.06,18.82
+População (N = 95.808),valor_total_frete,191,-0.0065,17.12,18.87
+População (N = 95.808),valor_total_frete,192,-0.0,17.16,18.91
+População (N = 95.808),valor_total_frete,193,0.0065,17.23,18.96
+População (N = 95.808),valor_total_frete,194,0.0131,17.3,19.01
+População (N = 95.808),valor_total_frete,195,0.0196,17.39,19.06
+População (N = 95.808),valor_total_frete,196,0.0262,17.46,19.11
+População (N = 95.808),valor_total_frete,197,0.0327,17.56,19.16
+População (N = 95.808),valor_total_frete,198,0.0393,17.6,19.21
+População (N = 95.808),valor_total_frete,199,0.0458,17.61,19.26
+População (N = 95.808),valor_total_frete,200,0.0524,17.63,19.31
+População (N = 95.808),valor_total_frete,201,0.0589,17.65,19.36
+População (N = 95.808),valor_total_frete,202,0.0655,17.67,19.41
+População (N = 95.808),valor_total_frete,203,0.0721,17.68,19.46
+População (N = 95.808),valor_total_frete,204,0.0786,17.74,19.51
+População (N = 95.808),valor_total_frete,205,0.0852,17.78,19.56
+População (N = 95.808),valor_total_frete,206,0.0918,17.81,19.61
+População (N = 95.808),valor_total_frete,207,0.0983,17.87,19.65
+População (N = 95.808),valor_total_frete,208,0.1049,17.9,19.7
+População (N = 95.808),valor_total_frete,209,0.1115,17.92,19.75
+População (N = 95.808),valor_total_frete,210,0.1181,17.95,19.8
+População (N = 95.808),valor_total_frete,211,0.1247,17.98,19.85
+População (N = 95.808),valor_total_frete,212,0.1313,18.0,19.9
+População (N = 95.808),valor_total_frete,213,0.1379,18.05,19.95
+População (N = 95.808),valor_total_frete,214,0.1445,18.1,20.0
+População (N = 95.808),valor_total_frete,215,0.1511,18.16,20.05
+População (N = 95.808),valor_total_frete,216,0.1577,18.2,20.1
+População (N = 95.808),valor_total_frete,217,0.1644,18.23,20.15
+População (N = 95.808),valor_total_frete,218,0.171,18.23,20.2
+População (N = 95.808),valor_total_frete,219,0.1776,18.23,20.25
+População (N = 95.808),valor_total_frete,220,0.1843,18.23,20.3
+População (N = 95.808),valor_total_frete,221,0.191,18.23,20.35
+População (N = 95.808),valor_total_frete,222,0.1976,18.26,20.4
+População (N = 95.808),valor_total_frete,223,0.2043,18.29,20.45
+População (N = 95.808),valor_total_frete,224,0.211,18.31,20.5
+População (N = 95.808),valor_total_frete,225,0.2177,18.34,20.55
+População (N = 95.808),valor_total_frete,226,0.2244,18.37,20.6
+População (N = 95.808),valor_total_frete,227,0.2311,18.42,20.65
+População (N = 95.808),valor_total_frete,228,0.2378,18.45,20.7
+População (N = 95.808),valor_total_frete,229,0.2446,18.51,20.76
+População (N = 95.808),valor_total_frete,230,0.2513,18.56,20.81
+População (N = 95.808),valor_total_frete,231,0.2581,18.61,20.86
+População (N = 95.808),valor_total_frete,232,0.2649,18.66,20.91
+População (N = 95.808),valor_total_frete,233,0.2716,18.71,20.96
+População (N = 95.808),valor_total_frete,234,0.2784,18.77,21.01
+População (N = 95.808),valor_total_frete,235,0.2852,18.84,21.06
+População (N = 95.808),valor_total_frete,236,0.2921,18.89,21.11
+População (N = 95.808),valor_total_frete,237,0.2989,18.96,21.16
+População (N = 95.808),valor_total_frete,238,0.3058,19.03,21.22
+População (N = 95.808),valor_total_frete,239,0.3126,19.07,21.27
+População (N = 95.808),valor_total_frete,240,0.3195,19.15,21.32
+População (N = 95.808),valor_total_frete,241,0.3264,19.26,21.37
+População (N = 95.808),valor_total_frete,242,0.3333,19.32,21.42
+População (N = 95.808),valor_total_frete,243,0.3402,19.35,21.47
+População (N = 95.808),valor_total_frete,244,0.3472,19.41,21.53
+População (N = 95.808),valor_total_frete,245,0.3541,19.47,21.58
+População (N = 95.808),valor_total_frete,246,0.3611,19.53,21.63
+População (N = 95.808),valor_total_frete,247,0.3681,19.59,21.68
+População (N = 95.808),valor_total_frete,248,0.3751,19.66,21.74
+População (N = 95.808),valor_total_frete,249,0.3822,19.73,21.79
+População (N = 95.808),valor_total_frete,250,0.3892,19.82,21.84
+População (N = 95.808),valor_total_frete,251,0.3963,19.89,21.9
+População (N = 95.808),valor_total_frete,252,0.4034,19.97,21.95
+População (N = 95.808),valor_total_frete,253,0.4105,20.03,22.0
+População (N = 95.808),valor_total_frete,254,0.4176,20.14,22.06
+População (N = 95.808),valor_total_frete,255,0.4248,20.26,22.11
+População (N = 95.808),valor_total_frete,256,0.4319,20.43,22.16
+População (N = 95.808),valor_total_frete,257,0.4391,20.63,22.22
+População (N = 95.808),valor_total_frete,258,0.4463,20.8,22.27
+População (N = 95.808),valor_total_frete,259,0.4536,20.89,22.33
+População (N = 95.808),valor_total_frete,260,0.4608,20.99,22.38
+População (N = 95.808),valor_total_frete,261,0.4681,21.1,22.44
+População (N = 95.808),valor_total_frete,262,0.4755,21.15,22.49
+População (N = 95.808),valor_total_frete,263,0.4828,21.2,22.55
+População (N = 95.808),valor_total_frete,264,0.4902,21.31,22.6
+População (N = 95.808),valor_total_frete,265,0.4976,21.43,22.66
+População (N = 95.808),valor_total_frete,266,0.505,21.56,22.71
+População (N = 95.808),valor_total_frete,267,0.5124,21.68,22.77
+População (N = 95.808),valor_total_frete,268,0.5199,21.84,22.83
+População (N = 95.808),valor_total_frete,269,0.5274,22.0,22.88
+População (N = 95.808),valor_total_frete,270,0.5349,22.06,22.94
+População (N = 95.808),valor_total_frete,271,0.5425,22.17,23.0
+População (N = 95.808),valor_total_frete,272,0.5501,22.28,23.05
+População (N = 95.808),valor_total_frete,273,0.5577,22.41,23.11
+População (N = 95.808),valor_total_frete,274,0.5654,22.59,23.17
+População (N = 95.808),valor_total_frete,275,0.5731,22.75,23.23
+População (N = 95.808),valor_total_frete,276,0.5808,22.88,23.29
+População (N = 95.808),valor_total_frete,277,0.5886,22.96,23.34
+População (N = 95.808),valor_total_frete,278,0.5964,23.05,23.4
+População (N = 95.808),valor_total_frete,279,0.6042,23.14,23.46
+População (N = 95.808),valor_total_frete,280,0.6121,23.24,23.52
+População (N = 95.808),valor_total_frete,281,0.62,23.31,23.58
+População (N = 95.808),valor_total_frete,282,0.628,23.38,23.64
+População (N = 95.808),valor_total_frete,283,0.636,23.48,23.7
+População (N = 95.808),valor_total_frete,284,0.644,23.57,23.76
+População (N = 95.808),valor_total_frete,285,0.6521,23.69,23.82
+População (N = 95.808),valor_total_frete,286,0.6602,23.76,23.88
+População (N = 95.808),valor_total_frete,287,0.6683,23.9,23.94
+População (N = 95.808),valor_total_frete,288,0.6765,24.05,24.01
+População (N = 95.808),valor_total_frete,289,0.6848,24.27,24.07
+População (N = 95.808),valor_total_frete,290,0.6931,24.62,24.13
+População (N = 95.808),valor_total_frete,291,0.7014,24.84,24.19
+População (N = 95.808),valor_total_frete,292,0.7098,24.97,24.26
+População (N = 95.808),valor_total_frete,293,0.7183,25.19,24.32
+População (N = 95.808),valor_total_frete,294,0.7268,25.38,24.38
+População (N = 95.808),valor_total_frete,295,0.7353,25.54,24.45
+População (N = 95.808),valor_total_frete,296,0.7439,25.63,24.51
+População (N = 95.808),valor_total_frete,297,0.7526,25.66,24.58
+População (N = 95.808),valor_total_frete,298,0.7613,25.8,24.64
+População (N = 95.808),valor_total_frete,299,0.7701,26.0,24.71
+População (N = 95.808),valor_total_frete,300,0.7789,26.24,24.78
+População (N = 95.808),valor_total_frete,301,0.7878,26.44,24.84
+População (N = 95.808),valor_total_frete,302,0.7968,26.66,24.91
+População (N = 95.808),valor_total_frete,303,0.8058,26.85,24.98
+População (N = 95.808),valor_total_frete,304,0.8149,26.94,25.05
+População (N = 95.808),valor_total_frete,305,0.824,27.06,25.12
+População (N = 95.808),valor_total_frete,306,0.8333,27.21,25.18
+População (N = 95.808),valor_total_frete,307,0.8426,27.37,25.25
+População (N = 95.808),valor_total_frete,308,0.8519,27.5,25.33
+População (N = 95.808),valor_total_frete,309,0.8614,27.63,25.4
+População (N = 95.808),valor_total_frete,310,0.8709,27.81,25.47
+População (N = 95.808),valor_total_frete,311,0.8805,28.05,25.54
+População (N = 95.808),valor_total_frete,312,0.8902,28.2,25.61
+População (N = 95.808),valor_total_frete,313,0.9,28.61,25.69
+População (N = 95.808),valor_total_frete,314,0.9098,28.89,25.76
+População (N = 95.808),valor_total_frete,315,0.9198,29.11,25.84
+População (N = 95.808),valor_total_frete,316,0.9298,29.46,25.91
+População (N = 95.808),valor_total_frete,317,0.9399,29.88,25.99
+População (N = 95.808),valor_total_frete,318,0.9501,30.2,26.06
+População (N = 95.808),valor_total_frete,319,0.9605,30.23,26.14
+População (N = 95.808),valor_total_frete,320,0.9709,30.56,26.22
+População (N = 95.808),valor_total_frete,321,0.9815,31.02,26.3
+População (N = 95.808),valor_total_frete,322,0.9921,31.52,26.38
+População (N = 95.808),valor_total_frete,323,1.0029,31.94,26.46
+População (N = 95.808),valor_total_frete,324,1.0137,32.22,26.54
+População (N = 95.808),valor_total_frete,325,1.0247,32.62,26.63
+População (N = 95.808),valor_total_frete,326,1.0359,33.08,26.71
+População (N = 95.808),valor_total_frete,327,1.0471,33.5,26.79
+População (N = 95.808),valor_total_frete,328,1.0585,33.87,26.88
+População (N = 95.808),valor_total_frete,329,1.0701,34.15,26.97
+População (N = 95.808),valor_total_frete,330,1.0817,34.27,27.05
+População (N = 95.808),valor_total_frete,331,1.0936,34.55,27.14
+População (N = 95.808),valor_total_frete,332,1.1055,34.92,27.23
+População (N = 95.808),valor_total_frete,333,1.1177,35.3,27.32
+População (N = 95.808),valor_total_frete,334,1.13,35.56,27.42
+População (N = 95.808),valor_total_frete,335,1.1425,35.84,27.51
+População (N = 95.808),valor_total_frete,336,1.1551,36.18,27.61
+População (N = 95.808),valor_total_frete,337,1.168,36.46,27.7
+População (N = 95.808),valor_total_frete,338,1.181,36.82,27.8
+População (N = 95.808),valor_total_frete,339,1.1943,37.11,27.9
+População (N = 95.808),valor_total_frete,340,1.2077,37.49,28.0
+População (N = 95.808),valor_total_frete,341,1.2214,37.9,28.11
+População (N = 95.808),valor_total_frete,342,1.2353,38.23,28.21
+População (N = 95.808),valor_total_frete,343,1.2495,38.53,28.32
+População (N = 95.808),valor_total_frete,344,1.2639,38.86,28.42
+População (N = 95.808),valor_total_frete,345,1.2786,39.22,28.54
+População (N = 95.808),valor_total_frete,346,1.2935,39.83,28.65
+População (N = 95.808),valor_total_frete,347,1.3088,40.38,28.76
+População (N = 95.808),valor_total_frete,348,1.3244,41.29,28.88
+População (N = 95.808),valor_total_frete,349,1.3403,42.03,29.0
+População (N = 95.808),valor_total_frete,350,1.3565,42.58,29.12
+População (N = 95.808),valor_total_frete,351,1.3731,43.19,29.25
+População (N = 95.808),valor_total_frete,352,1.3901,43.96,29.37
+População (N = 95.808),valor_total_frete,353,1.4075,44.63,29.51
+População (N = 95.808),valor_total_frete,354,1.4254,45.2,29.64
+População (N = 95.808),valor_total_frete,355,1.4437,45.72,29.78
+População (N = 95.808),valor_total_frete,356,1.4625,46.5,29.92
+População (N = 95.808),valor_total_frete,357,1.4818,47.38,30.06
+População (N = 95.808),valor_total_frete,358,1.5018,48.37,30.21
+População (N = 95.808),valor_total_frete,359,1.5223,49.65,30.37
+População (N = 95.808),valor_total_frete,360,1.5435,50.68,30.53
+População (N = 95.808),valor_total_frete,361,1.5654,51.21,30.69
+População (N = 95.808),valor_total_frete,362,1.5881,52.32,30.86
+População (N = 95.808),valor_total_frete,363,1.6116,53.29,31.04
+População (N = 95.808),valor_total_frete,364,1.6361,54.34,31.23
+População (N = 95.808),valor_total_frete,365,1.6615,55.74,31.42
+População (N = 95.808),valor_total_frete,366,1.6881,57.35,31.62
+População (N = 95.808),valor_total_frete,367,1.716,58.63,31.83
+População (N = 95.808),valor_total_frete,368,1.7453,60.15,32.05
+População (N = 95.808),valor_total_frete,369,1.7761,61.51,32.28
+População (N = 95.808),valor_total_frete,370,1.8087,63.22,32.52
+População (N = 95.808),valor_total_frete,371,1.8434,65.57,32.78
+População (N = 95.808),valor_total_frete,372,1.8804,67.96,33.06
+População (N = 95.808),valor_total_frete,373,1.9202,69.82,33.36
+População (N = 95.808),valor_total_frete,374,1.9633,72.93,33.69
+População (N = 95.808),valor_total_frete,375,2.0104,76.14,34.04
+População (N = 95.808),valor_total_frete,376,2.0625,80.98,34.43
+População (N = 95.808),valor_total_frete,377,2.1208,85.7,34.87
+População (N = 95.808),valor_total_frete,378,2.1873,90.45,35.37
+População (N = 95.808),valor_total_frete,379,2.2652,97.56,35.96
+População (N = 95.808),valor_total_frete,380,2.36,107.49,36.67
+População (N = 95.808),valor_total_frete,381,2.4823,123.99,37.59
+População (N = 95.808),valor_total_frete,382,2.6592,148.32,38.92
+População (N = 95.808),valor_total_frete,383,3.0102,209.86,41.56
+Amostra AAS (n = 383),valor_total_pago,1,-3.0102,18.38,-160.35
+Amostra AAS (n = 383),valor_total_pago,2,-2.6592,20.52,-127.54
+Amostra AAS (n = 383),valor_total_pago,3,-2.4823,21.38,-111.0
+Amostra AAS (n = 383),valor_total_pago,4,-2.36,24.75,-99.57
+Amostra AAS (n = 383),valor_total_pago,5,-2.2652,24.88,-90.72
+Amostra AAS (n = 383),valor_total_pago,6,-2.1873,25.0,-83.43
+Amostra AAS (n = 383),valor_total_pago,7,-2.1208,25.36,-77.21
+Amostra AAS (n = 383),valor_total_pago,8,-2.0625,25.5,-71.76
+Amostra AAS (n = 383),valor_total_pago,9,-2.0104,25.51,-66.9
+Amostra AAS (n = 383),valor_total_pago,10,-1.9633,27.09,-62.5
+Amostra AAS (n = 383),valor_total_pago,11,-1.9202,27.68,-58.47
+Amostra AAS (n = 383),valor_total_pago,12,-1.8804,28.02,-54.75
+Amostra AAS (n = 383),valor_total_pago,13,-1.8434,28.09,-51.29
+Amostra AAS (n = 383),valor_total_pago,14,-1.8087,28.79,-48.05
+Amostra AAS (n = 383),valor_total_pago,15,-1.7761,30.0,-45.0
+Amostra AAS (n = 383),valor_total_pago,16,-1.7453,31.38,-42.12
+Amostra AAS (n = 383),valor_total_pago,17,-1.716,31.75,-39.38
+Amostra AAS (n = 383),valor_total_pago,18,-1.6881,32.0,-36.78
+Amostra AAS (n = 383),valor_total_pago,19,-1.6615,32.0,-34.29
+Amostra AAS (n = 383),valor_total_pago,20,-1.6361,32.1,-31.91
+Amostra AAS (n = 383),valor_total_pago,21,-1.6116,32.52,-29.62
+Amostra AAS (n = 383),valor_total_pago,22,-1.5881,33.09,-27.42
+Amostra AAS (n = 383),valor_total_pago,23,-1.5654,34.04,-25.3
+Amostra AAS (n = 383),valor_total_pago,24,-1.5435,34.09,-23.25
+Amostra AAS (n = 383),valor_total_pago,25,-1.5223,34.62,-21.27
+Amostra AAS (n = 383),valor_total_pago,26,-1.5018,34.75,-19.36
+Amostra AAS (n = 383),valor_total_pago,27,-1.4818,36.18,-17.49
+Amostra AAS (n = 383),valor_total_pago,28,-1.4625,36.96,-15.69
+Amostra AAS (n = 383),valor_total_pago,29,-1.4437,37.68,-13.93
+Amostra AAS (n = 383),valor_total_pago,30,-1.4254,37.99,-12.22
+Amostra AAS (n = 383),valor_total_pago,31,-1.4075,38.03,-10.55
+Amostra AAS (n = 383),valor_total_pago,32,-1.3901,38.09,-8.92
+Amostra AAS (n = 383),valor_total_pago,33,-1.3731,38.75,-7.33
+Amostra AAS (n = 383),valor_total_pago,34,-1.3565,39.09,-5.78
+Amostra AAS (n = 383),valor_total_pago,35,-1.3403,39.48,-4.26
+Amostra AAS (n = 383),valor_total_pago,36,-1.3244,39.81,-2.78
+Amostra AAS (n = 383),valor_total_pago,37,-1.3088,40.01,-1.32
+Amostra AAS (n = 383),valor_total_pago,38,-1.2935,40.09,0.11
+Amostra AAS (n = 383),valor_total_pago,39,-1.2786,41.54,1.51
+Amostra AAS (n = 383),valor_total_pago,40,-1.2639,41.84,2.88
+Amostra AAS (n = 383),valor_total_pago,41,-1.2495,42.27,4.22
+Amostra AAS (n = 383),valor_total_pago,42,-1.2353,42.68,5.55
+Amostra AAS (n = 383),valor_total_pago,43,-1.2214,43.09,6.85
+Amostra AAS (n = 383),valor_total_pago,44,-1.2077,43.52,8.13
+Amostra AAS (n = 383),valor_total_pago,45,-1.1943,44.09,9.39
+Amostra AAS (n = 383),valor_total_pago,46,-1.181,44.23,10.63
+Amostra AAS (n = 383),valor_total_pago,47,-1.168,44.35,11.84
+Amostra AAS (n = 383),valor_total_pago,48,-1.1551,44.62,13.05
+Amostra AAS (n = 383),valor_total_pago,49,-1.1425,44.75,14.23
+Amostra AAS (n = 383),valor_total_pago,50,-1.13,45.0,15.4
+Amostra AAS (n = 383),valor_total_pago,51,-1.1177,45.48,16.55
+Amostra AAS (n = 383),valor_total_pago,52,-1.1055,45.53,17.68
+Amostra AAS (n = 383),valor_total_pago,53,-1.0936,45.68,18.8
+Amostra AAS (n = 383),valor_total_pago,54,-1.0817,45.78,19.91
+Amostra AAS (n = 383),valor_total_pago,55,-1.0701,46.56,21.0
+Amostra AAS (n = 383),valor_total_pago,56,-1.0585,47.0,22.07
+Amostra AAS (n = 383),valor_total_pago,57,-1.0471,47.03,23.14
+Amostra AAS (n = 383),valor_total_pago,58,-1.0359,47.27,24.19
+Amostra AAS (n = 383),valor_total_pago,59,-1.0247,47.53,25.23
+Amostra AAS (n = 383),valor_total_pago,60,-1.0137,47.59,26.26
+Amostra AAS (n = 383),valor_total_pago,61,-1.0029,47.62,27.28
+Amostra AAS (n = 383),valor_total_pago,62,-0.9921,47.74,28.28
+Amostra AAS (n = 383),valor_total_pago,63,-0.9815,48.13,29.28
+Amostra AAS (n = 383),valor_total_pago,64,-0.9709,48.23,30.26
+Amostra AAS (n = 383),valor_total_pago,65,-0.9605,49.0,31.24
+Amostra AAS (n = 383),valor_total_pago,66,-0.9501,49.39,32.2
+Amostra AAS (n = 383),valor_total_pago,67,-0.9399,49.68,33.16
+Amostra AAS (n = 383),valor_total_pago,68,-0.9298,49.75,34.11
+Amostra AAS (n = 383),valor_total_pago,69,-0.9198,49.82,35.05
+Amostra AAS (n = 383),valor_total_pago,70,-0.9098,49.89,35.97
+Amostra AAS (n = 383),valor_total_pago,71,-0.9,50.0,36.9
+Amostra AAS (n = 383),valor_total_pago,72,-0.8902,50.06,37.81
+Amostra AAS (n = 383),valor_total_pago,73,-0.8805,50.19,38.71
+Amostra AAS (n = 383),valor_total_pago,74,-0.8709,51.17,39.61
+Amostra AAS (n = 383),valor_total_pago,75,-0.8614,51.69,40.5
+Amostra AAS (n = 383),valor_total_pago,76,-0.8519,51.85,41.39
+Amostra AAS (n = 383),valor_total_pago,77,-0.8426,52.34,42.26
+Amostra AAS (n = 383),valor_total_pago,78,-0.8333,52.77,43.13
+Amostra AAS (n = 383),valor_total_pago,79,-0.824,52.85,43.99
+Amostra AAS (n = 383),valor_total_pago,80,-0.8149,53.01,44.85
+Amostra AAS (n = 383),valor_total_pago,81,-0.8058,53.01,45.7
+Amostra AAS (n = 383),valor_total_pago,82,-0.7968,53.61,46.54
+Amostra AAS (n = 383),valor_total_pago,83,-0.7878,53.64,47.38
+Amostra AAS (n = 383),valor_total_pago,84,-0.7789,54.01,48.21
+Amostra AAS (n = 383),valor_total_pago,85,-0.7701,54.17,49.04
+Amostra AAS (n = 383),valor_total_pago,86,-0.7613,54.22,49.86
+Amostra AAS (n = 383),valor_total_pago,87,-0.7526,54.71,50.67
+Amostra AAS (n = 383),valor_total_pago,88,-0.7439,55.04,51.48
+Amostra AAS (n = 383),valor_total_pago,89,-0.7353,55.09,52.28
+Amostra AAS (n = 383),valor_total_pago,90,-0.7268,55.55,53.08
+Amostra AAS (n = 383),valor_total_pago,91,-0.7183,55.62,53.88
+Amostra AAS (n = 383),valor_total_pago,92,-0.7098,57.34,54.67
+Amostra AAS (n = 383),valor_total_pago,93,-0.7014,57.5,55.45
+Amostra AAS (n = 383),valor_total_pago,94,-0.6931,57.6,56.23
+Amostra AAS (n = 383),valor_total_pago,95,-0.6848,57.68,57.01
+Amostra AAS (n = 383),valor_total_pago,96,-0.6765,57.85,57.78
+Amostra AAS (n = 383),valor_total_pago,97,-0.6683,58.09,58.54
+Amostra AAS (n = 383),valor_total_pago,98,-0.6602,58.13,59.31
+Amostra AAS (n = 383),valor_total_pago,99,-0.6521,58.53,60.07
+Amostra AAS (n = 383),valor_total_pago,100,-0.644,58.63,60.82
+Amostra AAS (n = 383),valor_total_pago,101,-0.636,58.69,61.57
+Amostra AAS (n = 383),valor_total_pago,102,-0.628,59.2,62.32
+Amostra AAS (n = 383),valor_total_pago,103,-0.62,59.25,63.06
+Amostra AAS (n = 383),valor_total_pago,104,-0.6121,59.44,63.8
+Amostra AAS (n = 383),valor_total_pago,105,-0.6042,60.01,64.54
+Amostra AAS (n = 383),valor_total_pago,106,-0.5964,60.41,65.27
+Amostra AAS (n = 383),valor_total_pago,107,-0.5886,61.38,66.0
+Amostra AAS (n = 383),valor_total_pago,108,-0.5808,61.75,66.72
+Amostra AAS (n = 383),valor_total_pago,109,-0.5731,62.19,67.45
+Amostra AAS (n = 383),valor_total_pago,110,-0.5654,62.25,68.17
+Amostra AAS (n = 383),valor_total_pago,111,-0.5577,62.65,68.88
+Amostra AAS (n = 383),valor_total_pago,112,-0.5501,62.65,69.6
+Amostra AAS (n = 383),valor_total_pago,113,-0.5425,62.94,70.31
+Amostra AAS (n = 383),valor_total_pago,114,-0.5349,63.0,71.01
+Amostra AAS (n = 383),valor_total_pago,115,-0.5274,63.23,71.72
+Amostra AAS (n = 383),valor_total_pago,116,-0.5199,63.42,72.42
+Amostra AAS (n = 383),valor_total_pago,117,-0.5124,63.51,73.12
+Amostra AAS (n = 383),valor_total_pago,118,-0.505,65.0,73.81
+Amostra AAS (n = 383),valor_total_pago,119,-0.4976,65.5,74.51
+Amostra AAS (n = 383),valor_total_pago,120,-0.4902,66.6,75.2
+Amostra AAS (n = 383),valor_total_pago,121,-0.4828,66.72,75.89
+Amostra AAS (n = 383),valor_total_pago,122,-0.4755,66.89,76.57
+Amostra AAS (n = 383),valor_total_pago,123,-0.4681,66.97,77.26
+Amostra AAS (n = 383),valor_total_pago,124,-0.4608,67.26,77.94
+Amostra AAS (n = 383),valor_total_pago,125,-0.4536,67.44,78.62
+Amostra AAS (n = 383),valor_total_pago,126,-0.4463,68.02,79.3
+Amostra AAS (n = 383),valor_total_pago,127,-0.4391,69.16,79.97
+Amostra AAS (n = 383),valor_total_pago,128,-0.4319,69.9,80.64
+Amostra AAS (n = 383),valor_total_pago,129,-0.4248,69.9,81.31
+Amostra AAS (n = 383),valor_total_pago,130,-0.4176,69.9,81.98
+Amostra AAS (n = 383),valor_total_pago,131,-0.4105,70.03,82.65
+Amostra AAS (n = 383),valor_total_pago,132,-0.4034,70.63,83.31
+Amostra AAS (n = 383),valor_total_pago,133,-0.3963,71.13,83.98
+Amostra AAS (n = 383),valor_total_pago,134,-0.3892,71.36,84.64
+Amostra AAS (n = 383),valor_total_pago,135,-0.3822,71.54,85.3
+Amostra AAS (n = 383),valor_total_pago,136,-0.3751,73.34,85.95
+Amostra AAS (n = 383),valor_total_pago,137,-0.3681,76.38,86.61
+Amostra AAS (n = 383),valor_total_pago,138,-0.3611,76.58,87.26
+Amostra AAS (n = 383),valor_total_pago,139,-0.3541,77.13,87.91
+Amostra AAS (n = 383),valor_total_pago,140,-0.3472,77.25,88.56
+Amostra AAS (n = 383),valor_total_pago,141,-0.3402,77.5,89.21
+Amostra AAS (n = 383),valor_total_pago,142,-0.3333,77.57,89.86
+Amostra AAS (n = 383),valor_total_pago,143,-0.3264,77.69,90.51
+Amostra AAS (n = 383),valor_total_pago,144,-0.3195,78.09,91.15
+Amostra AAS (n = 383),valor_total_pago,145,-0.3126,78.69,91.79
+Amostra AAS (n = 383),valor_total_pago,146,-0.3058,78.75,92.44
+Amostra AAS (n = 383),valor_total_pago,147,-0.2989,79.77,93.08
+Amostra AAS (n = 383),valor_total_pago,148,-0.2921,80.14,93.72
+Amostra AAS (n = 383),valor_total_pago,149,-0.2852,80.39,94.35
+Amostra AAS (n = 383),valor_total_pago,150,-0.2784,80.49,94.99
+Amostra AAS (n = 383),valor_total_pago,151,-0.2716,81.78,95.62
+Amostra AAS (n = 383),valor_total_pago,152,-0.2649,81.99,96.26
+Amostra AAS (n = 383),valor_total_pago,153,-0.2581,82.55,96.89
+Amostra AAS (n = 383),valor_total_pago,154,-0.2513,82.75,97.52
+Amostra AAS (n = 383),valor_total_pago,155,-0.2446,83.03,98.15
+Amostra AAS (n = 383),valor_total_pago,156,-0.2378,84.36,98.78
+Amostra AAS (n = 383),valor_total_pago,157,-0.2311,84.7,99.41
+Amostra AAS (n = 383),valor_total_pago,158,-0.2244,85.24,100.04
+Amostra AAS (n = 383),valor_total_pago,159,-0.2177,85.27,100.67
+Amostra AAS (n = 383),valor_total_pago,160,-0.211,85.39,101.29
+Amostra AAS (n = 383),valor_total_pago,161,-0.2043,86.05,101.92
+Amostra AAS (n = 383),valor_total_pago,162,-0.1976,87.96,102.54
+Amostra AAS (n = 383),valor_total_pago,163,-0.191,88.72,103.17
+Amostra AAS (n = 383),valor_total_pago,164,-0.1843,88.83,103.79
+Amostra AAS (n = 383),valor_total_pago,165,-0.1776,89.08,104.41
+Amostra AAS (n = 383),valor_total_pago,166,-0.171,89.91,105.03
+Amostra AAS (n = 383),valor_total_pago,167,-0.1644,92.9,105.65
+Amostra AAS (n = 383),valor_total_pago,168,-0.1577,94.12,106.27
+Amostra AAS (n = 383),valor_total_pago,169,-0.1511,94.3,106.89
+Amostra AAS (n = 383),valor_total_pago,170,-0.1445,95.22,107.51
+Amostra AAS (n = 383),valor_total_pago,171,-0.1379,95.22,108.13
+Amostra AAS (n = 383),valor_total_pago,172,-0.1313,95.31,108.75
+Amostra AAS (n = 383),valor_total_pago,173,-0.1247,96.42,109.36
+Amostra AAS (n = 383),valor_total_pago,174,-0.1181,96.8,109.98
+Amostra AAS (n = 383),valor_total_pago,175,-0.1115,96.88,110.59
+Amostra AAS (n = 383),valor_total_pago,176,-0.1049,97.71,111.21
+Amostra AAS (n = 383),valor_total_pago,177,-0.0983,97.87,111.82
+Amostra AAS (n = 383),valor_total_pago,178,-0.0918,97.87,112.44
+Amostra AAS (n = 383),valor_total_pago,179,-0.0852,98.29,113.05
+Amostra AAS (n = 383),valor_total_pago,180,-0.0786,99.43,113.67
+Amostra AAS (n = 383),valor_total_pago,181,-0.0721,99.9,114.28
+Amostra AAS (n = 383),valor_total_pago,182,-0.0655,100.53,114.89
+Amostra AAS (n = 383),valor_total_pago,183,-0.0589,101.51,115.51
+Amostra AAS (n = 383),valor_total_pago,184,-0.0524,101.71,116.12
+Amostra AAS (n = 383),valor_total_pago,185,-0.0458,102.23,116.73
+Amostra AAS (n = 383),valor_total_pago,186,-0.0393,102.98,117.34
+Amostra AAS (n = 383),valor_total_pago,187,-0.0327,103.48,117.96
+Amostra AAS (n = 383),valor_total_pago,188,-0.0262,104.0,118.57
+Amostra AAS (n = 383),valor_total_pago,189,-0.0196,104.1,119.18
+Amostra AAS (n = 383),valor_total_pago,190,-0.0131,105.38,119.79
+Amostra AAS (n = 383),valor_total_pago,191,-0.0065,106.0,120.4
+Amostra AAS (n = 383),valor_total_pago,192,-0.0,106.21,121.02
+Amostra AAS (n = 383),valor_total_pago,193,0.0065,106.78,121.63
+Amostra AAS (n = 383),valor_total_pago,194,0.0131,107.05,122.24
+Amostra AAS (n = 383),valor_total_pago,195,0.0196,107.78,122.85
+Amostra AAS (n = 383),valor_total_pago,196,0.0262,108.64,123.46
+Amostra AAS (n = 383),valor_total_pago,197,0.0327,108.77,124.07
+Amostra AAS (n = 383),valor_total_pago,198,0.0393,108.81,124.69
+Amostra AAS (n = 383),valor_total_pago,199,0.0458,109.32,125.3
+Amostra AAS (n = 383),valor_total_pago,200,0.0524,109.68,125.91
+Amostra AAS (n = 383),valor_total_pago,201,0.0589,110.82,126.52
+Amostra AAS (n = 383),valor_total_pago,202,0.0655,111.21,127.14
+Amostra AAS (n = 383),valor_total_pago,203,0.0721,112.92,127.75
+Amostra AAS (n = 383),valor_total_pago,204,0.0786,114.33,128.36
+Amostra AAS (n = 383),valor_total_pago,205,0.0852,115.72,128.98
+Amostra AAS (n = 383),valor_total_pago,206,0.0918,116.3,129.59
+Amostra AAS (n = 383),valor_total_pago,207,0.0983,116.85,130.21
+Amostra AAS (n = 383),valor_total_pago,208,0.1049,116.94,130.82
+Amostra AAS (n = 383),valor_total_pago,209,0.1115,117.15,131.44
+Amostra AAS (n = 383),valor_total_pago,210,0.1181,117.23,132.05
+Amostra AAS (n = 383),valor_total_pago,211,0.1247,117.9,132.67
+Amostra AAS (n = 383),valor_total_pago,212,0.1313,118.26,133.28
+Amostra AAS (n = 383),valor_total_pago,213,0.1379,118.88,133.9
+Amostra AAS (n = 383),valor_total_pago,214,0.1445,118.95,134.52
+Amostra AAS (n = 383),valor_total_pago,215,0.1511,119.48,135.14
+Amostra AAS (n = 383),valor_total_pago,216,0.1577,120.18,135.76
+Amostra AAS (n = 383),valor_total_pago,217,0.1644,121.33,136.38
+Amostra AAS (n = 383),valor_total_pago,218,0.171,122.8,137.0
+Amostra AAS (n = 383),valor_total_pago,219,0.1776,123.42,137.62
+Amostra AAS (n = 383),valor_total_pago,220,0.1843,123.73,138.24
+Amostra AAS (n = 383),valor_total_pago,221,0.191,126.53,138.86
+Amostra AAS (n = 383),valor_total_pago,222,0.1976,128.26,139.49
+Amostra AAS (n = 383),valor_total_pago,223,0.2043,128.31,140.11
+Amostra AAS (n = 383),valor_total_pago,224,0.211,128.72,140.74
+Amostra AAS (n = 383),valor_total_pago,225,0.2177,129.42,141.36
+Amostra AAS (n = 383),valor_total_pago,226,0.2244,130.32,141.99
+Amostra AAS (n = 383),valor_total_pago,227,0.2311,131.47,142.62
+Amostra AAS (n = 383),valor_total_pago,228,0.2378,133.47,143.25
+Amostra AAS (n = 383),valor_total_pago,229,0.2446,133.48,143.88
+Amostra AAS (n = 383),valor_total_pago,230,0.2513,133.76,144.51
+Amostra AAS (n = 383),valor_total_pago,231,0.2581,135.34,145.14
+Amostra AAS (n = 383),valor_total_pago,232,0.2649,135.49,145.77
+Amostra AAS (n = 383),valor_total_pago,233,0.2716,136.37,146.41
+Amostra AAS (n = 383),valor_total_pago,234,0.2784,137.12,147.04
+Amostra AAS (n = 383),valor_total_pago,235,0.2852,138.3,147.68
+Amostra AAS (n = 383),valor_total_pago,236,0.2921,138.49,148.31
+Amostra AAS (n = 383),valor_total_pago,237,0.2989,138.59,148.95
+Amostra AAS (n = 383),valor_total_pago,238,0.3058,139.53,149.59
+Amostra AAS (n = 383),valor_total_pago,239,0.3126,140.4,150.24
+Amostra AAS (n = 383),valor_total_pago,240,0.3195,142.96,150.88
+Amostra AAS (n = 383),valor_total_pago,241,0.3264,143.66,151.52
+Amostra AAS (n = 383),valor_total_pago,242,0.3333,144.37,152.17
+Amostra AAS (n = 383),valor_total_pago,243,0.3402,146.36,152.82
+Amostra AAS (n = 383),valor_total_pago,244,0.3472,146.57,153.47
+Amostra AAS (n = 383),valor_total_pago,245,0.3541,147.15,154.12
+Amostra AAS (n = 383),valor_total_pago,246,0.3611,147.27,154.77
+Amostra AAS (n = 383),valor_total_pago,247,0.3681,147.34,155.42
+Amostra AAS (n = 383),valor_total_pago,248,0.3751,148.54,156.08
+Amostra AAS (n = 383),valor_total_pago,249,0.3822,149.78,156.73
+Amostra AAS (n = 383),valor_total_pago,250,0.3892,150.47,157.39
+Amostra AAS (n = 383),valor_total_pago,251,0.3963,150.7,158.05
+Amostra AAS (n = 383),valor_total_pago,252,0.4034,150.87,158.72
+Amostra AAS (n = 383),valor_total_pago,253,0.4105,151.48,159.38
+Amostra AAS (n = 383),valor_total_pago,254,0.4176,151.61,160.05
+Amostra AAS (n = 383),valor_total_pago,255,0.4248,158.91,160.72
+Amostra AAS (n = 383),valor_total_pago,256,0.4319,159.02,161.39
+Amostra AAS (n = 383),valor_total_pago,257,0.4391,159.84,162.06
+Amostra AAS (n = 383),valor_total_pago,258,0.4463,161.01,162.73
+Amostra AAS (n = 383),valor_total_pago,259,0.4536,161.35,163.41
+Amostra AAS (n = 383),valor_total_pago,260,0.4608,163.26,164.09
+Amostra AAS (n = 383),valor_total_pago,261,0.4681,163.44,164.77
+Amostra AAS (n = 383),valor_total_pago,262,0.4755,168.52,165.46
+Amostra AAS (n = 383),valor_total_pago,263,0.4828,169.5,166.14
+Amostra AAS (n = 383),valor_total_pago,264,0.4902,171.44,166.83
+Amostra AAS (n = 383),valor_total_pago,265,0.4976,171.61,167.52
+Amostra AAS (n = 383),valor_total_pago,266,0.505,172.5,168.22
+Amostra AAS (n = 383),valor_total_pago,267,0.5124,172.84,168.91
+Amostra AAS (n = 383),valor_total_pago,268,0.5199,173.34,169.61
+Amostra AAS (n = 383),valor_total_pago,269,0.5274,173.53,170.31
+Amostra AAS (n = 383),valor_total_pago,270,0.5349,173.53,171.02
+Amostra AAS (n = 383),valor_total_pago,271,0.5425,173.59,171.72
+Amostra AAS (n = 383),valor_total_pago,272,0.5501,173.88,172.43
+Amostra AAS (n = 383),valor_total_pago,273,0.5577,173.89,173.15
+Amostra AAS (n = 383),valor_total_pago,274,0.5654,176.07,173.86
+Amostra AAS (n = 383),valor_total_pago,275,0.5731,177.0,174.58
+Amostra AAS (n = 383),valor_total_pago,276,0.5808,177.02,175.31
+Amostra AAS (n = 383),valor_total_pago,277,0.5886,177.37,176.03
+Amostra AAS (n = 383),valor_total_pago,278,0.5964,177.6,176.76
+Amostra AAS (n = 383),valor_total_pago,279,0.6042,178.33,177.49
+Amostra AAS (n = 383),valor_total_pago,280,0.6121,179.31,178.23
+Amostra AAS (n = 383),valor_total_pago,281,0.62,180.49,178.97
+Amostra AAS (n = 383),valor_total_pago,282,0.628,181.84,179.71
+Amostra AAS (n = 383),valor_total_pago,283,0.636,181.92,180.46
+Amostra AAS (n = 383),valor_total_pago,284,0.644,182.2,181.21
+Amostra AAS (n = 383),valor_total_pago,285,0.6521,182.54,181.96
+Amostra AAS (n = 383),valor_total_pago,286,0.6602,182.91,182.72
+Amostra AAS (n = 383),valor_total_pago,287,0.6683,183.22,183.49
+Amostra AAS (n = 383),valor_total_pago,288,0.6765,184.9,184.25
+Amostra AAS (n = 383),valor_total_pago,289,0.6848,187.5,185.02
+Amostra AAS (n = 383),valor_total_pago,290,0.6931,187.67,185.8
+Amostra AAS (n = 383),valor_total_pago,291,0.7014,188.04,186.58
+Amostra AAS (n = 383),valor_total_pago,292,0.7098,189.81,187.36
+Amostra AAS (n = 383),valor_total_pago,293,0.7183,191.68,188.15
+Amostra AAS (n = 383),valor_total_pago,294,0.7268,192.14,188.95
+Amostra AAS (n = 383),valor_total_pago,295,0.7353,196.25,189.75
+Amostra AAS (n = 383),valor_total_pago,296,0.7439,200.55,190.55
+Amostra AAS (n = 383),valor_total_pago,297,0.7526,205.55,191.36
+Amostra AAS (n = 383),valor_total_pago,298,0.7613,205.74,192.17
+Amostra AAS (n = 383),valor_total_pago,299,0.7701,208.61,192.99
+Amostra AAS (n = 383),valor_total_pago,300,0.7789,211.74,193.82
+Amostra AAS (n = 383),valor_total_pago,301,0.7878,212.58,194.65
+Amostra AAS (n = 383),valor_total_pago,302,0.7968,215.8,195.49
+Amostra AAS (n = 383),valor_total_pago,303,0.8058,217.37,196.33
+Amostra AAS (n = 383),valor_total_pago,304,0.8149,217.58,197.18
+Amostra AAS (n = 383),valor_total_pago,305,0.824,218.27,198.04
+Amostra AAS (n = 383),valor_total_pago,306,0.8333,221.99,198.9
+Amostra AAS (n = 383),valor_total_pago,307,0.8426,223.14,199.77
+Amostra AAS (n = 383),valor_total_pago,308,0.8519,226.14,200.64
+Amostra AAS (n = 383),valor_total_pago,309,0.8614,226.71,201.53
+Amostra AAS (n = 383),valor_total_pago,310,0.8709,226.98,202.42
+Amostra AAS (n = 383),valor_total_pago,311,0.8805,229.04,203.32
+Amostra AAS (n = 383),valor_total_pago,312,0.8902,229.34,204.22
+Amostra AAS (n = 383),valor_total_pago,313,0.9,229.79,205.13
+Amostra AAS (n = 383),valor_total_pago,314,0.9098,235.7,206.06
+Amostra AAS (n = 383),valor_total_pago,315,0.9198,235.7,206.98
+Amostra AAS (n = 383),valor_total_pago,316,0.9298,236.12,207.92
+Amostra AAS (n = 383),valor_total_pago,317,0.9399,238.95,208.87
+Amostra AAS (n = 383),valor_total_pago,318,0.9501,244.71,209.83
+Amostra AAS (n = 383),valor_total_pago,319,0.9605,246.99,210.79
+Amostra AAS (n = 383),valor_total_pago,320,0.9709,255.06,211.77
+Amostra AAS (n = 383),valor_total_pago,321,0.9815,255.6,212.75
+Amostra AAS (n = 383),valor_total_pago,322,0.9921,257.29,213.75
+Amostra AAS (n = 383),valor_total_pago,323,1.0029,258.87,214.75
+Amostra AAS (n = 383),valor_total_pago,324,1.0137,262.67,215.77
+Amostra AAS (n = 383),valor_total_pago,325,1.0247,265.84,216.8
+Amostra AAS (n = 383),valor_total_pago,326,1.0359,266.53,217.84
+Amostra AAS (n = 383),valor_total_pago,327,1.0471,266.96,218.89
+Amostra AAS (n = 383),valor_total_pago,328,1.0585,267.9,219.96
+Amostra AAS (n = 383),valor_total_pago,329,1.0701,270.1,221.03
+Amostra AAS (n = 383),valor_total_pago,330,1.0817,272.94,222.12
+Amostra AAS (n = 383),valor_total_pago,331,1.0936,272.97,223.23
+Amostra AAS (n = 383),valor_total_pago,332,1.1055,280.0,224.35
+Amostra AAS (n = 383),valor_total_pago,333,1.1177,286.64,225.48
+Amostra AAS (n = 383),valor_total_pago,334,1.13,304.55,226.63
+Amostra AAS (n = 383),valor_total_pago,335,1.1425,307.27,227.8
+Amostra AAS (n = 383),valor_total_pago,336,1.1551,307.38,228.98
+Amostra AAS (n = 383),valor_total_pago,337,1.168,313.53,230.19
+Amostra AAS (n = 383),valor_total_pago,338,1.181,313.72,231.4
+Amostra AAS (n = 383),valor_total_pago,339,1.1943,314.6,232.64
+Amostra AAS (n = 383),valor_total_pago,340,1.2077,317.4,233.9
+Amostra AAS (n = 383),valor_total_pago,341,1.2214,319.0,235.18
+Amostra AAS (n = 383),valor_total_pago,342,1.2353,321.34,236.48
+Amostra AAS (n = 383),valor_total_pago,343,1.2495,322.84,237.81
+Amostra AAS (n = 383),valor_total_pago,344,1.2639,334.8,239.15
+Amostra AAS (n = 383),valor_total_pago,345,1.2786,336.86,240.52
+Amostra AAS (n = 383),valor_total_pago,346,1.2935,341.85,241.92
+Amostra AAS (n = 383),valor_total_pago,347,1.3088,342.02,243.35
+Amostra AAS (n = 383),valor_total_pago,348,1.3244,342.48,244.81
+Amostra AAS (n = 383),valor_total_pago,349,1.3403,351.64,246.29
+Amostra AAS (n = 383),valor_total_pago,350,1.3565,353.9,247.81
+Amostra AAS (n = 383),valor_total_pago,351,1.3731,369.6,249.36
+Amostra AAS (n = 383),valor_total_pago,352,1.3901,378.39,250.95
+Amostra AAS (n = 383),valor_total_pago,353,1.4075,388.88,252.58
+Amostra AAS (n = 383),valor_total_pago,354,1.4254,398.8,254.25
+Amostra AAS (n = 383),valor_total_pago,355,1.4437,410.84,255.96
+Amostra AAS (n = 383),valor_total_pago,356,1.4625,414.18,257.72
+Amostra AAS (n = 383),valor_total_pago,357,1.4818,415.54,259.52
+Amostra AAS (n = 383),valor_total_pago,358,1.5018,418.56,261.39
+Amostra AAS (n = 383),valor_total_pago,359,1.5223,448.71,263.3
+Amostra AAS (n = 383),valor_total_pago,360,1.5435,449.74,265.28
+Amostra AAS (n = 383),valor_total_pago,361,1.5654,452.1,267.33
+Amostra AAS (n = 383),valor_total_pago,362,1.5881,453.92,269.45
+Amostra AAS (n = 383),valor_total_pago,363,1.6116,455.71,271.65
+Amostra AAS (n = 383),valor_total_pago,364,1.6361,465.99,273.94
+Amostra AAS (n = 383),valor_total_pago,365,1.6615,514.7,276.32
+Amostra AAS (n = 383),valor_total_pago,366,1.6881,526.11,278.81
+Amostra AAS (n = 383),valor_total_pago,367,1.716,536.09,281.41
+Amostra AAS (n = 383),valor_total_pago,368,1.7453,555.32,284.15
+Amostra AAS (n = 383),valor_total_pago,369,1.7761,565.25,287.03
+Amostra AAS (n = 383),valor_total_pago,370,1.8087,573.56,290.08
+Amostra AAS (n = 383),valor_total_pago,371,1.8434,600.43,293.32
+Amostra AAS (n = 383),valor_total_pago,372,1.8804,610.92,296.78
+Amostra AAS (n = 383),valor_total_pago,373,1.9202,720.98,300.5
+Amostra AAS (n = 383),valor_total_pago,374,1.9633,779.77,304.53
+Amostra AAS (n = 383),valor_total_pago,375,2.0104,819.34,308.93
+Amostra AAS (n = 383),valor_total_pago,376,2.0625,828.08,313.79
+Amostra AAS (n = 383),valor_total_pago,377,2.1208,839.04,319.24
+Amostra AAS (n = 383),valor_total_pago,378,2.1873,927.28,325.46
+Amostra AAS (n = 383),valor_total_pago,379,2.2652,967.7,332.75
+Amostra AAS (n = 383),valor_total_pago,380,2.36,1231.29,341.6
+Amostra AAS (n = 383),valor_total_pago,381,2.4823,1260.65,353.03
+Amostra AAS (n = 383),valor_total_pago,382,2.6592,1528.03,369.57
+Amostra AAS (n = 383),valor_total_pago,383,3.0102,1730.04,402.38
+Amostra AAS (n = 383),valor_total_frete,1,-3.0102,0.0,-5.58
+Amostra AAS (n = 383),valor_total_frete,2,-2.6592,0.0,-2.6
+Amostra AAS (n = 383),valor_total_frete,3,-2.4823,0.0,-1.11
+Amostra AAS (n = 383),valor_total_frete,4,-2.36,0.0,-0.07
+Amostra AAS (n = 383),valor_total_frete,5,-2.2652,7.39,0.73
+Amostra AAS (n = 383),valor_total_frete,6,-2.1873,7.39,1.39
+Amostra AAS (n = 383),valor_total_frete,7,-2.1208,7.39,1.96
+Amostra AAS (n = 383),valor_total_frete,8,-2.0625,7.39,2.45
+Amostra AAS (n = 383),valor_total_frete,9,-2.0104,7.39,2.89
+Amostra AAS (n = 383),valor_total_frete,10,-1.9633,7.39,3.29
+Amostra AAS (n = 383),valor_total_frete,11,-1.9202,7.47,3.65
+Amostra AAS (n = 383),valor_total_frete,12,-1.8804,7.48,3.99
+Amostra AAS (n = 383),valor_total_frete,13,-1.8434,7.65,4.31
+Amostra AAS (n = 383),valor_total_frete,14,-1.8087,7.65,4.6
+Amostra AAS (n = 383),valor_total_frete,15,-1.7761,7.71,4.88
+Amostra AAS (n = 383),valor_total_frete,16,-1.7453,7.78,5.14
+Amostra AAS (n = 383),valor_total_frete,17,-1.716,7.78,5.38
+Amostra AAS (n = 383),valor_total_frete,18,-1.6881,7.78,5.62
+Amostra AAS (n = 383),valor_total_frete,19,-1.6615,7.87,5.85
+Amostra AAS (n = 383),valor_total_frete,20,-1.6361,7.88,6.06
+Amostra AAS (n = 383),valor_total_frete,21,-1.6116,7.88,6.27
+Amostra AAS (n = 383),valor_total_frete,22,-1.5881,7.92,6.47
+Amostra AAS (n = 383),valor_total_frete,23,-1.5654,8.11,6.66
+Amostra AAS (n = 383),valor_total_frete,24,-1.5435,8.26,6.85
+Amostra AAS (n = 383),valor_total_frete,25,-1.5223,8.27,7.02
+Amostra AAS (n = 383),valor_total_frete,26,-1.5018,8.27,7.2
+Amostra AAS (n = 383),valor_total_frete,27,-1.4818,8.27,7.37
+Amostra AAS (n = 383),valor_total_frete,28,-1.4625,8.49,7.53
+Amostra AAS (n = 383),valor_total_frete,29,-1.4437,8.53,7.69
+Amostra AAS (n = 383),valor_total_frete,30,-1.4254,8.64,7.85
+Amostra AAS (n = 383),valor_total_frete,31,-1.4075,8.72,8.0
+Amostra AAS (n = 383),valor_total_frete,32,-1.3901,8.72,8.14
+Amostra AAS (n = 383),valor_total_frete,33,-1.3731,8.82,8.29
+Amostra AAS (n = 383),valor_total_frete,34,-1.3565,8.91,8.43
+Amostra AAS (n = 383),valor_total_frete,35,-1.3403,8.96,8.57
+Amostra AAS (n = 383),valor_total_frete,36,-1.3244,9.01,8.7
+Amostra AAS (n = 383),valor_total_frete,37,-1.3088,9.17,8.83
+Amostra AAS (n = 383),valor_total_frete,38,-1.2935,9.27,8.96
+Amostra AAS (n = 383),valor_total_frete,39,-1.2786,9.34,9.09
+Amostra AAS (n = 383),valor_total_frete,40,-1.2639,9.42,9.21
+Amostra AAS (n = 383),valor_total_frete,41,-1.2495,9.69,9.34
+Amostra AAS (n = 383),valor_total_frete,42,-1.2353,10.04,9.46
+Amostra AAS (n = 383),valor_total_frete,43,-1.2214,10.3,9.57
+Amostra AAS (n = 383),valor_total_frete,44,-1.2077,11.16,9.69
+Amostra AAS (n = 383),valor_total_frete,45,-1.1943,11.29,9.8
+Amostra AAS (n = 383),valor_total_frete,46,-1.181,11.31,9.92
+Amostra AAS (n = 383),valor_total_frete,47,-1.168,11.5,10.03
+Amostra AAS (n = 383),valor_total_frete,48,-1.1551,11.74,10.13
+Amostra AAS (n = 383),valor_total_frete,49,-1.1425,11.85,10.24
+Amostra AAS (n = 383),valor_total_frete,50,-1.13,11.85,10.35
+Amostra AAS (n = 383),valor_total_frete,51,-1.1177,11.85,10.45
+Amostra AAS (n = 383),valor_total_frete,52,-1.1055,11.85,10.55
+Amostra AAS (n = 383),valor_total_frete,53,-1.0936,11.85,10.66
+Amostra AAS (n = 383),valor_total_frete,54,-1.0817,11.85,10.76
+Amostra AAS (n = 383),valor_total_frete,55,-1.0701,11.85,10.85
+Amostra AAS (n = 383),valor_total_frete,56,-1.0585,11.85,10.95
+Amostra AAS (n = 383),valor_total_frete,57,-1.0471,11.85,11.05
+Amostra AAS (n = 383),valor_total_frete,58,-1.0359,11.85,11.14
+Amostra AAS (n = 383),valor_total_frete,59,-1.0247,11.85,11.24
+Amostra AAS (n = 383),valor_total_frete,60,-1.0137,11.85,11.33
+Amostra AAS (n = 383),valor_total_frete,61,-1.0029,11.85,11.42
+Amostra AAS (n = 383),valor_total_frete,62,-0.9921,11.85,11.52
+Amostra AAS (n = 383),valor_total_frete,63,-0.9815,11.88,11.61
+Amostra AAS (n = 383),valor_total_frete,64,-0.9709,11.97,11.69
+Amostra AAS (n = 383),valor_total_frete,65,-0.9605,11.99,11.78
+Amostra AAS (n = 383),valor_total_frete,66,-0.9501,12.23,11.87
+Amostra AAS (n = 383),valor_total_frete,67,-0.9399,12.23,11.96
+Amostra AAS (n = 383),valor_total_frete,68,-0.9298,12.31,12.04
+Amostra AAS (n = 383),valor_total_frete,69,-0.9198,12.33,12.13
+Amostra AAS (n = 383),valor_total_frete,70,-0.9098,12.33,12.21
+Amostra AAS (n = 383),valor_total_frete,71,-0.9,12.48,12.3
+Amostra AAS (n = 383),valor_total_frete,72,-0.8902,12.51,12.38
+Amostra AAS (n = 383),valor_total_frete,73,-0.8805,12.61,12.46
+Amostra AAS (n = 383),valor_total_frete,74,-0.8709,12.69,12.54
+Amostra AAS (n = 383),valor_total_frete,75,-0.8614,12.79,12.62
+Amostra AAS (n = 383),valor_total_frete,76,-0.8519,12.82,12.7
+Amostra AAS (n = 383),valor_total_frete,77,-0.8426,12.89,12.78
+Amostra AAS (n = 383),valor_total_frete,78,-0.8333,12.9,12.86
+Amostra AAS (n = 383),valor_total_frete,79,-0.824,13.01,12.94
+Amostra AAS (n = 383),valor_total_frete,80,-0.8149,13.21,13.02
+Amostra AAS (n = 383),valor_total_frete,81,-0.8058,13.32,13.09
+Amostra AAS (n = 383),valor_total_frete,82,-0.7968,13.37,13.17
+Amostra AAS (n = 383),valor_total_frete,83,-0.7878,13.44,13.25
+Amostra AAS (n = 383),valor_total_frete,84,-0.7789,13.49,13.32
+Amostra AAS (n = 383),valor_total_frete,85,-0.7701,13.51,13.4
+Amostra AAS (n = 383),valor_total_frete,86,-0.7613,13.63,13.47
+Amostra AAS (n = 383),valor_total_frete,87,-0.7526,13.82,13.54
+Amostra AAS (n = 383),valor_total_frete,88,-0.7439,13.84,13.62
+Amostra AAS (n = 383),valor_total_frete,89,-0.7353,13.86,13.69
+Amostra AAS (n = 383),valor_total_frete,90,-0.7268,13.98,13.76
+Amostra AAS (n = 383),valor_total_frete,91,-0.7183,14.1,13.83
+Amostra AAS (n = 383),valor_total_frete,92,-0.7098,14.1,13.91
+Amostra AAS (n = 383),valor_total_frete,93,-0.7014,14.1,13.98
+Amostra AAS (n = 383),valor_total_frete,94,-0.6931,14.1,14.05
+Amostra AAS (n = 383),valor_total_frete,95,-0.6848,14.1,14.12
+Amostra AAS (n = 383),valor_total_frete,96,-0.6765,14.19,14.19
+Amostra AAS (n = 383),valor_total_frete,97,-0.6683,14.22,14.26
+Amostra AAS (n = 383),valor_total_frete,98,-0.6602,14.33,14.33
+Amostra AAS (n = 383),valor_total_frete,99,-0.6521,14.43,14.39
+Amostra AAS (n = 383),valor_total_frete,100,-0.644,14.44,14.46
+Amostra AAS (n = 383),valor_total_frete,101,-0.636,14.52,14.53
+Amostra AAS (n = 383),valor_total_frete,102,-0.628,14.52,14.6
+Amostra AAS (n = 383),valor_total_frete,103,-0.62,14.52,14.67
+Amostra AAS (n = 383),valor_total_frete,104,-0.6121,14.52,14.73
+Amostra AAS (n = 383),valor_total_frete,105,-0.6042,14.52,14.8
+Amostra AAS (n = 383),valor_total_frete,106,-0.5964,14.52,14.87
+Amostra AAS (n = 383),valor_total_frete,107,-0.5886,14.52,14.93
+Amostra AAS (n = 383),valor_total_frete,108,-0.5808,14.53,15.0
+Amostra AAS (n = 383),valor_total_frete,109,-0.5731,14.8,15.06
+Amostra AAS (n = 383),valor_total_frete,110,-0.5654,14.83,15.13
+Amostra AAS (n = 383),valor_total_frete,111,-0.5577,14.92,15.19
+Amostra AAS (n = 383),valor_total_frete,112,-0.5501,15.1,15.26
+Amostra AAS (n = 383),valor_total_frete,113,-0.5425,15.1,15.32
+Amostra AAS (n = 383),valor_total_frete,114,-0.5349,15.1,15.39
+Amostra AAS (n = 383),valor_total_frete,115,-0.5274,15.1,15.45
+Amostra AAS (n = 383),valor_total_frete,116,-0.5199,15.1,15.51
+Amostra AAS (n = 383),valor_total_frete,117,-0.5124,15.1,15.58
+Amostra AAS (n = 383),valor_total_frete,118,-0.505,15.1,15.64
+Amostra AAS (n = 383),valor_total_frete,119,-0.4976,15.1,15.7
+Amostra AAS (n = 383),valor_total_frete,120,-0.4902,15.1,15.77
+Amostra AAS (n = 383),valor_total_frete,121,-0.4828,15.1,15.83
+Amostra AAS (n = 383),valor_total_frete,122,-0.4755,15.1,15.89
+Amostra AAS (n = 383),valor_total_frete,123,-0.4681,15.1,15.95
+Amostra AAS (n = 383),valor_total_frete,124,-0.4608,15.12,16.01
+Amostra AAS (n = 383),valor_total_frete,125,-0.4536,15.13,16.08
+Amostra AAS (n = 383),valor_total_frete,126,-0.4463,15.23,16.14
+Amostra AAS (n = 383),valor_total_frete,127,-0.4391,15.23,16.2
+Amostra AAS (n = 383),valor_total_frete,128,-0.4319,15.23,16.26
+Amostra AAS (n = 383),valor_total_frete,129,-0.4248,15.25,16.32
+Amostra AAS (n = 383),valor_total_frete,130,-0.4176,15.3,16.38
+Amostra AAS (n = 383),valor_total_frete,131,-0.4105,15.31,16.44
+Amostra AAS (n = 383),valor_total_frete,132,-0.4034,15.32,16.5
+Amostra AAS (n = 383),valor_total_frete,133,-0.3963,15.32,16.56
+Amostra AAS (n = 383),valor_total_frete,134,-0.3892,15.35,16.62
+Amostra AAS (n = 383),valor_total_frete,135,-0.3822,15.37,16.68
+Amostra AAS (n = 383),valor_total_frete,136,-0.3751,15.38,16.74
+Amostra AAS (n = 383),valor_total_frete,137,-0.3681,15.39,16.8
+Amostra AAS (n = 383),valor_total_frete,138,-0.3611,15.48,16.86
+Amostra AAS (n = 383),valor_total_frete,139,-0.3541,15.56,16.92
+Amostra AAS (n = 383),valor_total_frete,140,-0.3472,15.56,16.98
+Amostra AAS (n = 383),valor_total_frete,141,-0.3402,15.59,17.04
+Amostra AAS (n = 383),valor_total_frete,142,-0.3333,15.7,17.09
+Amostra AAS (n = 383),valor_total_frete,143,-0.3264,15.74,17.15
+Amostra AAS (n = 383),valor_total_frete,144,-0.3195,15.91,17.21
+Amostra AAS (n = 383),valor_total_frete,145,-0.3126,15.92,17.27
+Amostra AAS (n = 383),valor_total_frete,146,-0.3058,15.94,17.33
+Amostra AAS (n = 383),valor_total_frete,147,-0.2989,15.98,17.39
+Amostra AAS (n = 383),valor_total_frete,148,-0.2921,16.11,17.44
+Amostra AAS (n = 383),valor_total_frete,149,-0.2852,16.11,17.5
+Amostra AAS (n = 383),valor_total_frete,150,-0.2784,16.11,17.56
+Amostra AAS (n = 383),valor_total_frete,151,-0.2716,16.11,17.62
+Amostra AAS (n = 383),valor_total_frete,152,-0.2649,16.11,17.67
+Amostra AAS (n = 383),valor_total_frete,153,-0.2581,16.14,17.73
+Amostra AAS (n = 383),valor_total_frete,154,-0.2513,16.15,17.79
+Amostra AAS (n = 383),valor_total_frete,155,-0.2446,16.19,17.85
+Amostra AAS (n = 383),valor_total_frete,156,-0.2378,16.31,17.9
+Amostra AAS (n = 383),valor_total_frete,157,-0.2311,16.32,17.96
+Amostra AAS (n = 383),valor_total_frete,158,-0.2244,16.36,18.02
+Amostra AAS (n = 383),valor_total_frete,159,-0.2177,16.39,18.07
+Amostra AAS (n = 383),valor_total_frete,160,-0.211,16.4,18.13
+Amostra AAS (n = 383),valor_total_frete,161,-0.2043,16.42,18.19
+Amostra AAS (n = 383),valor_total_frete,162,-0.1976,16.47,18.24
+Amostra AAS (n = 383),valor_total_frete,163,-0.191,16.54,18.3
+Amostra AAS (n = 383),valor_total_frete,164,-0.1843,16.54,18.36
+Amostra AAS (n = 383),valor_total_frete,165,-0.1776,16.55,18.41
+Amostra AAS (n = 383),valor_total_frete,166,-0.171,16.56,18.47
+Amostra AAS (n = 383),valor_total_frete,167,-0.1644,16.58,18.53
+Amostra AAS (n = 383),valor_total_frete,168,-0.1577,16.6,18.58
+Amostra AAS (n = 383),valor_total_frete,169,-0.1511,16.63,18.64
+Amostra AAS (n = 383),valor_total_frete,170,-0.1445,16.63,18.69
+Amostra AAS (n = 383),valor_total_frete,171,-0.1379,16.64,18.75
+Amostra AAS (n = 383),valor_total_frete,172,-0.1313,16.67,18.81
+Amostra AAS (n = 383),valor_total_frete,173,-0.1247,16.79,18.86
+Amostra AAS (n = 383),valor_total_frete,174,-0.1181,16.79,18.92
+Amostra AAS (n = 383),valor_total_frete,175,-0.1115,16.79,18.97
+Amostra AAS (n = 383),valor_total_frete,176,-0.1049,16.84,19.03
+Amostra AAS (n = 383),valor_total_frete,177,-0.0983,16.85,19.08
+Amostra AAS (n = 383),valor_total_frete,178,-0.0918,16.88,19.14
+Amostra AAS (n = 383),valor_total_frete,179,-0.0852,16.9,19.2
+Amostra AAS (n = 383),valor_total_frete,180,-0.0786,16.92,19.25
+Amostra AAS (n = 383),valor_total_frete,181,-0.0721,16.95,19.31
+Amostra AAS (n = 383),valor_total_frete,182,-0.0655,16.96,19.36
+Amostra AAS (n = 383),valor_total_frete,183,-0.0589,17.02,19.42
+Amostra AAS (n = 383),valor_total_frete,184,-0.0524,17.17,19.47
+Amostra AAS (n = 383),valor_total_frete,185,-0.0458,17.19,19.53
+Amostra AAS (n = 383),valor_total_frete,186,-0.0393,17.25,19.58
+Amostra AAS (n = 383),valor_total_frete,187,-0.0327,17.35,19.64
+Amostra AAS (n = 383),valor_total_frete,188,-0.0262,17.35,19.7
+Amostra AAS (n = 383),valor_total_frete,189,-0.0196,17.5,19.75
+Amostra AAS (n = 383),valor_total_frete,190,-0.0131,17.53,19.81
+Amostra AAS (n = 383),valor_total_frete,191,-0.0065,17.6,19.86
+Amostra AAS (n = 383),valor_total_frete,192,-0.0,17.6,19.92
+Amostra AAS (n = 383),valor_total_frete,193,0.0065,17.63,19.97
+Amostra AAS (n = 383),valor_total_frete,194,0.0131,17.67,20.03
+Amostra AAS (n = 383),valor_total_frete,195,0.0196,17.71,20.08
+Amostra AAS (n = 383),valor_total_frete,196,0.0262,17.78,20.14
+Amostra AAS (n = 383),valor_total_frete,197,0.0327,17.78,20.19
+Amostra AAS (n = 383),valor_total_frete,198,0.0393,17.78,20.25
+Amostra AAS (n = 383),valor_total_frete,199,0.0458,17.8,20.31
+Amostra AAS (n = 383),valor_total_frete,200,0.0524,17.8,20.36
+Amostra AAS (n = 383),valor_total_frete,201,0.0589,17.81,20.42
+Amostra AAS (n = 383),valor_total_frete,202,0.0655,17.88,20.47
+Amostra AAS (n = 383),valor_total_frete,203,0.0721,17.92,20.53
+Amostra AAS (n = 383),valor_total_frete,204,0.0786,17.94,20.58
+Amostra AAS (n = 383),valor_total_frete,205,0.0852,17.97,20.64
+Amostra AAS (n = 383),valor_total_frete,206,0.0918,18.0,20.69
+Amostra AAS (n = 383),valor_total_frete,207,0.0983,18.02,20.75
+Amostra AAS (n = 383),valor_total_frete,208,0.1049,18.05,20.81
+Amostra AAS (n = 383),valor_total_frete,209,0.1115,18.06,20.86
+Amostra AAS (n = 383),valor_total_frete,210,0.1181,18.14,20.92
+Amostra AAS (n = 383),valor_total_frete,211,0.1247,18.15,20.97
+Amostra AAS (n = 383),valor_total_frete,212,0.1313,18.16,21.03
+Amostra AAS (n = 383),valor_total_frete,213,0.1379,18.23,21.09
+Amostra AAS (n = 383),valor_total_frete,214,0.1445,18.23,21.14
+Amostra AAS (n = 383),valor_total_frete,215,0.1511,18.23,21.2
+Amostra AAS (n = 383),valor_total_frete,216,0.1577,18.23,21.25
+Amostra AAS (n = 383),valor_total_frete,217,0.1644,18.23,21.31
+Amostra AAS (n = 383),valor_total_frete,218,0.171,18.23,21.37
+Amostra AAS (n = 383),valor_total_frete,219,0.1776,18.27,21.42
+Amostra AAS (n = 383),valor_total_frete,220,0.1843,18.34,21.48
+Amostra AAS (n = 383),valor_total_frete,221,0.191,18.42,21.53
+Amostra AAS (n = 383),valor_total_frete,222,0.1976,18.46,21.59
+Amostra AAS (n = 383),valor_total_frete,223,0.2043,18.52,21.65
+Amostra AAS (n = 383),valor_total_frete,224,0.211,18.52,21.7
+Amostra AAS (n = 383),valor_total_frete,225,0.2177,18.55,21.76
+Amostra AAS (n = 383),valor_total_frete,226,0.2244,18.62,21.82
+Amostra AAS (n = 383),valor_total_frete,227,0.2311,18.65,21.87
+Amostra AAS (n = 383),valor_total_frete,228,0.2378,18.76,21.93
+Amostra AAS (n = 383),valor_total_frete,229,0.2446,18.83,21.99
+Amostra AAS (n = 383),valor_total_frete,230,0.2513,18.87,22.05
+Amostra AAS (n = 383),valor_total_frete,231,0.2581,18.91,22.1
+Amostra AAS (n = 383),valor_total_frete,232,0.2649,18.98,22.16
+Amostra AAS (n = 383),valor_total_frete,233,0.2716,19.0,22.22
+Amostra AAS (n = 383),valor_total_frete,234,0.2784,19.01,22.28
+Amostra AAS (n = 383),valor_total_frete,235,0.2852,19.04,22.33
+Amostra AAS (n = 383),valor_total_frete,236,0.2921,19.04,22.39
+Amostra AAS (n = 383),valor_total_frete,237,0.2989,19.09,22.45
+Amostra AAS (n = 383),valor_total_frete,238,0.3058,19.27,22.51
+Amostra AAS (n = 383),valor_total_frete,239,0.3126,19.37,22.57
+Amostra AAS (n = 383),valor_total_frete,240,0.3195,19.4,22.62
+Amostra AAS (n = 383),valor_total_frete,241,0.3264,19.53,22.68
+Amostra AAS (n = 383),valor_total_frete,242,0.3333,19.53,22.74
+Amostra AAS (n = 383),valor_total_frete,243,0.3402,19.59,22.8
+Amostra AAS (n = 383),valor_total_frete,244,0.3472,19.66,22.86
+Amostra AAS (n = 383),valor_total_frete,245,0.3541,19.7,22.92
+Amostra AAS (n = 383),valor_total_frete,246,0.3611,19.7,22.98
+Amostra AAS (n = 383),valor_total_frete,247,0.3681,19.71,23.04
+Amostra AAS (n = 383),valor_total_frete,248,0.3751,19.71,23.09
+Amostra AAS (n = 383),valor_total_frete,249,0.3822,20.34,23.15
+Amostra AAS (n = 383),valor_total_frete,250,0.3892,20.39,23.21
+Amostra AAS (n = 383),valor_total_frete,251,0.3963,20.88,23.27
+Amostra AAS (n = 383),valor_total_frete,252,0.4034,21.18,23.33
+Amostra AAS (n = 383),valor_total_frete,253,0.4105,21.36,23.39
+Amostra AAS (n = 383),valor_total_frete,254,0.4176,21.44,23.45
+Amostra AAS (n = 383),valor_total_frete,255,0.4248,21.54,23.51
+Amostra AAS (n = 383),valor_total_frete,256,0.4319,21.68,23.58
+Amostra AAS (n = 383),valor_total_frete,257,0.4391,22.06,23.64
+Amostra AAS (n = 383),valor_total_frete,258,0.4463,22.1,23.7
+Amostra AAS (n = 383),valor_total_frete,259,0.4536,22.47,23.76
+Amostra AAS (n = 383),valor_total_frete,260,0.4608,22.61,23.82
+Amostra AAS (n = 383),valor_total_frete,261,0.4681,22.85,23.88
+Amostra AAS (n = 383),valor_total_frete,262,0.4755,22.94,23.94
+Amostra AAS (n = 383),valor_total_frete,263,0.4828,22.99,24.01
+Amostra AAS (n = 383),valor_total_frete,264,0.4902,23.28,24.07
+Amostra AAS (n = 383),valor_total_frete,265,0.4976,23.42,24.13
+Amostra AAS (n = 383),valor_total_frete,266,0.505,23.47,24.19
+Amostra AAS (n = 383),valor_total_frete,267,0.5124,23.48,24.26
+Amostra AAS (n = 383),valor_total_frete,268,0.5199,23.5,24.32
+Amostra AAS (n = 383),valor_total_frete,269,0.5274,23.56,24.38
+Amostra AAS (n = 383),valor_total_frete,270,0.5349,23.57,24.45
+Amostra AAS (n = 383),valor_total_frete,271,0.5425,23.63,24.51
+Amostra AAS (n = 383),valor_total_frete,272,0.5501,23.7,24.58
+Amostra AAS (n = 383),valor_total_frete,273,0.5577,23.7,24.64
+Amostra AAS (n = 383),valor_total_frete,274,0.5654,23.82,24.71
+Amostra AAS (n = 383),valor_total_frete,275,0.5731,23.84,24.77
+Amostra AAS (n = 383),valor_total_frete,276,0.5808,23.9,24.84
+Amostra AAS (n = 383),valor_total_frete,277,0.5886,23.94,24.9
+Amostra AAS (n = 383),valor_total_frete,278,0.5964,23.98,24.97
+Amostra AAS (n = 383),valor_total_frete,279,0.6042,24.35,25.03
+Amostra AAS (n = 383),valor_total_frete,280,0.6121,25.1,25.1
+Amostra AAS (n = 383),valor_total_frete,281,0.62,25.1,25.17
+Amostra AAS (n = 383),valor_total_frete,282,0.628,25.35,25.24
+Amostra AAS (n = 383),valor_total_frete,283,0.636,25.42,25.3
+Amostra AAS (n = 383),valor_total_frete,284,0.644,25.58,25.37
+Amostra AAS (n = 383),valor_total_frete,285,0.6521,25.61,25.44
+Amostra AAS (n = 383),valor_total_frete,286,0.6602,25.63,25.51
+Amostra AAS (n = 383),valor_total_frete,287,0.6683,25.63,25.58
+Amostra AAS (n = 383),valor_total_frete,288,0.6765,25.63,25.65
+Amostra AAS (n = 383),valor_total_frete,289,0.6848,25.63,25.72
+Amostra AAS (n = 383),valor_total_frete,290,0.6931,25.66,25.79
+Amostra AAS (n = 383),valor_total_frete,291,0.7014,25.81,25.86
+Amostra AAS (n = 383),valor_total_frete,292,0.7098,25.81,25.93
+Amostra AAS (n = 383),valor_total_frete,293,0.7183,26.08,26.0
+Amostra AAS (n = 383),valor_total_frete,294,0.7268,26.24,26.07
+Amostra AAS (n = 383),valor_total_frete,295,0.7353,26.49,26.15
+Amostra AAS (n = 383),valor_total_frete,296,0.7439,26.81,26.22
+Amostra AAS (n = 383),valor_total_frete,297,0.7526,27.09,26.29
+Amostra AAS (n = 383),valor_total_frete,298,0.7613,27.14,26.37
+Amostra AAS (n = 383),valor_total_frete,299,0.7701,27.52,26.44
+Amostra AAS (n = 383),valor_total_frete,300,0.7789,27.58,26.51
+Amostra AAS (n = 383),valor_total_frete,301,0.7878,27.96,26.59
+Amostra AAS (n = 383),valor_total_frete,302,0.7968,28.18,26.67
+Amostra AAS (n = 383),valor_total_frete,303,0.8058,28.2,26.74
+Amostra AAS (n = 383),valor_total_frete,304,0.8149,28.38,26.82
+Amostra AAS (n = 383),valor_total_frete,305,0.824,28.72,26.9
+Amostra AAS (n = 383),valor_total_frete,306,0.8333,28.75,26.97
+Amostra AAS (n = 383),valor_total_frete,307,0.8426,28.82,27.05
+Amostra AAS (n = 383),valor_total_frete,308,0.8519,28.91,27.13
+Amostra AAS (n = 383),valor_total_frete,309,0.8614,29.28,27.21
+Amostra AAS (n = 383),valor_total_frete,310,0.8709,29.8,27.29
+Amostra AAS (n = 383),valor_total_frete,311,0.8805,29.88,27.37
+Amostra AAS (n = 383),valor_total_frete,312,0.8902,30.0,27.46
+Amostra AAS (n = 383),valor_total_frete,313,0.9,30.04,27.54
+Amostra AAS (n = 383),valor_total_frete,314,0.9098,30.2,27.62
+Amostra AAS (n = 383),valor_total_frete,315,0.9198,31.06,27.71
+Amostra AAS (n = 383),valor_total_frete,316,0.9298,31.09,27.79
+Amostra AAS (n = 383),valor_total_frete,317,0.9399,31.39,27.88
+Amostra AAS (n = 383),valor_total_frete,318,0.9501,31.57,27.96
+Amostra AAS (n = 383),valor_total_frete,319,0.9605,31.79,28.05
+Amostra AAS (n = 383),valor_total_frete,320,0.9709,32.15,28.14
+Amostra AAS (n = 383),valor_total_frete,321,0.9815,33.66,28.23
+Amostra AAS (n = 383),valor_total_frete,322,0.9921,33.74,28.32
+Amostra AAS (n = 383),valor_total_frete,323,1.0029,33.79,28.41
+Amostra AAS (n = 383),valor_total_frete,324,1.0137,34.15,28.5
+Amostra AAS (n = 383),valor_total_frete,325,1.0247,34.22,28.6
+Amostra AAS (n = 383),valor_total_frete,326,1.0359,34.26,28.69
+Amostra AAS (n = 383),valor_total_frete,327,1.0471,34.31,28.79
+Amostra AAS (n = 383),valor_total_frete,328,1.0585,34.44,28.88
+Amostra AAS (n = 383),valor_total_frete,329,1.0701,34.49,28.98
+Amostra AAS (n = 383),valor_total_frete,330,1.0817,35.82,29.08
+Amostra AAS (n = 383),valor_total_frete,331,1.0936,35.9,29.18
+Amostra AAS (n = 383),valor_total_frete,332,1.1055,36.4,29.28
+Amostra AAS (n = 383),valor_total_frete,333,1.1177,36.46,29.38
+Amostra AAS (n = 383),valor_total_frete,334,1.13,36.54,29.49
+Amostra AAS (n = 383),valor_total_frete,335,1.1425,36.66,29.59
+Amostra AAS (n = 383),valor_total_frete,336,1.1551,36.8,29.7
+Amostra AAS (n = 383),valor_total_frete,337,1.168,37.29,29.81
+Amostra AAS (n = 383),valor_total_frete,338,1.181,37.53,29.92
+Amostra AAS (n = 383),valor_total_frete,339,1.1943,38.64,30.03
+Amostra AAS (n = 383),valor_total_frete,340,1.2077,38.76,30.15
+Amostra AAS (n = 383),valor_total_frete,341,1.2214,38.9,30.26
+Amostra AAS (n = 383),valor_total_frete,342,1.2353,38.97,30.38
+Amostra AAS (n = 383),valor_total_frete,343,1.2495,38.99,30.5
+Amostra AAS (n = 383),valor_total_frete,344,1.2639,38.99,30.62
+Amostra AAS (n = 383),valor_total_frete,345,1.2786,39.14,30.75
+Amostra AAS (n = 383),valor_total_frete,346,1.2935,39.22,30.87
+Amostra AAS (n = 383),valor_total_frete,347,1.3088,39.35,31.0
+Amostra AAS (n = 383),valor_total_frete,348,1.3244,39.42,31.13
+Amostra AAS (n = 383),valor_total_frete,349,1.3403,40.11,31.27
+Amostra AAS (n = 383),valor_total_frete,350,1.3565,41.43,31.41
+Amostra AAS (n = 383),valor_total_frete,351,1.3731,42.5,31.55
+Amostra AAS (n = 383),valor_total_frete,352,1.3901,44.47,31.69
+Amostra AAS (n = 383),valor_total_frete,353,1.4075,45.3,31.84
+Amostra AAS (n = 383),valor_total_frete,354,1.4254,45.41,31.99
+Amostra AAS (n = 383),valor_total_frete,355,1.4437,45.76,32.14
+Amostra AAS (n = 383),valor_total_frete,356,1.4625,47.46,32.3
+Amostra AAS (n = 383),valor_total_frete,357,1.4818,47.68,32.47
+Amostra AAS (n = 383),valor_total_frete,358,1.5018,51.69,32.64
+Amostra AAS (n = 383),valor_total_frete,359,1.5223,53.9,32.81
+Amostra AAS (n = 383),valor_total_frete,360,1.5435,54.55,32.99
+Amostra AAS (n = 383),valor_total_frete,361,1.5654,54.59,33.18
+Amostra AAS (n = 383),valor_total_frete,362,1.5881,54.7,33.37
+Amostra AAS (n = 383),valor_total_frete,363,1.6116,54.82,33.57
+Amostra AAS (n = 383),valor_total_frete,364,1.6361,54.92,33.77
+Amostra AAS (n = 383),valor_total_frete,365,1.6615,56.26,33.99
+Amostra AAS (n = 383),valor_total_frete,366,1.6881,56.55,34.21
+Amostra AAS (n = 383),valor_total_frete,367,1.716,57.77,34.45
+Amostra AAS (n = 383),valor_total_frete,368,1.7453,60.75,34.7
+Amostra AAS (n = 383),valor_total_frete,369,1.7761,62.69,34.96
+Amostra AAS (n = 383),valor_total_frete,370,1.8087,67.04,35.24
+Amostra AAS (n = 383),valor_total_frete,371,1.8434,69.74,35.53
+Amostra AAS (n = 383),valor_total_frete,372,1.8804,71.92,35.84
+Amostra AAS (n = 383),valor_total_frete,373,1.9202,72.35,36.18
+Amostra AAS (n = 383),valor_total_frete,374,1.9633,79.7,36.55
+Amostra AAS (n = 383),valor_total_frete,375,2.0104,88.96,36.94
+Amostra AAS (n = 383),valor_total_frete,376,2.0625,90.15,37.39
+Amostra AAS (n = 383),valor_total_frete,377,2.1208,90.88,37.88
+Amostra AAS (n = 383),valor_total_frete,378,2.1873,91.74,38.44
+Amostra AAS (n = 383),valor_total_frete,379,2.2652,97.04,39.1
+Amostra AAS (n = 383),valor_total_frete,380,2.36,114.7,39.9
+Amostra AAS (n = 383),valor_total_frete,381,2.4823,126.96,40.94
+Amostra AAS (n = 383),valor_total_frete,382,2.6592,142.47,42.44
+Amostra AAS (n = 383),valor_total_frete,383,3.0102,146.21,45.41
+Distribuição Amostral da Média (TCL),valor_total_pago,1,-3.0102,128.91,124.89
+Distribuição Amostral da Média (TCL),valor_total_pago,2,-2.6592,133.5,128.92
+Distribuição Amostral da Média (TCL),valor_total_pago,3,-2.4823,134.59,130.95
+Distribuição Amostral da Média (TCL),valor_total_pago,4,-2.36,135.45,132.35
+Distribuição Amostral da Média (TCL),valor_total_pago,5,-2.2652,136.19,133.44
+Distribuição Amostral da Média (TCL),valor_total_pago,6,-2.1873,136.53,134.33
+Distribuição Amostral da Média (TCL),valor_total_pago,7,-2.1208,136.96,135.1
+Distribuição Amostral da Média (TCL),valor_total_pago,8,-2.0625,137.03,135.77
+Distribuição Amostral da Média (TCL),valor_total_pago,9,-2.0104,137.76,136.36
+Distribuição Amostral da Média (TCL),valor_total_pago,10,-1.9633,137.92,136.91
+Distribuição Amostral da Média (TCL),valor_total_pago,11,-1.9202,138.56,137.4
+Distribuição Amostral da Média (TCL),valor_total_pago,12,-1.8804,139.02,137.86
+Distribuição Amostral da Média (TCL),valor_total_pago,13,-1.8434,139.27,138.28
+Distribuição Amostral da Média (TCL),valor_total_pago,14,-1.8087,139.56,138.68
+Distribuição Amostral da Média (TCL),valor_total_pago,15,-1.7761,139.84,139.05
+Distribuição Amostral da Média (TCL),valor_total_pago,16,-1.7453,140.07,139.41
+Distribuição Amostral da Média (TCL),valor_total_pago,17,-1.716,140.37,139.74
+Distribuição Amostral da Média (TCL),valor_total_pago,18,-1.6881,140.64,140.06
+Distribuição Amostral da Média (TCL),valor_total_pago,19,-1.6615,140.91,140.37
+Distribuição Amostral da Média (TCL),valor_total_pago,20,-1.6361,141.24,140.66
+Distribuição Amostral da Média (TCL),valor_total_pago,21,-1.6116,141.58,140.94
+Distribuição Amostral da Média (TCL),valor_total_pago,22,-1.5881,141.95,141.21
+Distribuição Amostral da Média (TCL),valor_total_pago,23,-1.5654,142.7,141.47
+Distribuição Amostral da Média (TCL),valor_total_pago,24,-1.5435,142.78,141.72
+Distribuição Amostral da Média (TCL),valor_total_pago,25,-1.5223,142.86,141.97
+Distribuição Amostral da Média (TCL),valor_total_pago,26,-1.5018,142.94,142.2
+Distribuição Amostral da Média (TCL),valor_total_pago,27,-1.4818,143.3,142.43
+Distribuição Amostral da Média (TCL),valor_total_pago,28,-1.4625,143.52,142.65
+Distribuição Amostral da Média (TCL),valor_total_pago,29,-1.4437,143.77,142.87
+Distribuição Amostral da Média (TCL),valor_total_pago,30,-1.4254,143.9,143.08
+Distribuição Amostral da Média (TCL),valor_total_pago,31,-1.4075,143.95,143.29
+Distribuição Amostral da Média (TCL),valor_total_pago,32,-1.3901,144.23,143.49
+Distribuição Amostral da Média (TCL),valor_total_pago,33,-1.3731,144.45,143.68
+Distribuição Amostral da Média (TCL),valor_total_pago,34,-1.3565,144.54,143.87
+Distribuição Amostral da Média (TCL),valor_total_pago,35,-1.3403,144.59,144.06
+Distribuição Amostral da Média (TCL),valor_total_pago,36,-1.3244,144.8,144.24
+Distribuição Amostral da Média (TCL),valor_total_pago,37,-1.3088,144.81,144.42
+Distribuição Amostral da Média (TCL),valor_total_pago,38,-1.2935,144.9,144.59
+Distribuição Amostral da Média (TCL),valor_total_pago,39,-1.2786,145.05,144.77
+Distribuição Amostral da Média (TCL),valor_total_pago,40,-1.2639,145.23,144.93
+Distribuição Amostral da Média (TCL),valor_total_pago,41,-1.2495,145.36,145.1
+Distribuição Amostral da Média (TCL),valor_total_pago,42,-1.2353,145.46,145.26
+Distribuição Amostral da Média (TCL),valor_total_pago,43,-1.2214,145.58,145.42
+Distribuição Amostral da Média (TCL),valor_total_pago,44,-1.2077,145.67,145.58
+Distribuição Amostral da Média (TCL),valor_total_pago,45,-1.1943,145.69,145.73
+Distribuição Amostral da Média (TCL),valor_total_pago,46,-1.181,146.0,145.89
+Distribuição Amostral da Média (TCL),valor_total_pago,47,-1.168,146.17,146.04
+Distribuição Amostral da Média (TCL),valor_total_pago,48,-1.1551,146.23,146.18
+Distribuição Amostral da Média (TCL),valor_total_pago,49,-1.1425,146.31,146.33
+Distribuição Amostral da Média (TCL),valor_total_pago,50,-1.13,146.4,146.47
+Distribuição Amostral da Média (TCL),valor_total_pago,51,-1.1177,146.5,146.61
+Distribuição Amostral da Média (TCL),valor_total_pago,52,-1.1055,146.6,146.75
+Distribuição Amostral da Média (TCL),valor_total_pago,53,-1.0936,146.69,146.89
+Distribuição Amostral da Média (TCL),valor_total_pago,54,-1.0817,146.8,147.03
+Distribuição Amostral da Média (TCL),valor_total_pago,55,-1.0701,147.06,147.16
+Distribuição Amostral da Média (TCL),valor_total_pago,56,-1.0585,147.23,147.29
+Distribuição Amostral da Média (TCL),valor_total_pago,57,-1.0471,147.31,147.42
+Distribuição Amostral da Média (TCL),valor_total_pago,58,-1.0359,147.48,147.55
+Distribuição Amostral da Média (TCL),valor_total_pago,59,-1.0247,147.53,147.68
+Distribuição Amostral da Média (TCL),valor_total_pago,60,-1.0137,147.58,147.81
+Distribuição Amostral da Média (TCL),valor_total_pago,61,-1.0029,147.65,147.93
+Distribuição Amostral da Média (TCL),valor_total_pago,62,-0.9921,147.71,148.05
+Distribuição Amostral da Média (TCL),valor_total_pago,63,-0.9815,147.89,148.18
+Distribuição Amostral da Média (TCL),valor_total_pago,64,-0.9709,147.99,148.3
+Distribuição Amostral da Média (TCL),valor_total_pago,65,-0.9605,148.09,148.42
+Distribuição Amostral da Média (TCL),valor_total_pago,66,-0.9501,148.18,148.54
+Distribuição Amostral da Média (TCL),valor_total_pago,67,-0.9399,148.35,148.65
+Distribuição Amostral da Média (TCL),valor_total_pago,68,-0.9298,148.52,148.77
+Distribuição Amostral da Média (TCL),valor_total_pago,69,-0.9198,148.64,148.88
+Distribuição Amostral da Média (TCL),valor_total_pago,70,-0.9098,148.79,149.0
+Distribuição Amostral da Média (TCL),valor_total_pago,71,-0.9,149.05,149.11
+Distribuição Amostral da Média (TCL),valor_total_pago,72,-0.8902,149.13,149.22
+Distribuição Amostral da Média (TCL),valor_total_pago,73,-0.8805,149.29,149.34
+Distribuição Amostral da Média (TCL),valor_total_pago,74,-0.8709,149.39,149.45
+Distribuição Amostral da Média (TCL),valor_total_pago,75,-0.8614,149.52,149.55
+Distribuição Amostral da Média (TCL),valor_total_pago,76,-0.8519,149.56,149.66
+Distribuição Amostral da Média (TCL),valor_total_pago,77,-0.8426,149.63,149.77
+Distribuição Amostral da Média (TCL),valor_total_pago,78,-0.8333,149.67,149.88
+Distribuição Amostral da Média (TCL),valor_total_pago,79,-0.824,149.71,149.98
+Distribuição Amostral da Média (TCL),valor_total_pago,80,-0.8149,149.81,150.09
+Distribuição Amostral da Média (TCL),valor_total_pago,81,-0.8058,149.97,150.19
+Distribuição Amostral da Média (TCL),valor_total_pago,82,-0.7968,150.11,150.3
+Distribuição Amostral da Média (TCL),valor_total_pago,83,-0.7878,150.17,150.4
+Distribuição Amostral da Média (TCL),valor_total_pago,84,-0.7789,150.41,150.5
+Distribuição Amostral da Média (TCL),valor_total_pago,85,-0.7701,150.52,150.6
+Distribuição Amostral da Média (TCL),valor_total_pago,86,-0.7613,150.63,150.7
+Distribuição Amostral da Média (TCL),valor_total_pago,87,-0.7526,150.78,150.8
+Distribuição Amostral da Média (TCL),valor_total_pago,88,-0.7439,150.83,150.9
+Distribuição Amostral da Média (TCL),valor_total_pago,89,-0.7353,150.92,151.0
+Distribuição Amostral da Média (TCL),valor_total_pago,90,-0.7268,150.96,151.1
+Distribuição Amostral da Média (TCL),valor_total_pago,91,-0.7183,151.08,151.2
+Distribuição Amostral da Média (TCL),valor_total_pago,92,-0.7098,151.15,151.29
+Distribuição Amostral da Média (TCL),valor_total_pago,93,-0.7014,151.21,151.39
+Distribuição Amostral da Média (TCL),valor_total_pago,94,-0.6931,151.48,151.49
+Distribuição Amostral da Média (TCL),valor_total_pago,95,-0.6848,151.6,151.58
+Distribuição Amostral da Média (TCL),valor_total_pago,96,-0.6765,151.7,151.68
+Distribuição Amostral da Média (TCL),valor_total_pago,97,-0.6683,151.72,151.77
+Distribuição Amostral da Média (TCL),valor_total_pago,98,-0.6602,151.89,151.86
+Distribuição Amostral da Média (TCL),valor_total_pago,99,-0.6521,152.07,151.96
+Distribuição Amostral da Média (TCL),valor_total_pago,100,-0.644,152.22,152.05
+Distribuição Amostral da Média (TCL),valor_total_pago,101,-0.636,152.26,152.14
+Distribuição Amostral da Média (TCL),valor_total_pago,102,-0.628,152.32,152.23
+Distribuição Amostral da Média (TCL),valor_total_pago,103,-0.62,152.34,152.33
+Distribuição Amostral da Média (TCL),valor_total_pago,104,-0.6121,152.37,152.42
+Distribuição Amostral da Média (TCL),valor_total_pago,105,-0.6042,152.46,152.51
+Distribuição Amostral da Média (TCL),valor_total_pago,106,-0.5964,152.51,152.6
+Distribuição Amostral da Média (TCL),valor_total_pago,107,-0.5886,152.57,152.69
+Distribuição Amostral da Média (TCL),valor_total_pago,108,-0.5808,152.63,152.78
+Distribuição Amostral da Média (TCL),valor_total_pago,109,-0.5731,152.75,152.86
+Distribuição Amostral da Média (TCL),valor_total_pago,110,-0.5654,153.04,152.95
+Distribuição Amostral da Média (TCL),valor_total_pago,111,-0.5577,153.19,153.04
+Distribuição Amostral da Média (TCL),valor_total_pago,112,-0.5501,153.37,153.13
+Distribuição Amostral da Média (TCL),valor_total_pago,113,-0.5425,153.52,153.22
+Distribuição Amostral da Média (TCL),valor_total_pago,114,-0.5349,153.58,153.3
+Distribuição Amostral da Média (TCL),valor_total_pago,115,-0.5274,153.62,153.39
+Distribuição Amostral da Média (TCL),valor_total_pago,116,-0.5199,153.81,153.47
+Distribuição Amostral da Média (TCL),valor_total_pago,117,-0.5124,153.87,153.56
+Distribuição Amostral da Média (TCL),valor_total_pago,118,-0.505,153.94,153.65
+Distribuição Amostral da Média (TCL),valor_total_pago,119,-0.4976,153.97,153.73
+Distribuição Amostral da Média (TCL),valor_total_pago,120,-0.4902,154.0,153.82
+Distribuição Amostral da Média (TCL),valor_total_pago,121,-0.4828,154.04,153.9
+Distribuição Amostral da Média (TCL),valor_total_pago,122,-0.4755,154.11,153.98
+Distribuição Amostral da Média (TCL),valor_total_pago,123,-0.4681,154.17,154.07
+Distribuição Amostral da Média (TCL),valor_total_pago,124,-0.4608,154.26,154.15
+Distribuição Amostral da Média (TCL),valor_total_pago,125,-0.4536,154.35,154.24
+Distribuição Amostral da Média (TCL),valor_total_pago,126,-0.4463,154.43,154.32
+Distribuição Amostral da Média (TCL),valor_total_pago,127,-0.4391,154.47,154.4
+Distribuição Amostral da Média (TCL),valor_total_pago,128,-0.4319,154.52,154.48
+Distribuição Amostral da Média (TCL),valor_total_pago,129,-0.4248,154.63,154.57
+Distribuição Amostral da Média (TCL),valor_total_pago,130,-0.4176,154.67,154.65
+Distribuição Amostral da Média (TCL),valor_total_pago,131,-0.4105,154.73,154.73
+Distribuição Amostral da Média (TCL),valor_total_pago,132,-0.4034,154.78,154.81
+Distribuição Amostral da Média (TCL),valor_total_pago,133,-0.3963,154.82,154.89
+Distribuição Amostral da Média (TCL),valor_total_pago,134,-0.3892,154.94,154.97
+Distribuição Amostral da Média (TCL),valor_total_pago,135,-0.3822,155.04,155.06
+Distribuição Amostral da Média (TCL),valor_total_pago,136,-0.3751,155.09,155.14
+Distribuição Amostral da Média (TCL),valor_total_pago,137,-0.3681,155.18,155.22
+Distribuição Amostral da Média (TCL),valor_total_pago,138,-0.3611,155.2,155.3
+Distribuição Amostral da Média (TCL),valor_total_pago,139,-0.3541,155.25,155.38
+Distribuição Amostral da Média (TCL),valor_total_pago,140,-0.3472,155.33,155.46
+Distribuição Amostral da Média (TCL),valor_total_pago,141,-0.3402,155.35,155.54
+Distribuição Amostral da Média (TCL),valor_total_pago,142,-0.3333,155.51,155.62
+Distribuição Amostral da Média (TCL),valor_total_pago,143,-0.3264,155.57,155.7
+Distribuição Amostral da Média (TCL),valor_total_pago,144,-0.3195,155.59,155.77
+Distribuição Amostral da Média (TCL),valor_total_pago,145,-0.3126,155.63,155.85
+Distribuição Amostral da Média (TCL),valor_total_pago,146,-0.3058,155.69,155.93
+Distribuição Amostral da Média (TCL),valor_total_pago,147,-0.2989,155.91,156.01
+Distribuição Amostral da Média (TCL),valor_total_pago,148,-0.2921,156.04,156.09
+Distribuição Amostral da Média (TCL),valor_total_pago,149,-0.2852,156.12,156.17
+Distribuição Amostral da Média (TCL),valor_total_pago,150,-0.2784,156.16,156.25
+Distribuição Amostral da Média (TCL),valor_total_pago,151,-0.2716,156.25,156.32
+Distribuição Amostral da Média (TCL),valor_total_pago,152,-0.2649,156.31,156.4
+Distribuição Amostral da Média (TCL),valor_total_pago,153,-0.2581,156.36,156.48
+Distribuição Amostral da Média (TCL),valor_total_pago,154,-0.2513,156.39,156.56
+Distribuição Amostral da Média (TCL),valor_total_pago,155,-0.2446,156.41,156.64
+Distribuição Amostral da Média (TCL),valor_total_pago,156,-0.2378,156.46,156.71
+Distribuição Amostral da Média (TCL),valor_total_pago,157,-0.2311,156.5,156.79
+Distribuição Amostral da Média (TCL),valor_total_pago,158,-0.2244,156.58,156.87
+Distribuição Amostral da Média (TCL),valor_total_pago,159,-0.2177,156.6,156.94
+Distribuição Amostral da Média (TCL),valor_total_pago,160,-0.211,156.64,157.02
+Distribuição Amostral da Média (TCL),valor_total_pago,161,-0.2043,156.74,157.1
+Distribuição Amostral da Média (TCL),valor_total_pago,162,-0.1976,156.79,157.17
+Distribuição Amostral da Média (TCL),valor_total_pago,163,-0.191,156.87,157.25
+Distribuição Amostral da Média (TCL),valor_total_pago,164,-0.1843,156.9,157.33
+Distribuição Amostral da Média (TCL),valor_total_pago,165,-0.1776,156.93,157.4
+Distribuição Amostral da Média (TCL),valor_total_pago,166,-0.171,157.04,157.48
+Distribuição Amostral da Média (TCL),valor_total_pago,167,-0.1644,157.1,157.56
+Distribuição Amostral da Média (TCL),valor_total_pago,168,-0.1577,157.2,157.63
+Distribuição Amostral da Média (TCL),valor_total_pago,169,-0.1511,157.28,157.71
+Distribuição Amostral da Média (TCL),valor_total_pago,170,-0.1445,157.37,157.78
+Distribuição Amostral da Média (TCL),valor_total_pago,171,-0.1379,157.41,157.86
+Distribuição Amostral da Média (TCL),valor_total_pago,172,-0.1313,157.44,157.94
+Distribuição Amostral da Média (TCL),valor_total_pago,173,-0.1247,157.48,158.01
+Distribuição Amostral da Média (TCL),valor_total_pago,174,-0.1181,157.57,158.09
+Distribuição Amostral da Média (TCL),valor_total_pago,175,-0.1115,157.68,158.16
+Distribuição Amostral da Média (TCL),valor_total_pago,176,-0.1049,157.73,158.24
+Distribuição Amostral da Média (TCL),valor_total_pago,177,-0.0983,157.99,158.31
+Distribuição Amostral da Média (TCL),valor_total_pago,178,-0.0918,158.12,158.39
+Distribuição Amostral da Média (TCL),valor_total_pago,179,-0.0852,158.15,158.46
+Distribuição Amostral da Média (TCL),valor_total_pago,180,-0.0786,158.24,158.54
+Distribuição Amostral da Média (TCL),valor_total_pago,181,-0.0721,158.31,158.62
+Distribuição Amostral da Média (TCL),valor_total_pago,182,-0.0655,158.46,158.69
+Distribuição Amostral da Média (TCL),valor_total_pago,183,-0.0589,158.52,158.77
+Distribuição Amostral da Média (TCL),valor_total_pago,184,-0.0524,158.66,158.84
+Distribuição Amostral da Média (TCL),valor_total_pago,185,-0.0458,158.75,158.92
+Distribuição Amostral da Média (TCL),valor_total_pago,186,-0.0393,158.83,158.99
+Distribuição Amostral da Média (TCL),valor_total_pago,187,-0.0327,158.86,159.07
+Distribuição Amostral da Média (TCL),valor_total_pago,188,-0.0262,158.89,159.14
+Distribuição Amostral da Média (TCL),valor_total_pago,189,-0.0196,158.93,159.22
+Distribuição Amostral da Média (TCL),valor_total_pago,190,-0.0131,158.98,159.29
+Distribuição Amostral da Média (TCL),valor_total_pago,191,-0.0065,159.08,159.37
+Distribuição Amostral da Média (TCL),valor_total_pago,192,-0.0,159.18,159.44
+Distribuição Amostral da Média (TCL),valor_total_pago,193,0.0065,159.31,159.52
+Distribuição Amostral da Média (TCL),valor_total_pago,194,0.0131,159.41,159.59
+Distribuição Amostral da Média (TCL),valor_total_pago,195,0.0196,159.49,159.67
+Distribuição Amostral da Média (TCL),valor_total_pago,196,0.0262,159.54,159.74
+Distribuição Amostral da Média (TCL),valor_total_pago,197,0.0327,159.55,159.82
+Distribuição Amostral da Média (TCL),valor_total_pago,198,0.0393,159.57,159.89
+Distribuição Amostral da Média (TCL),valor_total_pago,199,0.0458,159.64,159.97
+Distribuição Amostral da Média (TCL),valor_total_pago,200,0.0524,159.71,160.04
+Distribuição Amostral da Média (TCL),valor_total_pago,201,0.0589,159.78,160.12
+Distribuição Amostral da Média (TCL),valor_total_pago,202,0.0655,159.82,160.19
+Distribuição Amostral da Média (TCL),valor_total_pago,203,0.0721,159.83,160.27
+Distribuição Amostral da Média (TCL),valor_total_pago,204,0.0786,159.93,160.34
+Distribuição Amostral da Média (TCL),valor_total_pago,205,0.0852,160.05,160.42
+Distribuição Amostral da Média (TCL),valor_total_pago,206,0.0918,160.07,160.5
+Distribuição Amostral da Média (TCL),valor_total_pago,207,0.0983,160.16,160.57
+Distribuição Amostral da Média (TCL),valor_total_pago,208,0.1049,160.29,160.65
+Distribuição Amostral da Média (TCL),valor_total_pago,209,0.1115,160.43,160.72
+Distribuição Amostral da Média (TCL),valor_total_pago,210,0.1181,160.51,160.8
+Distribuição Amostral da Média (TCL),valor_total_pago,211,0.1247,160.54,160.87
+Distribuição Amostral da Média (TCL),valor_total_pago,212,0.1313,160.64,160.95
+Distribuição Amostral da Média (TCL),valor_total_pago,213,0.1379,160.71,161.03
+Distribuição Amostral da Média (TCL),valor_total_pago,214,0.1445,160.85,161.1
+Distribuição Amostral da Média (TCL),valor_total_pago,215,0.1511,160.91,161.18
+Distribuição Amostral da Média (TCL),valor_total_pago,216,0.1577,160.99,161.25
+Distribuição Amostral da Média (TCL),valor_total_pago,217,0.1644,161.05,161.33
+Distribuição Amostral da Média (TCL),valor_total_pago,218,0.171,161.11,161.41
+Distribuição Amostral da Média (TCL),valor_total_pago,219,0.1776,161.19,161.48
+Distribuição Amostral da Média (TCL),valor_total_pago,220,0.1843,161.24,161.56
+Distribuição Amostral da Média (TCL),valor_total_pago,221,0.191,161.26,161.63
+Distribuição Amostral da Média (TCL),valor_total_pago,222,0.1976,161.27,161.71
+Distribuição Amostral da Média (TCL),valor_total_pago,223,0.2043,161.28,161.79
+Distribuição Amostral da Média (TCL),valor_total_pago,224,0.211,161.34,161.86
+Distribuição Amostral da Média (TCL),valor_total_pago,225,0.2177,161.41,161.94
+Distribuição Amostral da Média (TCL),valor_total_pago,226,0.2244,161.49,162.02
+Distribuição Amostral da Média (TCL),valor_total_pago,227,0.2311,161.55,162.1
+Distribuição Amostral da Média (TCL),valor_total_pago,228,0.2378,161.65,162.17
+Distribuição Amostral da Média (TCL),valor_total_pago,229,0.2446,161.78,162.25
+Distribuição Amostral da Média (TCL),valor_total_pago,230,0.2513,161.85,162.33
+Distribuição Amostral da Média (TCL),valor_total_pago,231,0.2581,161.89,162.41
+Distribuição Amostral da Média (TCL),valor_total_pago,232,0.2649,161.93,162.48
+Distribuição Amostral da Média (TCL),valor_total_pago,233,0.2716,161.98,162.56
+Distribuição Amostral da Média (TCL),valor_total_pago,234,0.2784,162.13,162.64
+Distribuição Amostral da Média (TCL),valor_total_pago,235,0.2852,162.28,162.72
+Distribuição Amostral da Média (TCL),valor_total_pago,236,0.2921,162.46,162.8
+Distribuição Amostral da Média (TCL),valor_total_pago,237,0.2989,162.59,162.87
+Distribuição Amostral da Média (TCL),valor_total_pago,238,0.3058,162.72,162.95
+Distribuição Amostral da Média (TCL),valor_total_pago,239,0.3126,162.82,163.03
+Distribuição Amostral da Média (TCL),valor_total_pago,240,0.3195,162.84,163.11
+Distribuição Amostral da Média (TCL),valor_total_pago,241,0.3264,162.9,163.19
+Distribuição Amostral da Média (TCL),valor_total_pago,242,0.3333,162.92,163.27
+Distribuição Amostral da Média (TCL),valor_total_pago,243,0.3402,163.08,163.35
+Distribuição Amostral da Média (TCL),valor_total_pago,244,0.3472,163.23,163.43
+Distribuição Amostral da Média (TCL),valor_total_pago,245,0.3541,163.32,163.51
+Distribuição Amostral da Média (TCL),valor_total_pago,246,0.3611,163.39,163.59
+Distribuição Amostral da Média (TCL),valor_total_pago,247,0.3681,163.5,163.67
+Distribuição Amostral da Média (TCL),valor_total_pago,248,0.3751,163.57,163.75
+Distribuição Amostral da Média (TCL),valor_total_pago,249,0.3822,163.63,163.83
+Distribuição Amostral da Média (TCL),valor_total_pago,250,0.3892,163.86,163.91
+Distribuição Amostral da Média (TCL),valor_total_pago,251,0.3963,163.92,163.99
+Distribuição Amostral da Média (TCL),valor_total_pago,252,0.4034,163.96,164.07
+Distribuição Amostral da Média (TCL),valor_total_pago,253,0.4105,164.02,164.15
+Distribuição Amostral da Média (TCL),valor_total_pago,254,0.4176,164.16,164.24
+Distribuição Amostral da Média (TCL),valor_total_pago,255,0.4248,164.29,164.32
+Distribuição Amostral da Média (TCL),valor_total_pago,256,0.4319,164.33,164.4
+Distribuição Amostral da Média (TCL),valor_total_pago,257,0.4391,164.4,164.48
+Distribuição Amostral da Média (TCL),valor_total_pago,258,0.4463,164.52,164.57
+Distribuição Amostral da Média (TCL),valor_total_pago,259,0.4536,164.57,164.65
+Distribuição Amostral da Média (TCL),valor_total_pago,260,0.4608,164.7,164.73
+Distribuição Amostral da Média (TCL),valor_total_pago,261,0.4681,164.73,164.82
+Distribuição Amostral da Média (TCL),valor_total_pago,262,0.4755,164.77,164.9
+Distribuição Amostral da Média (TCL),valor_total_pago,263,0.4828,164.79,164.98
+Distribuição Amostral da Média (TCL),valor_total_pago,264,0.4902,164.87,165.07
+Distribuição Amostral da Média (TCL),valor_total_pago,265,0.4976,164.92,165.15
+Distribuição Amostral da Média (TCL),valor_total_pago,266,0.505,165.05,165.24
+Distribuição Amostral da Média (TCL),valor_total_pago,267,0.5124,165.14,165.32
+Distribuição Amostral da Média (TCL),valor_total_pago,268,0.5199,165.21,165.41
+Distribuição Amostral da Média (TCL),valor_total_pago,269,0.5274,165.44,165.5
+Distribuição Amostral da Média (TCL),valor_total_pago,270,0.5349,165.47,165.58
+Distribuição Amostral da Média (TCL),valor_total_pago,271,0.5425,165.49,165.67
+Distribuição Amostral da Média (TCL),valor_total_pago,272,0.5501,165.64,165.76
+Distribuição Amostral da Média (TCL),valor_total_pago,273,0.5577,165.87,165.84
+Distribuição Amostral da Média (TCL),valor_total_pago,274,0.5654,165.92,165.93
+Distribuição Amostral da Média (TCL),valor_total_pago,275,0.5731,166.03,166.02
+Distribuição Amostral da Média (TCL),valor_total_pago,276,0.5808,166.06,166.11
+Distribuição Amostral da Média (TCL),valor_total_pago,277,0.5886,166.09,166.2
+Distribuição Amostral da Média (TCL),valor_total_pago,278,0.5964,166.24,166.29
+Distribuição Amostral da Média (TCL),valor_total_pago,279,0.6042,166.34,166.38
+Distribuição Amostral da Média (TCL),valor_total_pago,280,0.6121,166.44,166.47
+Distribuição Amostral da Média (TCL),valor_total_pago,281,0.62,166.52,166.56
+Distribuição Amostral da Média (TCL),valor_total_pago,282,0.628,166.65,166.65
+Distribuição Amostral da Média (TCL),valor_total_pago,283,0.636,166.75,166.74
+Distribuição Amostral da Média (TCL),valor_total_pago,284,0.644,166.79,166.83
+Distribuição Amostral da Média (TCL),valor_total_pago,285,0.6521,166.88,166.93
+Distribuição Amostral da Média (TCL),valor_total_pago,286,0.6602,166.95,167.02
+Distribuição Amostral da Média (TCL),valor_total_pago,287,0.6683,167.01,167.11
+Distribuição Amostral da Média (TCL),valor_total_pago,288,0.6765,167.2,167.21
+Distribuição Amostral da Média (TCL),valor_total_pago,289,0.6848,167.36,167.3
+Distribuição Amostral da Média (TCL),valor_total_pago,290,0.6931,167.41,167.4
+Distribuição Amostral da Média (TCL),valor_total_pago,291,0.7014,167.47,167.49
+Distribuição Amostral da Média (TCL),valor_total_pago,292,0.7098,167.51,167.59
+Distribuição Amostral da Média (TCL),valor_total_pago,293,0.7183,167.62,167.69
+Distribuição Amostral da Média (TCL),valor_total_pago,294,0.7268,167.73,167.79
+Distribuição Amostral da Média (TCL),valor_total_pago,295,0.7353,167.78,167.88
+Distribuição Amostral da Média (TCL),valor_total_pago,296,0.7439,167.97,167.98
+Distribuição Amostral da Média (TCL),valor_total_pago,297,0.7526,168.03,168.08
+Distribuição Amostral da Média (TCL),valor_total_pago,298,0.7613,168.08,168.18
+Distribuição Amostral da Média (TCL),valor_total_pago,299,0.7701,168.21,168.28
+Distribuição Amostral da Média (TCL),valor_total_pago,300,0.7789,168.25,168.38
+Distribuição Amostral da Média (TCL),valor_total_pago,301,0.7878,168.27,168.49
+Distribuição Amostral da Média (TCL),valor_total_pago,302,0.7968,168.34,168.59
+Distribuição Amostral da Média (TCL),valor_total_pago,303,0.8058,168.4,168.69
+Distribuição Amostral da Média (TCL),valor_total_pago,304,0.8149,168.55,168.8
+Distribuição Amostral da Média (TCL),valor_total_pago,305,0.824,168.78,168.9
+Distribuição Amostral da Média (TCL),valor_total_pago,306,0.8333,168.83,169.01
+Distribuição Amostral da Média (TCL),valor_total_pago,307,0.8426,169.04,169.11
+Distribuição Amostral da Média (TCL),valor_total_pago,308,0.8519,169.09,169.22
+Distribuição Amostral da Média (TCL),valor_total_pago,309,0.8614,169.19,169.33
+Distribuição Amostral da Média (TCL),valor_total_pago,310,0.8709,169.35,169.44
+Distribuição Amostral da Média (TCL),valor_total_pago,311,0.8805,169.48,169.55
+Distribuição Amostral da Média (TCL),valor_total_pago,312,0.8902,169.58,169.66
+Distribuição Amostral da Média (TCL),valor_total_pago,313,0.9,169.8,169.77
+Distribuição Amostral da Média (TCL),valor_total_pago,314,0.9098,170.04,169.89
+Distribuição Amostral da Média (TCL),valor_total_pago,315,0.9198,170.11,170.0
+Distribuição Amostral da Média (TCL),valor_total_pago,316,0.9298,170.18,170.12
+Distribuição Amostral da Média (TCL),valor_total_pago,317,0.9399,170.36,170.23
+Distribuição Amostral da Média (TCL),valor_total_pago,318,0.9501,170.49,170.35
+Distribuição Amostral da Média (TCL),valor_total_pago,319,0.9605,170.64,170.47
+Distribuição Amostral da Média (TCL),valor_total_pago,320,0.9709,170.73,170.59
+Distribuição Amostral da Média (TCL),valor_total_pago,321,0.9815,170.83,170.71
+Distribuição Amostral da Média (TCL),valor_total_pago,322,0.9921,170.97,170.83
+Distribuição Amostral da Média (TCL),valor_total_pago,323,1.0029,171.02,170.95
+Distribuição Amostral da Média (TCL),valor_total_pago,324,1.0137,171.08,171.08
+Distribuição Amostral da Média (TCL),valor_total_pago,325,1.0247,171.24,171.21
+Distribuição Amostral da Média (TCL),valor_total_pago,326,1.0359,171.36,171.33
+Distribuição Amostral da Média (TCL),valor_total_pago,327,1.0471,171.48,171.46
+Distribuição Amostral da Média (TCL),valor_total_pago,328,1.0585,171.64,171.59
+Distribuição Amostral da Média (TCL),valor_total_pago,329,1.0701,171.86,171.73
+Distribuição Amostral da Média (TCL),valor_total_pago,330,1.0817,171.91,171.86
+Distribuição Amostral da Média (TCL),valor_total_pago,331,1.0936,172.01,172.0
+Distribuição Amostral da Média (TCL),valor_total_pago,332,1.1055,172.09,172.13
+Distribuição Amostral da Média (TCL),valor_total_pago,333,1.1177,172.13,172.27
+Distribuição Amostral da Média (TCL),valor_total_pago,334,1.13,172.33,172.41
+Distribuição Amostral da Média (TCL),valor_total_pago,335,1.1425,172.48,172.56
+Distribuição Amostral da Média (TCL),valor_total_pago,336,1.1551,172.7,172.7
+Distribuição Amostral da Média (TCL),valor_total_pago,337,1.168,172.75,172.85
+Distribuição Amostral da Média (TCL),valor_total_pago,338,1.181,172.85,173.0
+Distribuição Amostral da Média (TCL),valor_total_pago,339,1.1943,173.05,173.15
+Distribuição Amostral da Média (TCL),valor_total_pago,340,1.2077,173.27,173.31
+Distribuição Amostral da Média (TCL),valor_total_pago,341,1.2214,173.31,173.46
+Distribuição Amostral da Média (TCL),valor_total_pago,342,1.2353,173.64,173.62
+Distribuição Amostral da Média (TCL),valor_total_pago,343,1.2495,173.8,173.79
+Distribuição Amostral da Média (TCL),valor_total_pago,344,1.2639,173.89,173.95
+Distribuição Amostral da Média (TCL),valor_total_pago,345,1.2786,174.23,174.12
+Distribuição Amostral da Média (TCL),valor_total_pago,346,1.2935,174.29,174.29
+Distribuição Amostral da Média (TCL),valor_total_pago,347,1.3088,174.58,174.47
+Distribuição Amostral da Média (TCL),valor_total_pago,348,1.3244,174.64,174.65
+Distribuição Amostral da Média (TCL),valor_total_pago,349,1.3403,174.78,174.83
+Distribuição Amostral da Média (TCL),valor_total_pago,350,1.3565,175.01,175.01
+Distribuição Amostral da Média (TCL),valor_total_pago,351,1.3731,175.19,175.2
+Distribuição Amostral da Média (TCL),valor_total_pago,352,1.3901,175.29,175.4
+Distribuição Amostral da Média (TCL),valor_total_pago,353,1.4075,175.44,175.6
+Distribuição Amostral da Média (TCL),valor_total_pago,354,1.4254,175.67,175.8
+Distribuição Amostral da Média (TCL),valor_total_pago,355,1.4437,175.87,176.01
+Distribuição Amostral da Média (TCL),valor_total_pago,356,1.4625,176.14,176.23
+Distribuição Amostral da Média (TCL),valor_total_pago,357,1.4818,176.55,176.45
+Distribuição Amostral da Média (TCL),valor_total_pago,358,1.5018,176.71,176.68
+Distribuição Amostral da Média (TCL),valor_total_pago,359,1.5223,176.83,176.92
+Distribuição Amostral da Média (TCL),valor_total_pago,360,1.5435,177.01,177.16
+Distribuição Amostral da Média (TCL),valor_total_pago,361,1.5654,177.08,177.41
+Distribuição Amostral da Média (TCL),valor_total_pago,362,1.5881,177.31,177.67
+Distribuição Amostral da Média (TCL),valor_total_pago,363,1.6116,177.43,177.94
+Distribuição Amostral da Média (TCL),valor_total_pago,364,1.6361,177.54,178.22
+Distribuição Amostral da Média (TCL),valor_total_pago,365,1.6615,177.71,178.52
+Distribuição Amostral da Média (TCL),valor_total_pago,366,1.6881,178.04,178.82
+Distribuição Amostral da Média (TCL),valor_total_pago,367,1.716,178.32,179.14
+Distribuição Amostral da Média (TCL),valor_total_pago,368,1.7453,178.58,179.48
+Distribuição Amostral da Média (TCL),valor_total_pago,369,1.7761,179.16,179.83
+Distribuição Amostral da Média (TCL),valor_total_pago,370,1.8087,179.48,180.2
+Distribuição Amostral da Média (TCL),valor_total_pago,371,1.8434,179.75,180.6
+Distribuição Amostral da Média (TCL),valor_total_pago,372,1.8804,180.33,181.03
+Distribuição Amostral da Média (TCL),valor_total_pago,373,1.9202,180.97,181.48
+Distribuição Amostral da Média (TCL),valor_total_pago,374,1.9633,181.63,181.98
+Distribuição Amostral da Média (TCL),valor_total_pago,375,2.0104,182.03,182.52
+Distribuição Amostral da Média (TCL),valor_total_pago,376,2.0625,182.43,183.12
+Distribuição Amostral da Média (TCL),valor_total_pago,377,2.1208,182.79,183.79
+Distribuição Amostral da Média (TCL),valor_total_pago,378,2.1873,183.91,184.55
+Distribuição Amostral da Média (TCL),valor_total_pago,379,2.2652,185.23,185.45
+Distribuição Amostral da Média (TCL),valor_total_pago,380,2.36,186.68,186.53
+Distribuição Amostral da Média (TCL),valor_total_pago,381,2.4823,187.37,187.94
+Distribuição Amostral da Média (TCL),valor_total_pago,382,2.6592,191.3,189.97
+Distribuição Amostral da Média (TCL),valor_total_pago,383,3.0102,196.3,194.0
+Distribuição Amostral da Média (TCL),valor_total_frete,1,-3.0102,20.14,19.61
+Distribuição Amostral da Média (TCL),valor_total_frete,2,-2.6592,20.32,19.97
+Distribuição Amostral da Média (TCL),valor_total_frete,3,-2.4823,20.37,20.15
+Distribuição Amostral da Média (TCL),valor_total_frete,4,-2.36,20.42,20.28
+Distribuição Amostral da Média (TCL),valor_total_frete,5,-2.2652,20.56,20.38
+Distribuição Amostral da Média (TCL),valor_total_frete,6,-2.1873,20.73,20.46
+Distribuição Amostral da Média (TCL),valor_total_frete,7,-2.1208,20.81,20.53
+Distribuição Amostral da Média (TCL),valor_total_frete,8,-2.0625,20.85,20.59
+Distribuição Amostral da Média (TCL),valor_total_frete,9,-2.0104,20.87,20.64
+Distribuição Amostral da Média (TCL),valor_total_frete,10,-1.9633,20.91,20.69
+Distribuição Amostral da Média (TCL),valor_total_frete,11,-1.9202,20.94,20.73
+Distribuição Amostral da Média (TCL),valor_total_frete,12,-1.8804,20.97,20.77
+Distribuição Amostral da Média (TCL),valor_total_frete,13,-1.8434,20.98,20.81
+Distribuição Amostral da Média (TCL),valor_total_frete,14,-1.8087,21.0,20.85
+Distribuição Amostral da Média (TCL),valor_total_frete,15,-1.7761,21.0,20.88
+Distribuição Amostral da Média (TCL),valor_total_frete,16,-1.7453,21.03,20.91
+Distribuição Amostral da Média (TCL),valor_total_frete,17,-1.716,21.04,20.94
+Distribuição Amostral da Média (TCL),valor_total_frete,18,-1.6881,21.08,20.97
+Distribuição Amostral da Média (TCL),valor_total_frete,19,-1.6615,21.1,21.0
+Distribuição Amostral da Média (TCL),valor_total_frete,20,-1.6361,21.13,21.02
+Distribuição Amostral da Média (TCL),valor_total_frete,21,-1.6116,21.14,21.05
+Distribuição Amostral da Média (TCL),valor_total_frete,22,-1.5881,21.15,21.07
+Distribuição Amostral da Média (TCL),valor_total_frete,23,-1.5654,21.17,21.09
+Distribuição Amostral da Média (TCL),valor_total_frete,24,-1.5435,21.17,21.12
+Distribuição Amostral da Média (TCL),valor_total_frete,25,-1.5223,21.19,21.14
+Distribuição Amostral da Média (TCL),valor_total_frete,26,-1.5018,21.2,21.16
+Distribuição Amostral da Média (TCL),valor_total_frete,27,-1.4818,21.2,21.18
+Distribuição Amostral da Média (TCL),valor_total_frete,28,-1.4625,21.22,21.2
+Distribuição Amostral da Média (TCL),valor_total_frete,29,-1.4437,21.23,21.22
+Distribuição Amostral da Média (TCL),valor_total_frete,30,-1.4254,21.25,21.24
+Distribuição Amostral da Média (TCL),valor_total_frete,31,-1.4075,21.26,21.26
+Distribuição Amostral da Média (TCL),valor_total_frete,32,-1.3901,21.26,21.27
+Distribuição Amostral da Média (TCL),valor_total_frete,33,-1.3731,21.28,21.29
+Distribuição Amostral da Média (TCL),valor_total_frete,34,-1.3565,21.29,21.31
+Distribuição Amostral da Média (TCL),valor_total_frete,35,-1.3403,21.3,21.33
+Distribuição Amostral da Média (TCL),valor_total_frete,36,-1.3244,21.33,21.34
+Distribuição Amostral da Média (TCL),valor_total_frete,37,-1.3088,21.33,21.36
+Distribuição Amostral da Média (TCL),valor_total_frete,38,-1.2935,21.35,21.37
+Distribuição Amostral da Média (TCL),valor_total_frete,39,-1.2786,21.37,21.39
+Distribuição Amostral da Média (TCL),valor_total_frete,40,-1.2639,21.37,21.4
+Distribuição Amostral da Média (TCL),valor_total_frete,41,-1.2495,21.39,21.42
+Distribuição Amostral da Média (TCL),valor_total_frete,42,-1.2353,21.39,21.43
+Distribuição Amostral da Média (TCL),valor_total_frete,43,-1.2214,21.4,21.45
+Distribuição Amostral da Média (TCL),valor_total_frete,44,-1.2077,21.4,21.46
+Distribuição Amostral da Média (TCL),valor_total_frete,45,-1.1943,21.42,21.47
+Distribuição Amostral da Média (TCL),valor_total_frete,46,-1.181,21.44,21.49
+Distribuição Amostral da Média (TCL),valor_total_frete,47,-1.168,21.45,21.5
+Distribuição Amostral da Média (TCL),valor_total_frete,48,-1.1551,21.49,21.51
+Distribuição Amostral da Média (TCL),valor_total_frete,49,-1.1425,21.5,21.53
+Distribuição Amostral da Média (TCL),valor_total_frete,50,-1.13,21.51,21.54
+Distribuição Amostral da Média (TCL),valor_total_frete,51,-1.1177,21.53,21.55
+Distribuição Amostral da Média (TCL),valor_total_frete,52,-1.1055,21.53,21.57
+Distribuição Amostral da Média (TCL),valor_total_frete,53,-1.0936,21.54,21.58
+Distribuição Amostral da Média (TCL),valor_total_frete,54,-1.0817,21.55,21.59
+Distribuição Amostral da Média (TCL),valor_total_frete,55,-1.0701,21.56,21.6
+Distribuição Amostral da Média (TCL),valor_total_frete,56,-1.0585,21.56,21.61
+Distribuição Amostral da Média (TCL),valor_total_frete,57,-1.0471,21.57,21.63
+Distribuição Amostral da Média (TCL),valor_total_frete,58,-1.0359,21.57,21.64
+Distribuição Amostral da Média (TCL),valor_total_frete,59,-1.0247,21.59,21.65
+Distribuição Amostral da Média (TCL),valor_total_frete,60,-1.0137,21.6,21.66
+Distribuição Amostral da Média (TCL),valor_total_frete,61,-1.0029,21.61,21.67
+Distribuição Amostral da Média (TCL),valor_total_frete,62,-0.9921,21.61,21.68
+Distribuição Amostral da Média (TCL),valor_total_frete,63,-0.9815,21.61,21.69
+Distribuição Amostral da Média (TCL),valor_total_frete,64,-0.9709,21.63,21.7
+Distribuição Amostral da Média (TCL),valor_total_frete,65,-0.9605,21.63,21.71
+Distribuição Amostral da Média (TCL),valor_total_frete,66,-0.9501,21.65,21.72
+Distribuição Amostral da Média (TCL),valor_total_frete,67,-0.9399,21.66,21.74
+Distribuição Amostral da Média (TCL),valor_total_frete,68,-0.9298,21.67,21.75
+Distribuição Amostral da Média (TCL),valor_total_frete,69,-0.9198,21.68,21.76
+Distribuição Amostral da Média (TCL),valor_total_frete,70,-0.9098,21.7,21.77
+Distribuição Amostral da Média (TCL),valor_total_frete,71,-0.9,21.73,21.78
+Distribuição Amostral da Média (TCL),valor_total_frete,72,-0.8902,21.74,21.79
+Distribuição Amostral da Média (TCL),valor_total_frete,73,-0.8805,21.75,21.8
+Distribuição Amostral da Média (TCL),valor_total_frete,74,-0.8709,21.76,21.81
+Distribuição Amostral da Média (TCL),valor_total_frete,75,-0.8614,21.78,21.82
+Distribuição Amostral da Média (TCL),valor_total_frete,76,-0.8519,21.79,21.83
+Distribuição Amostral da Média (TCL),valor_total_frete,77,-0.8426,21.8,21.84
+Distribuição Amostral da Média (TCL),valor_total_frete,78,-0.8333,21.81,21.84
+Distribuição Amostral da Média (TCL),valor_total_frete,79,-0.824,21.81,21.85
+Distribuição Amostral da Média (TCL),valor_total_frete,80,-0.8149,21.82,21.86
+Distribuição Amostral da Média (TCL),valor_total_frete,81,-0.8058,21.83,21.87
+Distribuição Amostral da Média (TCL),valor_total_frete,82,-0.7968,21.86,21.88
+Distribuição Amostral da Média (TCL),valor_total_frete,83,-0.7878,21.86,21.89
+Distribuição Amostral da Média (TCL),valor_total_frete,84,-0.7789,21.88,21.9
+Distribuição Amostral da Média (TCL),valor_total_frete,85,-0.7701,21.89,21.91
+Distribuição Amostral da Média (TCL),valor_total_frete,86,-0.7613,21.9,21.92
+Distribuição Amostral da Média (TCL),valor_total_frete,87,-0.7526,21.9,21.93
+Distribuição Amostral da Média (TCL),valor_total_frete,88,-0.7439,21.91,21.94
+Distribuição Amostral da Média (TCL),valor_total_frete,89,-0.7353,21.93,21.95
+Distribuição Amostral da Média (TCL),valor_total_frete,90,-0.7268,21.93,21.95
+Distribuição Amostral da Média (TCL),valor_total_frete,91,-0.7183,21.93,21.96
+Distribuição Amostral da Média (TCL),valor_total_frete,92,-0.7098,21.95,21.97
+Distribuição Amostral da Média (TCL),valor_total_frete,93,-0.7014,21.96,21.98
+Distribuição Amostral da Média (TCL),valor_total_frete,94,-0.6931,21.97,21.99
+Distribuição Amostral da Média (TCL),valor_total_frete,95,-0.6848,21.99,22.0
+Distribuição Amostral da Média (TCL),valor_total_frete,96,-0.6765,22.0,22.01
+Distribuição Amostral da Média (TCL),valor_total_frete,97,-0.6683,22.01,22.01
+Distribuição Amostral da Média (TCL),valor_total_frete,98,-0.6602,22.02,22.02
+Distribuição Amostral da Média (TCL),valor_total_frete,99,-0.6521,22.03,22.03
+Distribuição Amostral da Média (TCL),valor_total_frete,100,-0.644,22.04,22.04
+Distribuição Amostral da Média (TCL),valor_total_frete,101,-0.636,22.04,22.05
+Distribuição Amostral da Média (TCL),valor_total_frete,102,-0.628,22.05,22.06
+Distribuição Amostral da Média (TCL),valor_total_frete,103,-0.62,22.06,22.06
+Distribuição Amostral da Média (TCL),valor_total_frete,104,-0.6121,22.06,22.07
+Distribuição Amostral da Média (TCL),valor_total_frete,105,-0.6042,22.07,22.08
+Distribuição Amostral da Média (TCL),valor_total_frete,106,-0.5964,22.07,22.09
+Distribuição Amostral da Média (TCL),valor_total_frete,107,-0.5886,22.08,22.1
+Distribuição Amostral da Média (TCL),valor_total_frete,108,-0.5808,22.09,22.1
+Distribuição Amostral da Média (TCL),valor_total_frete,109,-0.5731,22.1,22.11
+Distribuição Amostral da Média (TCL),valor_total_frete,110,-0.5654,22.1,22.12
+Distribuição Amostral da Média (TCL),valor_total_frete,111,-0.5577,22.11,22.13
+Distribuição Amostral da Média (TCL),valor_total_frete,112,-0.5501,22.13,22.13
+Distribuição Amostral da Média (TCL),valor_total_frete,113,-0.5425,22.13,22.14
+Distribuição Amostral da Média (TCL),valor_total_frete,114,-0.5349,22.15,22.15
+Distribuição Amostral da Média (TCL),valor_total_frete,115,-0.5274,22.15,22.16
+Distribuição Amostral da Média (TCL),valor_total_frete,116,-0.5199,22.16,22.17
+Distribuição Amostral da Média (TCL),valor_total_frete,117,-0.5124,22.16,22.17
+Distribuição Amostral da Média (TCL),valor_total_frete,118,-0.505,22.16,22.18
+Distribuição Amostral da Média (TCL),valor_total_frete,119,-0.4976,22.17,22.19
+Distribuição Amostral da Média (TCL),valor_total_frete,120,-0.4902,22.18,22.2
+Distribuição Amostral da Média (TCL),valor_total_frete,121,-0.4828,22.19,22.2
+Distribuição Amostral da Média (TCL),valor_total_frete,122,-0.4755,22.2,22.21
+Distribuição Amostral da Média (TCL),valor_total_frete,123,-0.4681,22.2,22.22
+Distribuição Amostral da Média (TCL),valor_total_frete,124,-0.4608,22.2,22.23
+Distribuição Amostral da Média (TCL),valor_total_frete,125,-0.4536,22.21,22.23
+Distribuição Amostral da Média (TCL),valor_total_frete,126,-0.4463,22.21,22.24
+Distribuição Amostral da Média (TCL),valor_total_frete,127,-0.4391,22.22,22.25
+Distribuição Amostral da Média (TCL),valor_total_frete,128,-0.4319,22.23,22.26
+Distribuição Amostral da Média (TCL),valor_total_frete,129,-0.4248,22.23,22.26
+Distribuição Amostral da Média (TCL),valor_total_frete,130,-0.4176,22.24,22.27
+Distribuição Amostral da Média (TCL),valor_total_frete,131,-0.4105,22.24,22.28
+Distribuição Amostral da Média (TCL),valor_total_frete,132,-0.4034,22.26,22.29
+Distribuição Amostral da Média (TCL),valor_total_frete,133,-0.3963,22.27,22.29
+Distribuição Amostral da Média (TCL),valor_total_frete,134,-0.3892,22.27,22.3
+Distribuição Amostral da Média (TCL),valor_total_frete,135,-0.3822,22.28,22.31
+Distribuição Amostral da Média (TCL),valor_total_frete,136,-0.3751,22.29,22.31
+Distribuição Amostral da Média (TCL),valor_total_frete,137,-0.3681,22.29,22.32
+Distribuição Amostral da Média (TCL),valor_total_frete,138,-0.3611,22.3,22.33
+Distribuição Amostral da Média (TCL),valor_total_frete,139,-0.3541,22.3,22.34
+Distribuição Amostral da Média (TCL),valor_total_frete,140,-0.3472,22.31,22.34
+Distribuição Amostral da Média (TCL),valor_total_frete,141,-0.3402,22.32,22.35
+Distribuição Amostral da Média (TCL),valor_total_frete,142,-0.3333,22.32,22.36
+Distribuição Amostral da Média (TCL),valor_total_frete,143,-0.3264,22.33,22.36
+Distribuição Amostral da Média (TCL),valor_total_frete,144,-0.3195,22.34,22.37
+Distribuição Amostral da Média (TCL),valor_total_frete,145,-0.3126,22.34,22.38
+Distribuição Amostral da Média (TCL),valor_total_frete,146,-0.3058,22.34,22.39
+Distribuição Amostral da Média (TCL),valor_total_frete,147,-0.2989,22.35,22.39
+Distribuição Amostral da Média (TCL),valor_total_frete,148,-0.2921,22.36,22.4
+Distribuição Amostral da Média (TCL),valor_total_frete,149,-0.2852,22.37,22.41
+Distribuição Amostral da Média (TCL),valor_total_frete,150,-0.2784,22.37,22.41
+Distribuição Amostral da Média (TCL),valor_total_frete,151,-0.2716,22.38,22.42
+Distribuição Amostral da Média (TCL),valor_total_frete,152,-0.2649,22.39,22.43
+Distribuição Amostral da Média (TCL),valor_total_frete,153,-0.2581,22.39,22.43
+Distribuição Amostral da Média (TCL),valor_total_frete,154,-0.2513,22.4,22.44
+Distribuição Amostral da Média (TCL),valor_total_frete,155,-0.2446,22.4,22.45
+Distribuição Amostral da Média (TCL),valor_total_frete,156,-0.2378,22.41,22.46
+Distribuição Amostral da Média (TCL),valor_total_frete,157,-0.2311,22.42,22.46
+Distribuição Amostral da Média (TCL),valor_total_frete,158,-0.2244,22.42,22.47
+Distribuição Amostral da Média (TCL),valor_total_frete,159,-0.2177,22.44,22.48
+Distribuição Amostral da Média (TCL),valor_total_frete,160,-0.211,22.44,22.48
+Distribuição Amostral da Média (TCL),valor_total_frete,161,-0.2043,22.45,22.49
+Distribuição Amostral da Média (TCL),valor_total_frete,162,-0.1976,22.45,22.5
+Distribuição Amostral da Média (TCL),valor_total_frete,163,-0.191,22.46,22.5
+Distribuição Amostral da Média (TCL),valor_total_frete,164,-0.1843,22.46,22.51
+Distribuição Amostral da Média (TCL),valor_total_frete,165,-0.1776,22.48,22.52
+Distribuição Amostral da Média (TCL),valor_total_frete,166,-0.171,22.49,22.52
+Distribuição Amostral da Média (TCL),valor_total_frete,167,-0.1644,22.49,22.53
+Distribuição Amostral da Média (TCL),valor_total_frete,168,-0.1577,22.5,22.54
+Distribuição Amostral da Média (TCL),valor_total_frete,169,-0.1511,22.5,22.54
+Distribuição Amostral da Média (TCL),valor_total_frete,170,-0.1445,22.5,22.55
+Distribuição Amostral da Média (TCL),valor_total_frete,171,-0.1379,22.51,22.56
+Distribuição Amostral da Média (TCL),valor_total_frete,172,-0.1313,22.51,22.56
+Distribuição Amostral da Média (TCL),valor_total_frete,173,-0.1247,22.52,22.57
+Distribuição Amostral da Média (TCL),valor_total_frete,174,-0.1181,22.52,22.58
+Distribuição Amostral da Média (TCL),valor_total_frete,175,-0.1115,22.52,22.58
+Distribuição Amostral da Média (TCL),valor_total_frete,176,-0.1049,22.53,22.59
+Distribuição Amostral da Média (TCL),valor_total_frete,177,-0.0983,22.54,22.6
+Distribuição Amostral da Média (TCL),valor_total_frete,178,-0.0918,22.54,22.6
+Distribuição Amostral da Média (TCL),valor_total_frete,179,-0.0852,22.55,22.61
+Distribuição Amostral da Média (TCL),valor_total_frete,180,-0.0786,22.56,22.62
+Distribuição Amostral da Média (TCL),valor_total_frete,181,-0.0721,22.56,22.62
+Distribuição Amostral da Média (TCL),valor_total_frete,182,-0.0655,22.57,22.63
+Distribuição Amostral da Média (TCL),valor_total_frete,183,-0.0589,22.58,22.64
+Distribuição Amostral da Média (TCL),valor_total_frete,184,-0.0524,22.59,22.65
+Distribuição Amostral da Média (TCL),valor_total_frete,185,-0.0458,22.6,22.65
+Distribuição Amostral da Média (TCL),valor_total_frete,186,-0.0393,22.6,22.66
+Distribuição Amostral da Média (TCL),valor_total_frete,187,-0.0327,22.61,22.67
+Distribuição Amostral da Média (TCL),valor_total_frete,188,-0.0262,22.61,22.67
+Distribuição Amostral da Média (TCL),valor_total_frete,189,-0.0196,22.62,22.68
+Distribuição Amostral da Média (TCL),valor_total_frete,190,-0.0131,22.62,22.69
+Distribuição Amostral da Média (TCL),valor_total_frete,191,-0.0065,22.63,22.69
+Distribuição Amostral da Média (TCL),valor_total_frete,192,-0.0,22.63,22.7
+Distribuição Amostral da Média (TCL),valor_total_frete,193,0.0065,22.64,22.71
+Distribuição Amostral da Média (TCL),valor_total_frete,194,0.0131,22.65,22.71
+Distribuição Amostral da Média (TCL),valor_total_frete,195,0.0196,22.66,22.72
+Distribuição Amostral da Média (TCL),valor_total_frete,196,0.0262,22.67,22.73
+Distribuição Amostral da Média (TCL),valor_total_frete,197,0.0327,22.67,22.73
+Distribuição Amostral da Média (TCL),valor_total_frete,198,0.0393,22.68,22.74
+Distribuição Amostral da Média (TCL),valor_total_frete,199,0.0458,22.69,22.75
+Distribuição Amostral da Média (TCL),valor_total_frete,200,0.0524,22.7,22.75
+Distribuição Amostral da Média (TCL),valor_total_frete,201,0.0589,22.7,22.76
+Distribuição Amostral da Média (TCL),valor_total_frete,202,0.0655,22.72,22.77
+Distribuição Amostral da Média (TCL),valor_total_frete,203,0.0721,22.72,22.77
+Distribuição Amostral da Média (TCL),valor_total_frete,204,0.0786,22.73,22.78
+Distribuição Amostral da Média (TCL),valor_total_frete,205,0.0852,22.74,22.79
+Distribuição Amostral da Média (TCL),valor_total_frete,206,0.0918,22.76,22.79
+Distribuição Amostral da Média (TCL),valor_total_frete,207,0.0983,22.77,22.8
+Distribuição Amostral da Média (TCL),valor_total_frete,208,0.1049,22.78,22.81
+Distribuição Amostral da Média (TCL),valor_total_frete,209,0.1115,22.79,22.81
+Distribuição Amostral da Média (TCL),valor_total_frete,210,0.1181,22.8,22.82
+Distribuição Amostral da Média (TCL),valor_total_frete,211,0.1247,22.8,22.83
+Distribuição Amostral da Média (TCL),valor_total_frete,212,0.1313,22.81,22.83
+Distribuição Amostral da Média (TCL),valor_total_frete,213,0.1379,22.83,22.84
+Distribuição Amostral da Média (TCL),valor_total_frete,214,0.1445,22.84,22.85
+Distribuição Amostral da Média (TCL),valor_total_frete,215,0.1511,22.84,22.85
+Distribuição Amostral da Média (TCL),valor_total_frete,216,0.1577,22.84,22.86
+Distribuição Amostral da Média (TCL),valor_total_frete,217,0.1644,22.85,22.87
+Distribuição Amostral da Média (TCL),valor_total_frete,218,0.171,22.86,22.87
+Distribuição Amostral da Média (TCL),valor_total_frete,219,0.1776,22.86,22.88
+Distribuição Amostral da Média (TCL),valor_total_frete,220,0.1843,22.87,22.89
+Distribuição Amostral da Média (TCL),valor_total_frete,221,0.191,22.87,22.89
+Distribuição Amostral da Média (TCL),valor_total_frete,222,0.1976,22.88,22.9
+Distribuição Amostral da Média (TCL),valor_total_frete,223,0.2043,22.88,22.91
+Distribuição Amostral da Média (TCL),valor_total_frete,224,0.211,22.89,22.91
+Distribuição Amostral da Média (TCL),valor_total_frete,225,0.2177,22.89,22.92
+Distribuição Amostral da Média (TCL),valor_total_frete,226,0.2244,22.9,22.93
+Distribuição Amostral da Média (TCL),valor_total_frete,227,0.2311,22.9,22.94
+Distribuição Amostral da Média (TCL),valor_total_frete,228,0.2378,22.91,22.94
+Distribuição Amostral da Média (TCL),valor_total_frete,229,0.2446,22.92,22.95
+Distribuição Amostral da Média (TCL),valor_total_frete,230,0.2513,22.93,22.96
+Distribuição Amostral da Média (TCL),valor_total_frete,231,0.2581,22.93,22.96
+Distribuição Amostral da Média (TCL),valor_total_frete,232,0.2649,22.93,22.97
+Distribuição Amostral da Média (TCL),valor_total_frete,233,0.2716,22.95,22.98
+Distribuição Amostral da Média (TCL),valor_total_frete,234,0.2784,22.96,22.98
+Distribuição Amostral da Média (TCL),valor_total_frete,235,0.2852,22.96,22.99
+Distribuição Amostral da Média (TCL),valor_total_frete,236,0.2921,22.97,23.0
+Distribuição Amostral da Média (TCL),valor_total_frete,237,0.2989,22.98,23.01
+Distribuição Amostral da Média (TCL),valor_total_frete,238,0.3058,22.99,23.01
+Distribuição Amostral da Média (TCL),valor_total_frete,239,0.3126,23.0,23.02
+Distribuição Amostral da Média (TCL),valor_total_frete,240,0.3195,23.0,23.03
+Distribuição Amostral da Média (TCL),valor_total_frete,241,0.3264,23.01,23.03
+Distribuição Amostral da Média (TCL),valor_total_frete,242,0.3333,23.01,23.04
+Distribuição Amostral da Média (TCL),valor_total_frete,243,0.3402,23.04,23.05
+Distribuição Amostral da Média (TCL),valor_total_frete,244,0.3472,23.04,23.05
+Distribuição Amostral da Média (TCL),valor_total_frete,245,0.3541,23.04,23.06
+Distribuição Amostral da Média (TCL),valor_total_frete,246,0.3611,23.05,23.07
+Distribuição Amostral da Média (TCL),valor_total_frete,247,0.3681,23.06,23.08
+Distribuição Amostral da Média (TCL),valor_total_frete,248,0.3751,23.07,23.08
+Distribuição Amostral da Média (TCL),valor_total_frete,249,0.3822,23.07,23.09
+Distribuição Amostral da Média (TCL),valor_total_frete,250,0.3892,23.08,23.1
+Distribuição Amostral da Média (TCL),valor_total_frete,251,0.3963,23.08,23.1
+Distribuição Amostral da Média (TCL),valor_total_frete,252,0.4034,23.09,23.11
+Distribuição Amostral da Média (TCL),valor_total_frete,253,0.4105,23.1,23.12
+Distribuição Amostral da Média (TCL),valor_total_frete,254,0.4176,23.11,23.13
+Distribuição Amostral da Média (TCL),valor_total_frete,255,0.4248,23.11,23.13
+Distribuição Amostral da Média (TCL),valor_total_frete,256,0.4319,23.11,23.14
+Distribuição Amostral da Média (TCL),valor_total_frete,257,0.4391,23.12,23.15
+Distribuição Amostral da Média (TCL),valor_total_frete,258,0.4463,23.13,23.16
+Distribuição Amostral da Média (TCL),valor_total_frete,259,0.4536,23.15,23.16
+Distribuição Amostral da Média (TCL),valor_total_frete,260,0.4608,23.16,23.17
+Distribuição Amostral da Média (TCL),valor_total_frete,261,0.4681,23.17,23.18
+Distribuição Amostral da Média (TCL),valor_total_frete,262,0.4755,23.17,23.19
+Distribuição Amostral da Média (TCL),valor_total_frete,263,0.4828,23.18,23.19
+Distribuição Amostral da Média (TCL),valor_total_frete,264,0.4902,23.2,23.2
+Distribuição Amostral da Média (TCL),valor_total_frete,265,0.4976,23.21,23.21
+Distribuição Amostral da Média (TCL),valor_total_frete,266,0.505,23.21,23.22
+Distribuição Amostral da Média (TCL),valor_total_frete,267,0.5124,23.22,23.22
+Distribuição Amostral da Média (TCL),valor_total_frete,268,0.5199,23.23,23.23
+Distribuição Amostral da Média (TCL),valor_total_frete,269,0.5274,23.23,23.24
+Distribuição Amostral da Média (TCL),valor_total_frete,270,0.5349,23.24,23.25
+Distribuição Amostral da Média (TCL),valor_total_frete,271,0.5425,23.24,23.25
+Distribuição Amostral da Média (TCL),valor_total_frete,272,0.5501,23.24,23.26
+Distribuição Amostral da Média (TCL),valor_total_frete,273,0.5577,23.25,23.27
+Distribuição Amostral da Média (TCL),valor_total_frete,274,0.5654,23.26,23.28
+Distribuição Amostral da Média (TCL),valor_total_frete,275,0.5731,23.26,23.29
+Distribuição Amostral da Média (TCL),valor_total_frete,276,0.5808,23.27,23.29
+Distribuição Amostral da Média (TCL),valor_total_frete,277,0.5886,23.28,23.3
+Distribuição Amostral da Média (TCL),valor_total_frete,278,0.5964,23.29,23.31
+Distribuição Amostral da Média (TCL),valor_total_frete,279,0.6042,23.29,23.32
+Distribuição Amostral da Média (TCL),valor_total_frete,280,0.6121,23.3,23.33
+Distribuição Amostral da Média (TCL),valor_total_frete,281,0.62,23.32,23.33
+Distribuição Amostral da Média (TCL),valor_total_frete,282,0.628,23.33,23.34
+Distribuição Amostral da Média (TCL),valor_total_frete,283,0.636,23.33,23.35
+Distribuição Amostral da Média (TCL),valor_total_frete,284,0.644,23.34,23.36
+Distribuição Amostral da Média (TCL),valor_total_frete,285,0.6521,23.35,23.37
+Distribuição Amostral da Média (TCL),valor_total_frete,286,0.6602,23.37,23.38
+Distribuição Amostral da Média (TCL),valor_total_frete,287,0.6683,23.39,23.38
+Distribuição Amostral da Média (TCL),valor_total_frete,288,0.6765,23.39,23.39
+Distribuição Amostral da Média (TCL),valor_total_frete,289,0.6848,23.4,23.4
+Distribuição Amostral da Média (TCL),valor_total_frete,290,0.6931,23.41,23.41
+Distribuição Amostral da Média (TCL),valor_total_frete,291,0.7014,23.41,23.42
+Distribuição Amostral da Média (TCL),valor_total_frete,292,0.7098,23.43,23.43
+Distribuição Amostral da Média (TCL),valor_total_frete,293,0.7183,23.44,23.43
+Distribuição Amostral da Média (TCL),valor_total_frete,294,0.7268,23.45,23.44
+Distribuição Amostral da Média (TCL),valor_total_frete,295,0.7353,23.45,23.45
+Distribuição Amostral da Média (TCL),valor_total_frete,296,0.7439,23.46,23.46
+Distribuição Amostral da Média (TCL),valor_total_frete,297,0.7526,23.46,23.47
+Distribuição Amostral da Média (TCL),valor_total_frete,298,0.7613,23.46,23.48
+Distribuição Amostral da Média (TCL),valor_total_frete,299,0.7701,23.47,23.49
+Distribuição Amostral da Média (TCL),valor_total_frete,300,0.7789,23.48,23.5
+Distribuição Amostral da Média (TCL),valor_total_frete,301,0.7878,23.5,23.51
+Distribuição Amostral da Média (TCL),valor_total_frete,302,0.7968,23.51,23.52
+Distribuição Amostral da Média (TCL),valor_total_frete,303,0.8058,23.53,23.52
+Distribuição Amostral da Média (TCL),valor_total_frete,304,0.8149,23.55,23.53
+Distribuição Amostral da Média (TCL),valor_total_frete,305,0.824,23.56,23.54
+Distribuição Amostral da Média (TCL),valor_total_frete,306,0.8333,23.56,23.55
+Distribuição Amostral da Média (TCL),valor_total_frete,307,0.8426,23.57,23.56
+Distribuição Amostral da Média (TCL),valor_total_frete,308,0.8519,23.57,23.57
+Distribuição Amostral da Média (TCL),valor_total_frete,309,0.8614,23.58,23.58
+Distribuição Amostral da Média (TCL),valor_total_frete,310,0.8709,23.6,23.59
+Distribuição Amostral da Média (TCL),valor_total_frete,311,0.8805,23.62,23.6
+Distribuição Amostral da Média (TCL),valor_total_frete,312,0.8902,23.65,23.61
+Distribuição Amostral da Média (TCL),valor_total_frete,313,0.9,23.65,23.62
+Distribuição Amostral da Média (TCL),valor_total_frete,314,0.9098,23.66,23.63
+Distribuição Amostral da Média (TCL),valor_total_frete,315,0.9198,23.68,23.64
+Distribuição Amostral da Média (TCL),valor_total_frete,316,0.9298,23.69,23.65
+Distribuição Amostral da Média (TCL),valor_total_frete,317,0.9399,23.7,23.66
+Distribuição Amostral da Média (TCL),valor_total_frete,318,0.9501,23.7,23.67
+Distribuição Amostral da Média (TCL),valor_total_frete,319,0.9605,23.72,23.68
+Distribuição Amostral da Média (TCL),valor_total_frete,320,0.9709,23.73,23.69
+Distribuição Amostral da Média (TCL),valor_total_frete,321,0.9815,23.74,23.7
+Distribuição Amostral da Média (TCL),valor_total_frete,322,0.9921,23.75,23.72
+Distribuição Amostral da Média (TCL),valor_total_frete,323,1.0029,23.79,23.73
+Distribuição Amostral da Média (TCL),valor_total_frete,324,1.0137,23.81,23.74
+Distribuição Amostral da Média (TCL),valor_total_frete,325,1.0247,23.81,23.75
+Distribuição Amostral da Média (TCL),valor_total_frete,326,1.0359,23.83,23.76
+Distribuição Amostral da Média (TCL),valor_total_frete,327,1.0471,23.83,23.77
+Distribuição Amostral da Média (TCL),valor_total_frete,328,1.0585,23.84,23.78
+Distribuição Amostral da Média (TCL),valor_total_frete,329,1.0701,23.85,23.8
+Distribuição Amostral da Média (TCL),valor_total_frete,330,1.0817,23.85,23.81
+Distribuição Amostral da Média (TCL),valor_total_frete,331,1.0936,23.87,23.82
+Distribuição Amostral da Média (TCL),valor_total_frete,332,1.1055,23.88,23.83
+Distribuição Amostral da Média (TCL),valor_total_frete,333,1.1177,23.88,23.84
+Distribuição Amostral da Média (TCL),valor_total_frete,334,1.13,23.91,23.86
+Distribuição Amostral da Média (TCL),valor_total_frete,335,1.1425,23.93,23.87
+Distribuição Amostral da Média (TCL),valor_total_frete,336,1.1551,23.94,23.88
+Distribuição Amostral da Média (TCL),valor_total_frete,337,1.168,23.98,23.9
+Distribuição Amostral da Média (TCL),valor_total_frete,338,1.181,24.0,23.91
+Distribuição Amostral da Média (TCL),valor_total_frete,339,1.1943,24.02,23.92
+Distribuição Amostral da Média (TCL),valor_total_frete,340,1.2077,24.04,23.94
+Distribuição Amostral da Média (TCL),valor_total_frete,341,1.2214,24.05,23.95
+Distribuição Amostral da Média (TCL),valor_total_frete,342,1.2353,24.07,23.96
+Distribuição Amostral da Média (TCL),valor_total_frete,343,1.2495,24.12,23.98
+Distribuição Amostral da Média (TCL),valor_total_frete,344,1.2639,24.13,23.99
+Distribuição Amostral da Média (TCL),valor_total_frete,345,1.2786,24.15,24.01
+Distribuição Amostral da Média (TCL),valor_total_frete,346,1.2935,24.16,24.02
+Distribuição Amostral da Média (TCL),valor_total_frete,347,1.3088,24.17,24.04
+Distribuição Amostral da Média (TCL),valor_total_frete,348,1.3244,24.18,24.06
+Distribuição Amostral da Média (TCL),valor_total_frete,349,1.3403,24.21,24.07
+Distribuição Amostral da Média (TCL),valor_total_frete,350,1.3565,24.25,24.09
+Distribuição Amostral da Média (TCL),valor_total_frete,351,1.3731,24.29,24.11
+Distribuição Amostral da Média (TCL),valor_total_frete,352,1.3901,24.34,24.12
+Distribuição Amostral da Média (TCL),valor_total_frete,353,1.4075,24.37,24.14
+Distribuição Amostral da Média (TCL),valor_total_frete,354,1.4254,24.41,24.16
+Distribuição Amostral da Média (TCL),valor_total_frete,355,1.4437,24.44,24.18
+Distribuição Amostral da Média (TCL),valor_total_frete,356,1.4625,24.46,24.2
+Distribuição Amostral da Média (TCL),valor_total_frete,357,1.4818,24.49,24.22
+Distribuição Amostral da Média (TCL),valor_total_frete,358,1.5018,24.51,24.24
+Distribuição Amostral da Média (TCL),valor_total_frete,359,1.5223,24.53,24.26
+Distribuição Amostral da Média (TCL),valor_total_frete,360,1.5435,24.55,24.28
+Distribuição Amostral da Média (TCL),valor_total_frete,361,1.5654,24.56,24.3
+Distribuição Amostral da Média (TCL),valor_total_frete,362,1.5881,24.58,24.33
+Distribuição Amostral da Média (TCL),valor_total_frete,363,1.6116,24.58,24.35
+Distribuição Amostral da Média (TCL),valor_total_frete,364,1.6361,24.61,24.38
+Distribuição Amostral da Média (TCL),valor_total_frete,365,1.6615,24.67,24.4
+Distribuição Amostral da Média (TCL),valor_total_frete,366,1.6881,24.71,24.43
+Distribuição Amostral da Média (TCL),valor_total_frete,367,1.716,24.73,24.46
+Distribuição Amostral da Média (TCL),valor_total_frete,368,1.7453,24.8,24.49
+Distribuição Amostral da Média (TCL),valor_total_frete,369,1.7761,24.83,24.52
+Distribuição Amostral da Média (TCL),valor_total_frete,370,1.8087,24.84,24.55
+Distribuição Amostral da Média (TCL),valor_total_frete,371,1.8434,24.87,24.59
+Distribuição Amostral da Média (TCL),valor_total_frete,372,1.8804,24.9,24.63
+Distribuição Amostral da Média (TCL),valor_total_frete,373,1.9202,25.04,24.67
+Distribuição Amostral da Média (TCL),valor_total_frete,374,1.9633,25.17,24.71
+Distribuição Amostral da Média (TCL),valor_total_frete,375,2.0104,25.21,24.76
+Distribuição Amostral da Média (TCL),valor_total_frete,376,2.0625,25.31,24.81
+Distribuição Amostral da Média (TCL),valor_total_frete,377,2.1208,25.46,24.87
+Distribuição Amostral da Média (TCL),valor_total_frete,378,2.1873,25.56,24.94
+Distribuição Amostral da Média (TCL),valor_total_frete,379,2.2652,25.73,25.02
+Distribuição Amostral da Média (TCL),valor_total_frete,380,2.36,25.97,25.12
+Distribuição Amostral da Média (TCL),valor_total_frete,381,2.4823,26.07,25.24
+Distribuição Amostral da Média (TCL),valor_total_frete,382,2.6592,26.18,25.42
+Distribuição Amostral da Média (TCL),valor_total_frete,383,3.0102,26.81,25.78

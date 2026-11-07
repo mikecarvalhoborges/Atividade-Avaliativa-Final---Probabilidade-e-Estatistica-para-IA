@@ -1,0 +1,5 @@
+﻿variavel_quantitativa,conjunto_dados,quantidade_observacoes,media,mediana,desvio_padrao,variancia,coeficiente_variacao_pct,quartil_1_25pct,quartil_3_75pct,amplitude_interquartil_iqr,minimo,maximo,assimetria_skewness
+valor_total_pago,População (N = 95.808),95808,159.6,105.28,217.53,47317.37,136.3,61.84,176.16,114.32,9.59,13664.08,9.24
+valor_total_pago,Amostra AAS (n = 383),383,166.11,106.21,198.39,39357.18,119.43,57.97,184.06,126.09,18.38,1730.04,3.94
+valor_total_frete,População (N = 95.808),95808,22.76,17.16,21.52,463.29,94.56,13.84,23.99,10.15,0.0,1794.96,12.36
+valor_total_frete,Amostra AAS (n = 383),383,23.12,17.6,18.51,342.73,80.09,14.21,25.63,11.42,0.0,146.21,3.32
